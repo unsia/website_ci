@@ -1,0 +1,51 @@
+.right-line {
+    border-right: 5px #f7b205 solid;
+    height: 2em
+}
+
+.top-line {
+    border-top: 5px #f7b205 solid;
+}
+
+.halved {
+    width: 50%;
+    float: left;
+}
+
+.bor-rad {
+    border-radius: 5px;
+    border: 2px solid #f7b205;
+    padding: 10px;
+}
+
+.h-auto {
+    height: auto;
+}
+
+.bg-box {
+    /* display: block; */
+    background: #ccc;
+    border: 4px solid #fff;
+    text-align: center;
+    overflow: hidden;
+    font-size: .7em;
+    text-decoration: none;
+    font-weight: bold;
+    color: #333;
+    box-shadow: 4px 4px 9px -4px rgba(0, 0, 0, 0.4);
+    -webkit-transition: all linear .1s;
+    -moz-transition: all linear .1s;
+    transition: all linear .1s;
+}
+
+.box-icon {
+    height: 170px;
+}
+
+#pdfjsdua,
+#pdfjssatu {
+    margin-bottom: 32px;
+    width: 100%;
+    height: 700px;
+    border: 1px solid rgba(0, 0, 0, .2);
+}
