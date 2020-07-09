@@ -57,7 +57,7 @@
                                 <tr>
                                     <th>Website</th>
                                     <td><a
-                                            href="https://pmb.lms-usa.site/teknologi-informasi">https://pmb.lms-usa.site/teknologi-informasi</a>
+                                            href="https://unsia.id/teknologi-informasi">https://unsia.id/teknologi-informasi</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -96,7 +96,7 @@
                                 </tr>
                                 <tr>
                                     <th>Pendaftaran</th>
-                                    <td><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar Online</a></td>
+                                    <td><a href="https://akademik.unsia.id/spmbfront/">Daftar Online</a></td>
                                 </tr>
                             </table>
                             <h4>Profil</h4>

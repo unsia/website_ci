@@ -61,8 +61,8 @@
                                 </tr>
                                 <tr>
                                     <th>Website</th>
-                                    <td><a href="https://pmb.lms-usa.site/penyiaran-dan-komunikasi-digital
-">https://pmb.lms-usa.site/penyiaran-dan-komunikasi-digital
+                                    <td><a href="https://unsia.id/penyiaran-dan-komunikasi-digital
+">https://unsia.id/penyiaran-dan-komunikasi-digital
                                         </a></td>
                                 </tr>
                                 <tr>
@@ -101,7 +101,7 @@
                                 </tr>
                                 <tr>
                                     <th>Pendaftaran</th>
-                                    <td><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar Online</a></td>
+                                    <td><a href="https://akademik.unsia.id/spmbfront/">Daftar Online</a></td>
                                 </tr>
                             </table>
                             <h4>Profil</h4>
