@@ -31,22 +31,18 @@
                     <div class="feature-container">
                         <div class="icon-content mb-2">
                             <div class="card mb-3">
-                                <img src="{{ asset('homepages/images/berita/Foto-Berita-3.jpg') }}" class="card-img-top"
+                                <img src="{{ asset('homepages/images/berita/beranda/empat.jpg') }}" class="card-img-top"
                                     alt="Foto-Berita-3">
                                 <div class="card-body">
                                     <ul class="media-post">
-                                        <li><a href="#"><i class="fa fa-calendar"></i>April 16 2020</a></li>
-                                        <li><a href="#"><i class="fa fa-user"></i>By kompasiana</a></li>
+                                        <li><a href="#"><i class="fa fa-calendar"></i>Juli 7, 2020</a></li>
+                                        <li><a href="#"><i class="fa fa-user"></i>By detik.com</a></li>
                                     </ul>
-                                    <h5 class="post-title">Mahasiswa Tetap Kuliah Via Daring di Saat Pandemi Covid-19
+                                    <h5 class="post-title">Pemerintah Siapkan Rp 22 T untuk Kembangkan Pendidikan Berbasis Digital
                                     </h5>
-                                    <p>Pasca merebaknnya pandemi covid-19 pemerintah mengeluarkan kebijakan pembatasan
-                                        sosial bagi seluruh masyarakat Indonesia guna memutus mata rantai penyebaran
-                                        virus covid-19. Sebagai tindak lanjutnya rektor di semua perguruan tinggi di
-                                        Indonesia akhirnya mengeluarkan surat keputusan untuk diberlakukannya aktifitas
-                                        perkuliahan secara daring atau online tidak tatap muka seperti biasanya.</p>
+                                    <p>Jakarta - Pemerintah akan mengembangkan pendidikan berbasis digital di seluruh wilayah. Pemerintah menyiapkan dana sekitar Rp 22 triliun untuk pengembangan tersebut.</p>
                                     <div class="post-extra">
-                                        <a href="https://www.kompasiana.com/gilangswn25/5e987deb097f3629161d51f2/mahasiswa-tetap-kuliah-via-daring-disaat-pandemi-covid-19"
+                                        <a href="https://news.detik.com/berita/d-5084211/pemerintah-siapkan-rp-22-t-untuk-kembangkan-pendidikan-berbasis-digital?_ga=2.41971553.514054976.1594280984-1740682019.1594171764"
                                             class="btn-link">READ MORE</a>
                                     </div>
                                 </div>

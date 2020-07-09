@@ -61,7 +61,7 @@
 
 <body id="bg">
     <div class="page-wraper">
-        <div id="loading-icon-bx"></div>
+        {{-- <div id="loading-icon-bx"></div> --}}
         <!-- Header Top ==== -->
         <header class="header rs-nav header-transparent">
             <div class="top-bar">
@@ -892,6 +892,28 @@
                             <div class="item">
                                 <div class="recent-news">
                                     <div class="action-box">
+                                        <img src="{{ asset('homepages/images/berita/beranda/empat.jpg') }}" alt="">
+                                    </div>
+                                    <div class="info-bx">
+                                        <ul class="media-post">
+                                            <li><a href="#"><i class="fa fa-calendar"></i>Juli 7, 2020</a></li>
+                                            <li><a href="#"><i class="fa fa-user"></i>By detik.com</a></li>
+                                        </ul>
+                                        <h5 class="post-title"><a
+                                                href="https://news.detik.com/berita/d-5084211/pemerintah-siapkan-rp-22-t-untuk-kembangkan-pendidikan-berbasis-digital?_ga=2.41971553.514054976.1594280984-1740682019.1594171764">Pemerintah Siapkan Rp 22 T untuk Kembangkan Pendidikan Berbasis Digital</a></h5>
+                                        <p>Jakarta - Pemerintah akan mengembangkan pendidikan berbasis digital di seluruh wilayah. Pemerintah menyiapkan dana sekitar ...</p>
+                                        <div class="post-extra">
+                                            <a href="https://news.detik.com/berita/d-5084211/pemerintah-siapkan-rp-22-t-untuk-kembangkan-pendidikan-berbasis-digital?_ga=2.41971553.514054976.1594280984-1740682019.1594171764"
+                                                class="btn-link">READ MORE</a>
+                                            {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a> --}}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="recent-news">
+                                    <div class="action-box">
                                         <img src="{{ asset('homepages/images/berita/beranda/satu.jpg') }}" alt="">
                                     </div>
                                     <div class="info-bx">
@@ -982,7 +1004,8 @@
                             <div class="col mb-4">
                                 <div class="card">
                                     <video controls
-                                        src="{{ asset('homepages/images/video/teaservideo1.mp4') }}"></video>
+                                        src="{{ asset('homepages/images/video/teaservideo1.mp4') }}">
+                                    </video>
                                     <div class="card-body">
                                         <h5 class="card-title">Video Teaser Pelatihan</h5>
                                         <p class="card-text">Universitas Siber Asia secara regular atau setiap akhir
