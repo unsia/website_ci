@@ -72,13 +72,13 @@
                                 <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a
                                         Question</a>
                                 </li>
-                                <li><a href="mailto:asiacyberuniv@lms-usa.site"><i
-                                            class="fa fa-envelope-o"></i>asiacyberuniv@lms-usa.site</a>
+                                <li><a href="mailto:asiacyberuni@gmail.com"><i
+                                            class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a>
                                 </li>
-                                <li><a href="http://lms-usa.site/webmail" target="_blank"><i
+                                {{-- <li><a href="http://lms-usa.site/webmail" target="_blank"><i
                                             class="fa fa-envelope-open-o"></i>Web
                                         Mail</a>
-                                </li>
+                                </li> --}}
                             </ul>
                         </div>
                         <div class="topbar-right">
@@ -120,9 +120,6 @@
                                                 class="fa fa-instagram"></i></a>
                                     </li>
                                     <li><a href="javascript:;" class="btn-link" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                                    <!-- Search Button ==== -->
-                                    <li class="search-btn"><button id="quik-search-btn" type="button"
-                                            class="btn-link"><i class="fa fa-search"></i></button></li>
                                 </ul>
                             </div>
                         </div>
@@ -170,7 +167,7 @@
                                                 <li><a href="{{ route('landing.admission_info') }}">Persyaratan
                                                         Pendaftaran</a></li>
                                                 <li><a href="#">Periode Pendaftaran</a></li>
-                                                <li><a href="http://portal.koreaswt.com/apply/index.jsp" target="_blank">Daftar</a></li>
+                                                <li><a href="https://akademik.unsia.id/spmbfront/" target="_blank">Daftar</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya
@@ -219,7 +216,7 @@
                                                 Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
-                                        <li><a href="http://lms.unsia.id/" target="_blank">Sistem Pembelajaran
+                                        <li><a href="http://kuliah.unsia.id/" target="_blank">Sistem Pembelajaran
                                                 Online</a>
                                         </li>
                                         <li><a href="http://akademik.unsia.id/" target="_blank">Sistem Informasi
@@ -636,7 +633,7 @@
                                     style="background-color : white; padding : 24px;">
                                     <div class="row d-flex justify-content-center">
                                         <div class="link-web">
-                                            <a href="http://portal.koreaswt.com/portal/login" target="_blank">
+                                            <a href="http://kuliah.unsia.id/login" target="_blank">
                                                 <div class="col mr-2 linklms">
                                                     <div class="text-center mb-5 imglms">
                                                         <img src="{{ asset('homepages/images/icon/academic.png') }}"
@@ -1069,7 +1066,7 @@
                                 </ul>
                             </div>
                             <div class="pt-btn-join">
-                                <a href="http://portal.koreaswt.com/apply/index.jsp" class="btn" target="_blank">Daftar Sekarang</a>
+                                <a href="https://akademik.unsia.id/spmbfront/" class="btn" target="_blank">Daftar Sekarang</a>
                             </div>
                         </div>
                     </div>

@@ -59,7 +59,7 @@
                                 <tr>
                                     <th>Website</th>
                                     <td><a
-                                            href="https://pmb.lms-usa.site/akuntansi-dan-perpajakan">https://pmb.lms-usa.site/akuntansi-dan-perpajakan</a>
+                                            href="https://unsia.id/akuntansi-dan-perpajakan">https://unsia.id/akuntansi-dan-perpajakan</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -98,7 +98,7 @@
                                 </tr>
                                 <tr>
                                     <th>Pendaftaran</th>
-                                    <td><a href="http://portal.koreaswt.com/apply/index.jsp">Daftar Online</a></td>
+                                    <td><a href="https://akademik.unsia.id/spmbfront/">Daftar Online</a></td>
                                 </tr>
                             </table>
                             <h4>Profil</h4>
