@@ -61,7 +61,7 @@
 
 <body id="bg">
     <div class="page-wraper">
-        {{-- <div id="loading-icon-bx"></div> --}}
+        <div id="loading-icon-bx"></div>
         <!-- Header Top ==== -->
         <header class="header rs-nav header-transparent">
             <div class="top-bar">
@@ -182,17 +182,13 @@
                                     <ul class="sub-menu sub">
                                         <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
                                             <ul class="sub-menu">
-                                                <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen
-                                                        Kontemporer</a>
+                                                <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen</a>
                                                 </li>
                                                 <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
-                                                <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a>
+                                                <li><a href="{{ url('/teknologi-informasi') }}">Informatika</a>
                                                 </li>
-                                                <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
-                                                        Perpajakan</a></li>
-                                                <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran
-                                                        dan
-                                                        Komunikasi Digital</a></li>
+                                                <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi</a></li>
+                                                <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Komunikasi</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
@@ -513,13 +509,9 @@
                         <div class="row">
                             <div class="col-md-12 heading-bx left">
                                 <h2 class="title-head">Program <span>Studi</span></h2>
-                                <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan dua Program
+                                <p style="text-align: justify">Universitas Siber Asia telah mempersiapkan lima Program
                                     Studi Strata 1
-                                    (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen Kontemporer dan
-                                    Sistem Informasi.
-                                    Untuk Tahun Akademik 2021/2022, dipersiapkan tiga program studi S1, yakni Teknik
-                                    Informatika,
-                                    Akuntansi dan Perpajakan, dan Penyiaran Komunikasi Digital.</p>
+                                    (S1) untuk pembukaan Tahun Akademik 2020/2021, yakni Manajemen, Sistem Informasi, Informatika, Akuntansi, dan Komunikasi.</p>
                             </div>
                         </div>
                         <div class="row">
@@ -531,7 +523,7 @@
                                             <a href="{{ url('/manajemen-kontemporer') }}" class="btn">Read More</a>
                                         </div>
                                         <div class="info-bx d-flex justify-content-center" style="height: 80px;">
-                                            <h5>Manajemen Kontemporer</h5>
+                                            <h5>Manajemen</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -553,7 +545,7 @@
                                             <a href="{{ url('/teknologi-informasi') }}" class="btn">Read More</a>
                                         </div>
                                         <div class="info-bx d-flex justify-content-center" style="height: 80px;">
-                                            <h5>Teknologi Informasi</h5>
+                                            <h5>Informatika</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -564,7 +556,7 @@
                                             <a href="{{ url('/akuntansi-dan-perpajakan') }}" class="btn">Read More</a>
                                         </div>
                                         <div class="info-bx d-flex justify-content-center" style="height: 80px;">
-                                            <h5>Akuntansi dan Perpajakan</h5>
+                                            <h5>Akuntansi</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -577,7 +569,7 @@
                                         </div>
                                         <div class="info-bx text-center d-flex justify-content-center"
                                             style="height: 80px;">
-                                            <h5>Penyiaran dan Komunikasi Digital</h5>
+                                            <h5>Komunikasi</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -1115,14 +1107,12 @@
                                     <div class="widget footer_widget">
                                         <h5 class="footer-title">Program Studi</h5>
                                         <ul>
-                                            <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen Kontemporer</a>
+                                            <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen</a>
                                             </li>
                                             <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
-                                            <li><a href="{{ url('/teknologi-informasi') }}">Teknologi Informasi</a></li>
-                                            <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi dan
-                                                    Perpajakan</a></li>
-                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Penyiaran dan
-                                                    Komunikasi Digital</a></li>
+                                            <li><a href="{{ url('/teknologi-informasi') }}">Informatika</a></li>
+                                            <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi</a></li>
+                                            <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Komunikasi</a></li>
                                         </ul>
                                     </div>
                                 </div>
