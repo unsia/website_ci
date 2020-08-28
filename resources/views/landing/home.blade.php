@@ -317,7 +317,7 @@
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 7; white-space: nowrap; color:#fff; font-family:rubik; font-size:18px; font-weight:400;">
-                                    LEADING INNOVATION FOR EDUCATION
+                                    Universitas Siber Pertama Di Indonesia
                                 </div>
 
                                 <!-- LAYER NR. 3 -->
@@ -331,7 +331,9 @@
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">
-                                    Universitas siber pertama di Indonesia yang diresmikan oleh Kemenristek Dikti
+                                    Mendapatkan lisensi resmi dari pemerintah melalui SK Menteri
+                    Pendidikan dan Kebudayaan Nomor 757/M/2020 tentang Izin
+                    Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption Newspaper-Button rev-btn " id="slide-100-layer-5"
@@ -407,7 +409,7 @@
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 7; white-space: nowrap;text-transform:uppercase; color:#fff; font-family:rubik; font-size:18px; font-weight:400;">
-                                    LEADING INNOVATION FOR EDUCATION
+                                    Universitas Siber Pertama Di Indonesia
                                 </div>
 
                                 <!-- LAYER NR. 3 -->
@@ -421,7 +423,9 @@
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">
-                                    Universitas siber pertama di Indonesia yang diresmikan oleh Kemenristek Dikti
+                                    Mendapatkan lisensi resmi dari pemerintah melalui SK Menteri
+                    Pendidikan dan Kebudayaan Nomor 757/M/2020 tentang Izin
+                    Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption Newspaper-Button rev-btn " id="slide-200-layer-5"
