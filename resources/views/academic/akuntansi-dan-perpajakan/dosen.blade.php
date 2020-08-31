@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white text-uppercase">Dosen Akuntansi dan Perpajakan</h1>
+            <h1 class="text-white text-uppercase">Dosen Akuntansi</h1>
         </div>
     </div>
 </div>
@@ -15,7 +15,7 @@
         <ul class="list-inline">
             <li><a href="/">Beranda</a></li>
             <li>Program Studi</li>
-            <li>Akuntansi dan Perpajakan</li>
+            <li>Akuntansi</li>
             <li>Dosen</li>
         </ul>
     </div>

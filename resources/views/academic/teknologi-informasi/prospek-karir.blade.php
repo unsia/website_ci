@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white text-uppercase">Prospek Karir Teknologi Informasi</h1>
+            <h1 class="text-white text-uppercase">Prospek Karir Informatika</h1>
         </div>
     </div>
 </div>
@@ -15,7 +15,7 @@
         <ul class="list-inline">
             <li><a href="/">Beranda</a></li>
             <li>Program Studi</li>
-            <li>Teknologi Informasi</li>
+            <li>Informatika</li>
             <li>Prospek Karir</li>
         </ul>
     </div>

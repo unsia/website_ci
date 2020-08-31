@@ -212,10 +212,10 @@
                                                 Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
-                                        <li><a href="http://kuliah.unsia.id/" target="_blank">Sistem Pembelajaran
+                                        <li><a href="http://kuliah.unsia.ac.id/" target="_blank">Sistem Pembelajaran
                                                 Online</a>
                                         </li>
-                                        <li><a href="http://akademik.unsia.id/" target="_blank">Sistem Informasi
+                                        <li><a href="https://akademik.unsia.ac.id/" target="_blank">Sistem Informasi
                                                 Akademik</a></li>
                                         <li><a href="http://cyberlibrary.unsia.id" target="_blank">Digital Library</a></li>
                                     </ul>
@@ -629,7 +629,7 @@
                                     style="background-color : white; padding : 24px;">
                                     <div class="row d-flex justify-content-center">
                                         <div class="link-web">
-                                            <a href="http://kuliah.unsia.id/login" target="_blank">
+                                            <a href="http://kuliah.unsia.ac.id/login" target="_blank">
                                                 <div class="col mr-2 linklms">
                                                     <div class="text-center mb-5 imglms">
                                                         <img src="{{ asset('homepages/images/icon/academic.png') }}"
@@ -651,7 +651,7 @@
                                             </a>
                                         </div>
                                         <div class="link-web">
-                                            <a href="https://akademik.unsia.id/gate/login" target="_blank">
+                                            <a href="https://akademik.unsia.ac.id/gate/login" target="_blank">
                                                 <div class="col ml-2 linkinfo">
                                                     <div class="text-center mb-5 imginfo">
                                                         <img src="{{ asset('homepages/images/icon/information.png') }}"

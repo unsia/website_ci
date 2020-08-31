@@ -5,7 +5,7 @@
 <div class="page-banner ovbl-dark" style="background-image:url(/homepages/images/banner/banner2.jpg);">
     <div class="container">
         <div class="page-banner-entry">
-            <h1 class="text-white text-uppercase">Teknologi Informasi</h1>
+            <h1 class="text-white text-uppercase">Informatika</h1>
         </div>
     </div>
 </div>
@@ -15,7 +15,7 @@
         <ul class="list-inline">
             <li><a href="/">Beranda</a></li>
             <li>Program Studi</li>
-            <li>Teknologi Informasi</li>
+            <li>Informatika</li>
         </ul>
     </div>
 </div>
@@ -25,6 +25,9 @@
 <div class="content-block">
     <div class="section-area section-sp1">
         <div class="container">
+            <div class="text-center">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/hbm551slCL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 m-b30">
                     <div class="feature-container">
@@ -51,7 +54,7 @@
                             <table class="table table-bordered">
                                 <tr>
                                     <th>Program Studi</th>
-                                    <td>Teknologi Informasi
+                                    <td>Informatika
                                     </td>
                                 </tr>
                                 <tr>
