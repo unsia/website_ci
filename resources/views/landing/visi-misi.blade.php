@@ -236,9 +236,6 @@
                                 <li>
                                     <a href="{{ route('landing.kontak') }}">Kontak</a>
                                 </li>
-                                {{-- <li>
-								<a href="http://portal.koreaswt.com/portal/login">Sistem Akademik</a>
-							</li> --}}
                             </ul>
                             <div class="nav-social-link">
                                 <a href="javascript:;"><i class="fa fa-facebook"></i></a>

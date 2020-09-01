@@ -215,11 +215,8 @@
                                         <li><a href="http://kuliah.unsia.ac.id/" target="_blank">Sistem Pembelajaran
                                                 Online</a>
                                         </li>
-<<<<<<< HEAD
                                         <li><a href="https://akademik.unsia.ac.id/" target="_blank">Sistem Informasi
-=======
                                         <li><a href="http://akademik.unsia.ac.id/" target="_blank">Sistem Informasi
->>>>>>> 00417e8cc0b3179e6fb7a621766c02587b47d011
                                                 Akademik</a></li>
                                         <li><a href="http://cyberlibrary.unsia.ac.id" target="_blank">Digital Library</a></li>
                                     </ul>
@@ -321,7 +318,7 @@
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 7; white-space: nowrap; color:#fff; font-family:rubik; font-size:18px; font-weight:400;">
-                                    Telah dibuka Pendaftaran Mahasiswa Baru
+                                    Telah dibuka Penerimaan Mahasiswa Baru
                                 </div>
 
                                 <!-- LAYER NR. 3 -->
