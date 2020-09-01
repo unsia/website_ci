@@ -167,7 +167,7 @@
                                                 <li><a href="{{ route('landing.admission_info') }}">Persyaratan
                                                         Pendaftaran</a></li>
                                                 <li><a href="#">Periode Pendaftaran</a></li>
-                                                <li><a href="https://akademik.unsia.id/spmbfront/" target="_blank">Daftar</a></li>
+                                                <li><a href="https://akademik.unsia.ac.id/spmbfront/" target="_blank">Daftar</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya
@@ -215,9 +215,13 @@
                                         <li><a href="http://kuliah.unsia.ac.id/" target="_blank">Sistem Pembelajaran
                                                 Online</a>
                                         </li>
+<<<<<<< HEAD
                                         <li><a href="https://akademik.unsia.ac.id/" target="_blank">Sistem Informasi
+=======
+                                        <li><a href="http://akademik.unsia.ac.id/" target="_blank">Sistem Informasi
+>>>>>>> 00417e8cc0b3179e6fb7a621766c02587b47d011
                                                 Akademik</a></li>
-                                        <li><a href="http://cyberlibrary.unsia.id" target="_blank">Digital Library</a></li>
+                                        <li><a href="http://cyberlibrary.unsia.ac.id" target="_blank">Digital Library</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="javascript:;">Fasilitas<i class="fa fa-chevron-down"></i></a>
@@ -317,7 +321,7 @@
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 7; white-space: nowrap; color:#fff; font-family:rubik; font-size:18px; font-weight:400;">
-                                    Universitas Siber Pertama Di Indonesia
+                                    Telah dibuka Pendaftaran Mahasiswa Baru
                                 </div>
 
                                 <!-- LAYER NR. 3 -->
@@ -331,9 +335,7 @@
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">
-                                    Mendapatkan lisensi resmi dari pemerintah melalui SK Menteri
-                    Pendidikan dan Kebudayaan Nomor 757/M/2020 tentang Izin
-                    Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
+                                    <a target="_blank" href="https://akademik.unsia.ac.id/spmbfront/" class="btn btn-primary">DAFTAR DISINI</a>
                                 </div>
                                 <!-- LAYER NR. 4 -->
                                 <div class="tp-caption Newspaper-Button rev-btn " id="slide-100-layer-5"
@@ -409,7 +411,7 @@
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 7; white-space: nowrap;text-transform:uppercase; color:#fff; font-family:rubik; font-size:18px; font-weight:400;">
-                                    Universitas Siber Pertama Di Indonesia
+                                    Perguruan Tinggi Siber Pertama di Indonesia
                                 </div>
 
                                 <!-- LAYER NR. 3 -->
@@ -422,8 +424,7 @@
                                     data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
                                     data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
-                                    style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">
-                                    Mendapatkan lisensi resmi dari pemerintah melalui SK Menteri
+                                    style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">Mendapatkan lisensi resmi dari pemerintah melalui SK Menteri
                     Pendidikan dan Kebudayaan Nomor 757/M/2020 tentang Izin
                     Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
                                 </div>
@@ -646,7 +647,7 @@
                                                         <img src="{{ asset('homepages/images/icon/book.png') }}"
                                                             width="128px" alt="">
                                                     </div>
-                                                    Digital Library UNSIA
+                                                    Digital Library
                                                 </div>
                                             </a>
                                         </div>
@@ -668,210 +669,6 @@
                     </div>
                 </div>
                 <!-- Form END -->
-                <section class="section-area section-sp2 page-section" id="akademik">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12 text-center heading-bx">
-                                <h2 class="title-head m-b0">Agenda <span>Kampus</span></h2>
-                                <p class="m-b0">Upcoming Education Events To Feed Brain. </p>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div
-                                class="upcoming-event-carousel owl-carousel owl-btn-center-lr owl-btn-1 col-12 p-lr0  m-b30">
-                                <div class="item">
-                                    <div class="event-bx">
-                                        <div class="action-box">
-                                            <img src="{{ asset('homepages/images/event/img1.jpg') }}" alt="">
-                                        </div>
-                                        <div class="info-bx d-flex">
-                                            <div>
-                                                <div class="event-time">
-                                                    <div class="event-date">20</div>
-                                                    <div class="event-month">Agustus</div>
-                                                </div>
-                                            </div>
-                                            <div class="event-info">
-                                                <h4 class="event-title"><a href="#">Seminar Bisnis Internet Gratis
-                                                        "BOOST"</a></h4>
-                                                <ul class="media-post">
-                                                    <li><a href="#"><i class="fa fa-clock-o"></i> 6:30 PM – 8:30 PM
-                                                            WIB</a></li>
-                                                    <li><a href="#"><i class="fa fa-map-marker"></i> Tower Central Park,
-                                                            Jakarta</a>
-                                                    </li>
-                                                </ul>
-                                                <p>
-                                                    Jangan sampai Anda mengalami kesalahan FATAL yang dialami oleh lebih
-                                                    dari 90%
-                                                    orang yang TERJUN ke bisnis internet.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="event-bx">
-                                        <div class="action-box">
-                                            <img src="{{ asset('homepages/images/event/img2.jpg') }}" alt="">
-                                        </div>
-                                        <div class="info-bx d-flex">
-                                            <div>
-                                                <div class="event-time">
-                                                    <div class="event-date">4</div>
-                                                    <div class="event-month">September</div>
-                                                </div>
-                                            </div>
-                                            <div class="event-info">
-                                                <h4 class="event-title"><a href="#">Indonesia Fintech Forum 2019</a>
-                                                </h4>
-                                                <ul class="media-post">
-                                                    <li><a href="#"><i class="fa fa-clock-o"></i> 8:00 AM – 3:30 PM</a>
-                                                    </li>
-                                                    <li><a href="#"><i class="fa fa-map-marker"></i> Dhanapala Building,
-                                                            Jakarta</a>
-                                                    </li>
-                                                </ul>
-                                                <p>
-                                                    We realize networking is a major drawcard for Indonesia Fintech
-                                                    Forum 2019. The
-                                                    organizers will be bringing a business matchmaking segment.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="event-bx">
-                                        <div class="action-box">
-                                            <img src="{{ asset('homepages/images/event/img3.jpg') }}" alt="">
-                                        </div>
-                                        <div class="info-bx d-flex">
-                                            <div>
-                                                <div class="event-time">
-                                                    <div class="event-date">9</div>
-                                                    <div class="event-month">November</div>
-                                                </div>
-                                            </div>
-                                            <div class="event-info">
-                                                <h4 class="event-title"><a href="#">Terapi Ngomong Inggris 2019</a></h4>
-                                                <ul class="media-post">
-                                                    <li><a href="#"><i class="fa fa-clock-o"></i> 08.00 AM - 5.00 PM</a>
-                                                    </li>
-                                                    <li><a href="#"><i class="fa fa-map-marker"></i> Kota Tua,
-                                                            Jakarta</a></li>
-                                                </ul>
-                                                <p>
-                                                    Terapi Ngomong Inggris is practicing English with native speakers &
-                                                    fun games at
-                                                    Jakarta (Kota Tua & Monas) that held by ngomonginggris.com for free.
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="text-center">
-                            <a href="#" class="btn">View All Event</a>
-                        </div>
-                    </div>
-                </section>
-
-                <!-- Testimonials -->
-                <div class="section-area section-sp2 bg-fix ovbl-dark"
-                    style="background-image:url('{{ asset('homepages/images/background/bg2.jpg') }}');">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12 text-white heading-bx left">
-                                <h2 class="title-head text-uppercase">Salam <span>Rektor</span></h2>
-                                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page</p> -->
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="testimonial-bx">
-                                <div class="testimonial-thumb">
-                                    <img src="{{ asset('homepages/images/dr-cho.jpg') }}" alt="">
-                                </div>
-                                <div class="testimonial-info">
-                                    <h5 class="name">Jang Youn Cho, Ph.D., CPA</h5>
-                                    <p>Rektor</p>
-                                </div>
-                                <div class="testimonial-content">
-                                    <p style="padding-bottom: 0.5em; text-align: justify;">
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di Universitas Siber pertama di
-                                        Indonesia,
-                                        Universitas Siber Asia / Asia Cyber University. Universitas kami didirikan sejak
-                                        2019 untuk
-                                        memenuhi kebutuhan abad ke 21, pemimpin professional dalam masyarakat digital
-                                        yang cerdas
-                                        dalam era revolusi industri ke 4.
-                                    </p>
-                                    <p style="padding-bottom: 0.5em; text-align: justify;">
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indonesia adalah negara kepulauan yang terdiri
-                                        dari hampir
-                                        17.000 pulau dengan populasi sekitar 270 juta penduduk. Maka dari itu, Indonesia
-                                        memiliki
-                                        kesempatan yang strategis untuk menjadi pemain kunci dalam kompetisi global,
-                                        memimpin pasar
-                                        ekonomi digital. Ini membutuhkan pengembangan Sumber Daya Manusia yang memiliki
-                                        keterampilan
-                                        utama dalam hal literasi Teknologi Informasi dan Sains terapan. Untuk memenuhi
-                                        tujuan ini,
-                                        Pendidikan secara massif yang diselenggarakan melalui Sistem Pendidikan tinggi
-                                        adalah
-                                        satu-satunya solusi mengingat perbedaan kondisi geografis di Indonesia sekaligus
-                                        perbedaan
-                                        kualitas.
-                                    </p>
-                                    <p style="padding-bottom: 0.5em; text-align: justify;">
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap tahun, lebih dari 2 juta orang berbakat
-                                        yang tamat dari
-                                        Sekolah Menengah Atas kehilangan kesempatan untuk melanjutkan Pendidikan tinggi,
-                                        kasus
-                                        terbanyak disebabkan oleh masalah ekonomi dan masalah-masalah penting lainnya.
-                                        Universitas
-                                        Siber kami menyediakan solusi yang akan menyediakan layanan pendidikan
-                                        berkualitas terbaik,
-                                        kapanpun, dan dimanapun anda, tanpa bias apapun, dengan biaya Pendidikan yang
-                                        terjangkau.
-                                        Pendidikan Tinggi berbasis daring dapat membawa Anda menuju puncak melalui
-                                        sebuah sistem
-                                        pembelajaran yang dapat di akses dimana saja tanpa perlu berada di kota besar.
-                                        Sistem
-                                        Pembelajaran Online memandu setiap siswa untuk menjadi pembelajar yang aktif dan
-                                        penuh
-                                        kegembiraan melalui aktivitas interaktif dan didukung oleh materi digital dalam
-                                        Sistem
-                                        Manajemen Pembelajaran (Learning Management System).
-                                    </p>
-                                    <p style="padding-bottom: 0.5em; text-align: justify;">
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anda akan menjadi kelompok pionir untuk mendobrak
-                                        bias yang
-                                        menggambarkan bahwa Pendidikan hanya mungkin dilakukan bila melalui fasilitas
-                                        fisik. Anda
-                                        akan mencapai perkuliahan kelas dunia dengan dukungan teratas dari staf
-                                        professional dan
-                                        teknologi pendidikan kami. Selamat datang dan semoga kita dapat memulai
-                                        perjalanan bersama
-                                        untuk menuliskan cerita sukses Anda, bersama kami.
-                                    </p>
-                                    <p style="padding-bottom: 0.5em;">
-                                        Hormat kami,
-                                    </p>
-                                    <p style="padding-bottom: 0.5em;">
-                                        Rektor,
-                                    </p>
-                                    <p style="padding-bottom: 0.5em;">
-                                        Jang Youn Cho, Ph.D., CPA.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Testimonials END -->
-
                 <!-- Recent News -->
                 <section class="section-area section-sp2 page-section" id="berita">
                     <div class="container">
@@ -989,6 +786,98 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 text-white heading-bx left">
+                                <h2 class="title-head text-uppercase">Salam <span>Rektor</span></h2>
+                                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page</p> -->
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-bx">
+                                <div class="testimonial-thumb">
+                                    <img src="{{ asset('homepages/images/dr-cho.jpg') }}" alt="">
+                                </div>
+                                <div class="testimonial-info">
+                                    <h5 class="name">Jang Youn Cho, Ph.D., CPA</h5>
+                                    <p>Rektor</p>
+                                </div>
+                                <div class="testimonial-content">
+                                    <p style="padding-bottom: 0.5em; text-align: justify;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di Universitas Siber pertama di
+                                        Indonesia,
+                                        Universitas Siber Asia / Asia Cyber University. Universitas kami didirikan sejak
+                                        2019 untuk
+                                        memenuhi kebutuhan abad ke 21, pemimpin professional dalam masyarakat digital
+                                        yang cerdas
+                                        dalam era revolusi industri ke 4.
+                                    </p>
+                                    <p style="padding-bottom: 0.5em; text-align: justify;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indonesia adalah negara kepulauan yang terdiri
+                                        dari hampir
+                                        17.000 pulau dengan populasi sekitar 270 juta penduduk. Maka dari itu, Indonesia
+                                        memiliki
+                                        kesempatan yang strategis untuk menjadi pemain kunci dalam kompetisi global,
+                                        memimpin pasar
+                                        ekonomi digital. Ini membutuhkan pengembangan Sumber Daya Manusia yang memiliki
+                                        keterampilan
+                                        utama dalam hal literasi Teknologi Informasi dan Sains terapan. Untuk memenuhi
+                                        tujuan ini,
+                                        Pendidikan secara massif yang diselenggarakan melalui Sistem Pendidikan tinggi
+                                        adalah
+                                        satu-satunya solusi mengingat perbedaan kondisi geografis di Indonesia sekaligus
+                                        perbedaan
+                                        kualitas.
+                                    </p>
+                                    <p style="padding-bottom: 0.5em; text-align: justify;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap tahun, lebih dari 2 juta orang berbakat
+                                        yang tamat dari
+                                        Sekolah Menengah Atas kehilangan kesempatan untuk melanjutkan Pendidikan tinggi,
+                                        kasus
+                                        terbanyak disebabkan oleh masalah ekonomi dan masalah-masalah penting lainnya.
+                                        Universitas
+                                        Siber kami menyediakan solusi yang akan menyediakan layanan pendidikan
+                                        berkualitas terbaik,
+                                        kapanpun, dan dimanapun anda, tanpa bias apapun, dengan biaya Pendidikan yang
+                                        terjangkau.
+                                        Pendidikan Tinggi berbasis daring dapat membawa Anda menuju puncak melalui
+                                        sebuah sistem
+                                        pembelajaran yang dapat di akses dimana saja tanpa perlu berada di kota besar.
+                                        Sistem
+                                        Pembelajaran Online memandu setiap siswa untuk menjadi pembelajar yang aktif dan
+                                        penuh
+                                        kegembiraan melalui aktivitas interaktif dan didukung oleh materi digital dalam
+                                        Sistem
+                                        Manajemen Pembelajaran (Learning Management System).
+                                    </p>
+                                    <p style="padding-bottom: 0.5em; text-align: justify;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anda akan menjadi kelompok pionir untuk mendobrak
+                                        bias yang
+                                        menggambarkan bahwa Pendidikan hanya mungkin dilakukan bila melalui fasilitas
+                                        fisik. Anda
+                                        akan mencapai perkuliahan kelas dunia dengan dukungan teratas dari staf
+                                        professional dan
+                                        teknologi pendidikan kami. Selamat datang dan semoga kita dapat memulai
+                                        perjalanan bersama
+                                        untuk menuliskan cerita sukses Anda, bersama kami.
+                                    </p>
+                                    <p style="padding-bottom: 0.5em;">
+                                        Hormat kami,
+                                    </p>
+                                    <p style="padding-bottom: 0.5em;">
+                                        Rektor,
+                                    </p>
+                                    <p style="padding-bottom: 0.5em;">
+                                        Jang Youn Cho, Ph.D., CPA.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Testimonials END -->
+                <!-- Recent News -->
+                <section class="section-area section-sp2 page-section" id="berita">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12 heading-bx left">
                                 <h2 class="title-head text-uppercase">Video Teaser</h2>
                                 <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a page</p> -->
                             </div>
@@ -1036,8 +925,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <!-- Testimonials END -->
+                </section>
+                <!-- Recent News End -->
             </div>
             <!-- contact area END -->
         </div>
