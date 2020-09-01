@@ -167,7 +167,7 @@
                                                 <li><a href="{{ route('landing.admission_info') }}">Persyaratan
                                                         Pendaftaran</a></li>
                                                 <li><a href="#">Periode Pendaftaran</a></li>
-                                                <li><a href="https://akademik.unsia.id/spmbfront/" target="_blank">Daftar</a></li>
+                                                <li><a href="https://akademik.unsia.ac.id/spmbfront/" target="_blank">Daftar</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya
@@ -209,11 +209,11 @@
                                                 Merdeka</a></li>
                                         <li><a href="{{ route('landing.panduan_pembelajaran_online') }}">Panduan
                                                 Pembelajaran Online</a></li>
-                                        <li><a href="http://kuliah.unsia.id" target="_blank">Sistem Pembelajaran
+                                        <li><a href="http://kuliah.unsia.ac.id" target="_blank">Sistem Pembelajaran
                                                 Online</a></li>
-                                        <li><a href="http://akademik.unsia.id" target="_blank">Sistem Informasi
+                                        <li><a href="http://akademik.unsia.ac.id" target="_blank">Sistem Informasi
                                                 Akademik</a></li>
-                                        <li><a href="http://cyberlibrary.unsia.id" target="_blank">Digital Library</a></li>
+                                        <li><a href="http://cyberlibrary.unsia.ac.id" target="_blank">Digital Library</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="javascript:;">Fasilitas<i class="fa fa-chevron-down"></i></a>

@@ -1,6 +1,6 @@
 @extends('layouts.main-page')
 
-@section('active-pendaftaran', 'active')
+@section('active-fasilitas', 'active')
 
 @section('contentBox')
 <!-- Page Heading Box ==== -->
