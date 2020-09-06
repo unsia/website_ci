@@ -62,84 +62,42 @@ Route::get('/penerimaan/akademik/panduan-pembelajaran-online', 'LandingControlle
  * Academic
  */
 // Manajemen Kontemporer
-Route::get('/manajemen-kontemporer', 'AcademicController@manajemenKontemporer');
-Route::get('/manajemen-kontemporer/profil', 'AcademicController@manajemenKontemporer_profil');
-Route::get('/manajemen-kontemporer/kurikulum', 'AcademicController@manajemenKontemporer_kurikulum');
-Route::get('/manajemen-kontemporer/keunggulan', 'AcademicController@manajemenKontemporer_keunggulan');
-Route::get('/manajemen-kontemporer/prospek-karir', 'AcademicController@manajemenKontemporer_prospek');
-Route::get('/manajemen-kontemporer/dosen', 'AcademicController@manajemenKontemporer_dosen');
-Route::get('/manajemen-kontemporer/capaian-pembelajaran-lulusan', 'AcademicController@manajemenKontemporer_capaian_pembelajaran_lulusan')->name('manajemen-kontemporer.capaian_pembelajaran_lulusan');
-Route::get('/manajemen-kontemporer/profil-lulusan', 'AcademicController@manajemenKontemporer_profil_lulusan')->name('manajemen-kontemporer.profil_lulusan');
+Route::get('/manajemen', 'AcademicController@manajemen')->name('manajemen');
+Route::get('/manajemen/profil', 'AcademicController@manajemen_profil')->name('manajemen.profil');
+Route::get('/manajemen/kurikulum', 'AcademicController@manajemen_kurikulum')->name('manajemen.kurikulum');
+Route::get('/manajemen/keunggulan', 'AcademicController@manajemen_keunggulan')->name('manajemen.keunggulan');
+Route::get('/manajemen/prospek-karir', 'AcademicController@manajemen_prospek')->name('manajemen.prospek_karir');
+Route::get('/manajemen/dosen', 'AcademicController@manajemen_dosen')->name('manajemen.dosen');
+Route::get('/manajemen/capaian-pembelajaran-lulusan', 'AcademicController@manajemen_capaian_pembelajaran_lulusan')->name('manajemen.capaian_pembelajaran_lulusan');
+Route::get('/manajemen/profil-lulusan', 'AcademicController@manajemen_profil_lulusan')->name('manajemen.profil_lulusan');
 
 // Sistem Informasi
-Route::get('/sistem-informasi', 'AcademicController@sistemInformasi');
-Route::get('/sistem-informasi/profil', 'AcademicController@sistemInformasi_profil');
-Route::get('/sistem-informasi/kurikulum', 'AcademicController@sistemInformasi_kurikulum');
-Route::get('/sistem-informasi/keunggulan', 'AcademicController@sistemInformasi_keunggulan');
-Route::get('/sistem-informasi/prospek-karir', 'AcademicController@sistemInformasi_prospek');
-Route::get('/sistem-informasi/dosen', 'AcademicController@sistemInformasi_dosen');
+Route::get('/sistem-informasi', 'AcademicController@sistemInformasi')->name('sistem-informasi');
+Route::get('/sistem-informasi/profil', 'AcademicController@sistemInformasi_profil')->name('sistem-informasi.profil');
+Route::get('/sistem-informasi/kurikulum', 'AcademicController@sistemInformasi_kurikulum')->name('sistem-informasi.kurikulum');
+Route::get('/sistem-informasi/keunggulan', 'AcademicController@sistemInformasi_keunggulan')->name('sistem-informasi.keunggulan');
+Route::get('/sistem-informasi/prospek-karir', 'AcademicController@sistemInformasi_prospek')->name('sistem-informasi.prospek_karir');
+Route::get('/sistem-informasi/dosen', 'AcademicController@sistemInformasi_dosen')->name('sistem-informasi.dosen');
 Route::get('/sistem-informasi/capaian-pembelajaran-lulusan', 'AcademicController@sistemInformasi_capaian_pembelajaran_lulusan')->name('sistem-informasi.capaian_pembelajaran_lulusan');
 Route::get('/sistem-informasi/profil-lulusan', 'AcademicController@sistemInformasi_profil_lulusan')->name('sistem-informasi.profil_lulusan');
 
 // Penyiaran dan Komunikasi Digital
-Route::get('/penyiaran-dan-komunikasi-digital', 'AcademicController@penyiarandankomunikasidigital');
-Route::get('/penyiaran-dan-komunikasi-digital/kurikulum', 'AcademicController@penyiarandankomunikasidigital_kurikulum');
-Route::get('/penyiaran-dan-komunikasi-digital/keunggulan', 'AcademicController@penyiarandankomunikasidigital_keunggulan');
-Route::get('/penyiaran-dan-komunikasi-digital/prospek-karir', 'AcademicController@penyiarandankomunikasidigital_prospek');
-Route::get('/penyiaran-dan-komunikasi-digital/dosen', 'AcademicController@penyiarandankomunikasidigital_dosen');
+Route::get('/komunikasi', 'AcademicController@komunikasi')->name('komunikasi');
+Route::get('/komunikasi/kurikulum', 'AcademicController@komunikasi_kurikulum')->name('komunikasi.kurikulum');
+Route::get('/komunikasi/keunggulan', 'AcademicController@komunikasi_keunggulan')->name('komunikasi.keunggulan');
+Route::get('/komunikasi/prospek-karir', 'AcademicController@komunikasi_prospek')->name('komunikasi.prospek_karir');
+Route::get('/komunikasi/dosen', 'AcademicController@komunikasi_dosen')->name('komunikasi.dosen');
 
 // Teknologi Informasi
-Route::get('/teknologi-informasi', 'AcademicController@teknologiInformasi');
-Route::get('/teknologi-informasi/kurikulum', 'AcademicController@teknologiInformasi_kurikulum');
-Route::get('/teknologi-informasi/keunggulan', 'AcademicController@teknologiInformasi_keunggulan');
-Route::get('/teknologi-informasi/prospek-karir', 'AcademicController@teknologiInformasi_prospek');
-Route::get('/teknologi-informasi/dosen', 'AcademicController@teknologiInformasi_dosen');
+Route::get('/informatika', 'AcademicController@informatika')->name('informatika');
+Route::get('/informatika/kurikulum', 'AcademicController@informatika_kurikulum')->name('informatika.kurikulum');
+Route::get('/informatika/keunggulan', 'AcademicController@informatika_keunggulan')->name('informatika.keunggulan');
+Route::get('/informatika/prospek-karir', 'AcademicController@informatika_prospek')->name('informatika.prospek_karir');
+Route::get('/informatika/dosen', 'AcademicController@informatika_dosen')->name('informatika.dosen');
 
-// Akuntansi dan Perpajakan
-Route::get('/akuntansi-dan-perpajakan', 'AcademicController@akuntansidanperpajakan');
-Route::get('/akuntansi-dan-perpajakan/kurikulum', 'AcademicController@akuntansidanperpajakan_kurikulum');
-Route::get('/akuntansi-dan-perpajakan/keunggulan', 'AcademicController@akuntansidanperpajakan_keunggulan');
-Route::get('/akuntansi-dan-perpajakan/prospek-karir', 'AcademicController@akuntansidanperpajakan_prospek');
-Route::get('/akuntansi-dan-perpajakan/dosen', 'AcademicController@akuntansidanperpajakan_dosen');
-
-
-/**
- * Student Registrant
- */
-Route::get('/create-account', 'Admin\RegistrationController@form_create_account')->name('student.form_create_account');
-Route::post('/create-account', 'Admin\RegistrationController@do_create_account')->name('student.do_create_account');
-
-Auth::routes();
-Route::group(['middleware' => ['auth']], function () {
-    Route::get('/replace', 'HomeController@index')->name('index');
-    Route::get('home', 'HomeController@index')->name('home');
-
-    /** route manajemen menu */
-    Route::get('menu', 'Admin\MenuController@index')->middleware(['permission:menu-read'])->name('menu');
-    Route::get('menu/{id}', 'Admin\MenuController@menuDetail')->middleware(['permission:menu-read'])->name('menu.detail');
-    Route::post('menu-create', 'Admin\MenuController@create')->middleware(['permission:menu-create'])->name('menu.create');
-    Route::put('menu-update', 'Admin\MenuController@update')->middleware(['permission:menu-update'])->name('menu.update');
-    Route::get('menu-delete/{id}', 'Admin\MenuController@delete')->middleware(['permission:menu-delete'])->name('menu.delete');
-
-    /** route manajemen role */
-    Route::get('roles', 'Admin\RoleController@index')->middleware(['permission:role-read'])->name('roles');
-    Route::get('roles/{id}/show', 'Admin\RoleController@show')->middleware(['permission:role-read'])->name('roles.show');
-    Route::get('roles/create', 'Admin\RoleController@create')->middleware(['permission:role-create'])->name('roles.create');
-    Route::get('roles/{id}/edit', 'Admin\RoleController@edit')->middleware(['permission:role-update'])->name('roles.edit');
-    Route::post('roles/store', 'Admin\RoleController@store')->middleware(['permission:role-create'])->name('roles.store');
-    Route::post('roles/{id}/update', 'Admin\RoleController@update')->middleware(['permission:role-update'])->name('roles.update');
-    Route::post('roles/delete', 'Admin\RoleController@delete')->middleware(['permission:role-delete'])->name('roles.delete');
-
-    /** route manajemen user */
-    Route::get('users', 'Admin\UserController@index')->middleware(['permission:user-read'])->name('users');
-    Route::get('users/{id}/show', 'Admin\UserController@show')->middleware(['permission:user-read'])->name('users.show');
-    Route::get('users/create', 'Admin\UserController@create')->middleware(['permission:user-create'])->name('users.create');
-    Route::get('users/{id}/edit', 'Admin\UserController@edit')->middleware(['permission:user-update'])->name('users.edit');
-    Route::post('users/store', 'Admin\UserController@store')->middleware(['permission:user-create'])->name('users.store');
-    Route::post('users/{id}/update', 'Admin\UserController@update')->middleware(['permission:user-update'])->name('users.update');
-    Route::post('users/delete', 'Admin\UserController@delete')->middleware(['permission:user-delete'])->name('users.delete');
-
-    /** route manajemen registration */
-    Route::get('registration', 'Admin\RegistrationController@form_register')->name('student.form_register');
-    Route::post('registration', 'Admin\RegistrationController@do_register')->name('student.do_register');
-});
+// Akuntansi
+Route::get('/akuntansi', 'AcademicController@akuntansi')->name('akuntansi');
+Route::get('/akuntansi/kurikulum', 'AcademicController@akuntansi_kurikulum')->name('akuntansi.kurikulum');
+Route::get('/akuntansi/keunggulan', 'AcademicController@akuntansi_keunggulan')->name('akuntansi.keunggulan');
+Route::get('/akuntansi/prospek-karir', 'AcademicController@akuntansi_prospek')->name('akuntansi.prospek_karir');
+Route::get('/akuntansi/dosen', 'AcademicController@akuntansi_dosen')->name('akuntansi.dosen');

@@ -7,45 +7,45 @@ use App\Http\Controllers\Controller;
 
 class AcademicController extends Controller
 {
-    // Manajemen Kontemporer
-    public function manajemenKontemporer()
+    // Manajemen
+    public function manajemen()
     {
-        return view('academic.manajemen-kontemporer.home');
+        return view('academic.manajemen.home');
     }
 
-    public function manajemenKontemporer_profil()
+    public function manajemen_profil()
     {
-        return view('academic.manajemen-kontemporer.profil');
+        return view('academic.manajemen.profil');
     }
 
-    public function manajemenKontemporer_kurikulum()
+    public function manajemen_kurikulum()
     {
-        return view('academic.manajemen-kontemporer.kurikulum');
+        return view('academic.manajemen.kurikulum');
     }
 
-    public function manajemenKontemporer_prospek()
+    public function manajemen_prospek()
     {
-        return view('academic.manajemen-kontemporer.prospek-karir');
+        return view('academic.manajemen.prospek-karir');
     }
 
-    public function manajemenKontemporer_dosen()
+    public function manajemen_dosen()
     {
-        return view('academic.manajemen-kontemporer.dosen');
+        return view('academic.manajemen.dosen');
     }
 
-    public function manajemenKontemporer_keunggulan()
+    public function manajemen_keunggulan()
     {
-        return view('academic.manajemen-kontemporer.keunggulan');
+        return view('academic.manajemen.keunggulan');
     }
 
-    public function manajemenKontemporer_capaian_pembelajaran_lulusan()
+    public function manajemen_capaian_pembelajaran_lulusan()
     {
-        return view('academic.manajemen-kontemporer.capaian-pembelajaran-lulusan');
+        return view('academic.manajemen.capaian-pembelajaran-lulusan');
     }
 
-    public function manajemenKontemporer_profil_lulusan()
+    public function manajemen_profil_lulusan()
     {
-        return view('academic.manajemen-kontemporer.profil-lulusan');
+        return view('academic.manajemen.profil-lulusan');
     }
 
 
@@ -90,84 +90,84 @@ class AcademicController extends Controller
         return view('academic.sistem-informasi.profil-lulusan');
     }
 
-    // Penyiaran dan Komunikasi Digital
+    // Komunikasi
 
-    public function penyiarandankomunikasidigital()
+    public function komunikasi()
     {
-        return view('academic.penyiaran-dan-komunikasi-digital.home');
+        return view('academic.komunikasi.home');
     }
 
-    public function penyiarandankomunikasidigital_kurikulum()
+    public function komunikasi_kurikulum()
     {
-        return view('academic.penyiaran-dan-komunikasi-digital.kurikulum');
+        return view('academic.komunikasi.kurikulum');
     }
 
-    public function penyiarandankomunikasidigital_prospek()
+    public function komunikasi_prospek()
     {
-        return view('academic.penyiaran-dan-komunikasi-digital.prospek-karir');
+        return view('academic.komunikasi.prospek-karir');
     }
 
-    public function penyiarandankomunikasidigital_dosen()
+    public function komunikasi_dosen()
     {
-        return view('academic.penyiaran-dan-komunikasi-digital.dosen');
+        return view('academic.komunikasi.dosen');
     }
 
-    public function penyiarandankomunikasidigital_keunggulan()
+    public function komunikasi_keunggulan()
     {
-        return view('academic.penyiaran-dan-komunikasi-digital.keunggulan');
+        return view('academic.komunikasi.keunggulan');
     }
 
     // Teknologi Informasi
 
-    public function teknologiInformasi()
+    public function informatika()
     {
-        return view('academic.teknologi-informasi.home');
+        return view('academic.informatika.home');
     }
 
-    public function teknologiInformasi_kurikulum()
+    public function informatika_kurikulum()
     {
-        return view('academic.teknologi-informasi.kurikulum');
+        return view('academic.informatika.kurikulum');
     }
 
-    public function teknologiInformasi_prospek()
+    public function informatika_prospek()
     {
-        return view('academic.teknologi-informasi.prospek-karir');
+        return view('academic.informatika.prospek-karir');
     }
 
-    public function teknologiInformasi_dosen()
+    public function informatika_dosen()
     {
-        return view('academic.teknologi-informasi.dosen');
+        return view('academic.informatika.dosen');
     }
 
-    public function teknologiInformasi_keunggulan()
+    public function informatika_keunggulan()
     {
-        return view('academic.teknologi-informasi.keunggulan');
+        return view('academic.informatika.keunggulan');
     }
 
     // Akuntansi dan Perpajakan
 
-    public function akuntansidanperpajakan()
+    public function akuntansi()
     {
-        return view('academic.akuntansi-dan-perpajakan.home');
+        return view('academic.akuntansi.home');
     }
 
-    public function akuntansidanperpajakan_kurikulum()
+    public function akuntansi_kurikulum()
     {
-        return view('academic.akuntansi-dan-perpajakan.kurikulum');
+        return view('academic.akuntansi.kurikulum');
     }
 
-    public function akuntansidanperpajakan_prospek()
+    public function akuntansi_prospek()
     {
-        return view('academic.akuntansi-dan-perpajakan.prospek-karir');
+        return view('academic.akuntansi.prospek-karir');
     }
 
-    public function akuntansidanperpajakan_dosen()
+    public function akuntansi_dosen()
     {
-        return view('academic.akuntansi-dan-perpajakan.dosen');
+        return view('academic.akuntansi.dosen');
     }
 
-    public function akuntansidanperpajakan_keunggulan()
+    public function akuntansi_keunggulan()
     {
-        return view('academic.akuntansi-dan-perpajakan.keunggulan');
+        return view('academic.akuntansi.keunggulan');
     }
 }

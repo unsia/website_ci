@@ -89,8 +89,6 @@
                                         <option data-icon="flag flag-us">English US</option>
                                     </select>
                                 </li> --}}
-                                <!-- <li><a href="{{ route('login') }}">Login</a></li>
-							<li><a href="{{ route('student.form_create_account') }}">Register</a></li> -->
                             </ul>
                         </div>
                     </div>
@@ -182,13 +180,13 @@
                                     <ul class="sub-menu sub">
                                         <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
                                             <ul class="sub-menu">
-                                                <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen</a>
+                                                <li><a href="{{ url('/manajemen') }}">Manajemen</a>
                                                 </li>
                                                 <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
-                                                <li><a href="{{ url('/teknologi-informasi') }}">Informatika</a>
+                                                <li><a href="{{ url('/informatika') }}">Informatika</a>
                                                 </li>
-                                                <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi</a></li>
-                                                <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Komunikasi</a></li>
+                                                <li><a href="{{ url('/akuntansi') }}">Akuntansi</a></li>
+                                                <li><a href="{{ url('/komunikasi') }}">Komunikasi</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
@@ -295,7 +293,7 @@
                                 <!-- LAYER NR. 2 -->
                                 <div class="tp-caption Newspaper-Title   tp-resizeme" id="slide-100-layer-2"
                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                    data-y="['top','top','top','top']" data-voffset="['250','250','250','240']"
+                                    data-y="['top','top','top','top']" data-voffset="['190','190','190','190']"
                                     data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']"
                                     data-width="full" data-height="none" data-whitespace="normal" data-type="text"
                                     data-responsive_offset="on"
@@ -310,8 +308,8 @@
                                 <!-- LAYER NR. 3 -->
                                 <div class="tp-caption Newspaper-Subtitle   tp-resizeme" id="slide-100-layer-3"
                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                    data-y="['top','top','top','top']" data-voffset="['210','210','210','210']"
-                                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                                    data-y="['top','top','top','top']" data-voffset="['150','150','150','150']"
+                                    data-width="none" data-height="none" data-whitespace="nowrap" data-typ0e="text"
                                     data-responsive_offset="on"
                                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
                                     data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
@@ -321,10 +319,10 @@
                                     Telah dibuka Penerimaan Mahasiswa Baru
                                 </div>
 
-                                <!-- LAYER NR. 3 -->
+                                <!-- LAYER NR. 4 -->
                                 <div class="tp-caption Newspaper-Subtitle   tp-resizeme" id="slide-100-layer-4"
                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                    data-y="['top','top','top','top']" data-voffset="['320','320','320','290']"
+                                    data-y="['top','top','top','top']" data-voffset="['270','270','270','270']"
                                     data-width="['800','800','700','420']" data-height="['100','100','100','120']"
                                     data-whitespace="unset" data-type="text" data-responsive_offset="on"
                                     data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
@@ -334,26 +332,18 @@
                                     style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">
                                     <a target="_blank" href="https://akademik.unsia.ac.id/spmbfront/" class="btn btn-primary">DAFTAR DISINI</a>
                                 </div>
-                                <!-- LAYER NR. 4 -->
-                                <div class="tp-caption Newspaper-Button rev-btn " id="slide-100-layer-5"
-                                    data-x="['center','center','center','center']" data-hoffset="['90','80','75','90']"
-                                    data-y="['top','top','top','top']" data-voffset="['400','400','400','420']"
-                                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="button"
-                                    data-responsive_offset="on" data-responsive="off"
-                                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-                                    data-textAlign="['center','center','center','center']"
-                                    data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]"
-                                    data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]"></div>
-                                <div class="tp-caption Newspaper-Button rev-btn" id="slide-100-layer-6"
-                                    data-x="['center','center','center','center']"
-                                    data-hoffset="['-90','-80','-75','-90']" data-y="['top','top','top','top']"
-                                    data-voffset="['400','400','400','420']" data-width="none" data-height="none"
-                                    data-whitespace="nowrap" data-type="button" data-responsive_offset="on"
-                                    data-responsive="off"
-                                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-                                    data-textAlign="['center','center','center','center']"
-                                    data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]"
-                                    data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]"></div>
+                                <!-- LAYER NR. 5 -->
+                                <div class="tp-caption Newspaper-Subtitle   tp-resizeme" id="slide-100-layer-5"
+                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                    data-y="['top','top','top','top']" data-voffset="['330 ','330','330','330']"
+                                    data-whitespace="unset" data-type="text" data-responsive_offset="on"
+                                    data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
+                                    data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
+                                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
+                                    data-paddingleft="[0,0,0,0]"
+                                    style="z-index: 7; text-transform:capitalize; white-space: unset; color:#fff; font-family:rubik; font-size:18px; line-height:28px; font-weight:400;">
+                                     <img src="{{ asset('homepages/images/PMBUnsia.png') }}" style="height: 10px" alt="">
+                                </div>
                             </li>
                             <li data-index="rs-200" data-transition="parallaxvertical" data-slotamount="default"
                                 data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
@@ -676,6 +666,27 @@
                             </div>
                         </div>
                         <div class="recent-news-carousel owl-carousel owl-btn-1 col-12 p-lr0">
+                            <div class="item">
+                                <div class="recent-news">
+                                    <div class="action-box">
+                                        <img src="{{ asset('homepages/images/izin.jpeg') }}" alt="">
+                                    </div>
+                                    <div class="info-bx">
+                                        <ul class="media-post">
+                                            <li><a href="#"><i class="fa fa-calendar"></i>September 4, 2020</a></li>
+                                            <li><a href="#"><i class="fa fa-user"></i>By UNSIA</a></li>
+                                        </ul>
+                                        <h5 class="post-title"><a
+                                                href="#">Ketua YMIK menerima izin pendirian UNSIA</a></h5>
+                                        <p>Ketua YMIK menerima izin pendirian UNSIA dari Kemendikbud yang diserahkan secara online oleh Sekjen Kemendikbud Prof. Ainun Naim, Ph.D., di kantor LLDIKTI Wilayah III</p>
+                                        <div class="post-extra">
+                                            <a href="#"
+                                                class="btn-link">READ MORE</a>
+                                            {{-- <a href="#" class="comments-bx"><i class="fa fa-comments-o"></i>20 Comment</a> --}}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="item">
                                 <div class="recent-news">
                                     <div class="action-box">
