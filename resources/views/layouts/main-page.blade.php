@@ -82,19 +82,6 @@
                             </li> --}}
                             </ul>
                         </div>
-                        <div class="topbar-right">
-                            <ul>
-                                {{-- <li>
-                                    <select class="header-lang-bx">
-                                        <option data-icon="flag flag-id">Indonesia</option>
-                                        <option data-icon="flag flag-us">English US</option>
-                                        <!-- <option data-icon="flag flag-uk">English UK</option> -->
-                                    </select>
-                                </li> --}}
-                                <!-- <li><a href="{{ route('login') }}">Login</a></li>
-							<li><a href="{{ route('student.form_create_account') }}">Register</a></li> -->
-                            </ul>
-                        </div>
                     </div>
                 </div>
             </div>
