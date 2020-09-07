@@ -170,12 +170,13 @@
                                     <ul class="sub-menu sub">
                                         <li><a href="javascript:;">Program Studi <i class="fa fa-chevron-down"></i></a>
                                             <ul class="sub-menu">
-                                                <li><a href="{{ url('/manajemen-kontemporer') }}">Manajemen</a></li>
-                                                <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
-                                                <li><a href="{{ url('/teknologi-informasi') }}">Informatika</a>
+                                                <li><a href="{{ url('/manajemen') }}">Manajemen</a>
                                                 </li>
-                                                <li><a href="{{ url('/akuntansi-dan-perpajakan') }}">Akuntansi</a></li>
-                                                <li><a href="{{ url('/penyiaran-dan-komunikasi-digital') }}">Komunikasi</a></li>
+                                                <li><a href="{{ url('/sistem-informasi') }}">Sistem Informasi</a></li>
+                                                <li><a href="{{ url('/informatika') }}">Informatika</a>
+                                                </li>
+                                                <li><a href="{{ url('/akuntansi') }}">Akuntansi</a></li>
+                                                <li><a href="{{ url('/komunikasi') }}">Komunikasi</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="javascript:;">Proses Akademik<i class="fa fa-chevron-down"></i></a>
