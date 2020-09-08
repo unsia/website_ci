@@ -31,75 +31,9 @@
                     <div class="feature-container">
                         <div class="icon-content mb-2">
                             <h4>Standar Biaya Pendaftaran</h4>
-                            <p>Biaya pendaftaran untuk setiap jalur dikenakan sebesar Rp. 250.000,00</p>
+                            <p>Bebas dari biaya pendaftaran</p>
                             <h4>Standar Biaya Perkuliahan</h4>
-                            <p style="text-align: justify;">Setiap mahasiswa yang telah diterima di Universitas Siber Asia memiliki kewajiban Administratif pembayaran yakni UPP (Uang Pengembangan Pendidikan) dan Uang Paket Semester. Selain itu terdapat kewajiban di akhir semester yakni pembayaran uang Sidang Skripsi online.</p>
-                            <h4 class="text-center">Biaya Pendidikan Per Semester</h4>
-                            <table class="table table-bordered">
-                                <tr class="bg-info text-center">
-                                    <th>Program Studi</th>
-                                    <th>UPP</th>
-                                    <th>UPS</th>
-                                    <th>Jumlah</th>
-                                </tr>
-                                <tr>
-                                    <td>Manajemen Kontemporer (S1)</td>
-                                    <td>Rp. 1.000.000,00</td>
-                                    <td>Rp. 2.000.000,00</td>
-                                    <td>Rp. 3.000.000,00</td>
-                                </tr>
-                                <tr>
-                                    <td>Sistem Informasi (S1)</td>
-                                    <td>Rp. 1.000.000,00</td>
-                                    <td>Rp. 2.500.000,00</td>
-                                    <td>Rp. 3.500.000,00</td>
-                                </tr>
-                                <tr>
-                                    <td>Teknik Informatika (S1)</td>
-                                    <td>Rp. 1.000.000,00</td>
-                                    <td>Rp. 3.000.000,00</td>
-                                    <td>Rp. 4.000.000,00</td>
-                                </tr>
-                                <tr>
-                                    <td>Akuntansi dan Perpajakan (S1)</td>
-                                    <td>Rp. 1.000.000,00</td>
-                                    <td>Rp. 2.000.000,00</td>
-                                    <td>Rp. 2.000.000,00</td>
-                                </tr>
-                                <tr>
-                                    <td>Penyiaran dan Komunikasi Digital (S1)</td>
-                                    <td>Rp. 1.000.000,00</td>
-                                    <td>Rp. 2.500.000,00</td>
-                                    <td>Rp. 3.500.000,00</td>
-                                </tr>
-                            </table>
-                            <h4 class="text-center">Biaya Sidang Skripsi Online</h4>
-                            <table class="table table-bordered">
-                                <tr class="bg-info text-center">
-                                    <th>Program Studi</th>
-                                    <th>Sidang Skripsi</th>
-                                </tr>
-                                <tr>
-                                    <td>Manajemen Kontemporer (S1)</td>
-                                    <td>Rp. 1.500.000,00</td>
-                                </tr>
-                                <tr>
-                                    <td>Sistem Informasi (S1)</td>
-                                    <td>Rp. 1.500.000,00</td>
-                                </tr>
-                                <tr>
-                                    <td>Teknik Informatika (S1)</td>
-                                    <td>Rp. 1.500.000,00</td>
-                                </tr>
-                                <tr>
-                                    <td>Akuntansi dan Perpajakan (S1)</td>
-                                    <td>Rp. 1.500.000,00</td>
-                                </tr>
-                                <tr>
-                                    <td>Penyiaran dan Komunikasi Digital (S1)</td>
-                                    <td>Rp. 1.500.000,00</td>
-                                </tr>
-                            </table>
+                            <p style="text-align: justify;">Setiap mahasiswa yang telah diterima di Universitas Siber Asia memiliki kewajiban Administratif pembayaran sebesar Rp. 3,000,000 per Semester</p>
                         </div>
                     </div>
                 </div>
