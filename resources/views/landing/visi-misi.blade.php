@@ -159,7 +159,6 @@
                                         </li>
                                         <li><a href="{{ route('landing.standar_biaya_perkuliahan') }}">Standar Biaya
                                                 Perkuliahan</a></li>
-                                        <li><a href="{{ route('landing.beasiswa') }}">Beasiswa</a></li>
                                         <li><a href="{{ route('landing.pembiayaan_soft_loan') }}">Pembiayaan Soft
                                                 Loan</a></li>
                                     </ul>
