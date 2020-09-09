@@ -520,7 +520,7 @@
                                     <div class="cours-bx">
                                         <div class="action-box">
                                             <img src="{{ asset('homepages/images/courses/img4.jpg') }}" alt="">
-                                            <a href="{{ url('/manajemen-kontemporer') }}" class="btn">Read More</a>
+                                            <a href="{{ url('/manajemen') }}" class="btn">Read More</a>
                                         </div>
                                         <div class="info-bx d-flex justify-content-center" style="height: 80px;">
                                             <h5>Manajemen</h5>
@@ -542,7 +542,7 @@
                                     <div class="cours-bx">
                                         <div class="action-box">
                                             <img src="{{ asset('homepages/images/courses/img5.jpg') }}" alt="">
-                                            <a href="{{ url('/teknologi-informasi') }}" class="btn">Read More</a>
+                                            <a href="{{ url('/informatika') }}" class="btn">Read More</a>
                                         </div>
                                         <div class="info-bx d-flex justify-content-center" style="height: 80px;">
                                             <h5>Informatika</h5>
@@ -553,7 +553,7 @@
                                     <div class="cours-bx">
                                         <div class="action-box">
                                             <img src="{{ asset('homepages/images/courses/img1.jpg') }}" alt="">
-                                            <a href="{{ url('/akuntansi-dan-perpajakan') }}" class="btn">Read More</a>
+                                            <a href="{{ url('/akuntansi') }}" class="btn">Read More</a>
                                         </div>
                                         <div class="info-bx d-flex justify-content-center" style="height: 80px;">
                                             <h5>Akuntansi</h5>
@@ -564,7 +564,7 @@
                                     <div class="cours-bx">
                                         <div class="action-box">
                                             <img src="{{ asset('homepages/images/courses/img3.jpg') }}" alt="">
-                                            <a href="{{ url('/penyiaran-dan-komunikasi-digital') }}" class="btn">Read
+                                            <a href="{{ url('/komunikasi') }}" class="btn">Read
                                                 More</a>
                                         </div>
                                         <div class="info-bx text-center d-flex justify-content-center"
