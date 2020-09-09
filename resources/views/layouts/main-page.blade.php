@@ -73,8 +73,8 @@
                                 <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a
                                     Question</a>
                             </li>
-                            <li><a href="mailto:asiacyberuni@gmail.com"><i
-                                class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a>
+                            <li><a href="mailto:pmb@unsia.ac.id"><i
+                                class="fa fa-envelope-o"></i>pmb@unsia.ac.id</a>
                     </li>
                             {{-- <li><a href="http://lms-usa.site/webmail" target="_blank"><i
                                         class="fa fa-envelope-open-o"></i>Web
@@ -284,7 +284,7 @@
                                 <ul>
                                     <li><i class="fa fa-home mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;Menara UNAS Ragunan</li>
                                     <li><i class="fa fa-phone mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;+62-21-27806189</li>
-                                    <li><i class="fa fa-envelope mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;asiacyberuni@gmail.com</li>
+                                    <li><i class="fa fa-envelope mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;pmb@unsia.ac.id</li>
                                 </ul>
                                 {{-- <table class="table table-borderless">
                                     <tr>
@@ -297,7 +297,7 @@
                                     </tr>
                                     <tr>
                                       <th class="text-right"><i class="fa fa-envelope"></i></th>
-                                      <td >asiacyberuni@gmail.com</td>
+                                      <td >pmb@unsia.ac.id</td>
                                     </tr>
                                 </table> --}}
                                 {{-- <p class="m-b20">Masukkan email anda untuk mengetahui info terupdate dari kami</p>

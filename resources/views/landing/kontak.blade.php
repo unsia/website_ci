@@ -41,7 +41,7 @@
                                   </tr>
                                   <tr>
                                     <th width="50px" class="text-right"><i class="fa fa-envelope" style="font-size:36px"></i></th>
-                                    <td width="550px">asiacyberuni@gmail.com</td>
+                                    <td width="550px">pmb@unsia.ac.id</td>
                                   </tr>
                                   <tr>
                                     <th width="50px" class="text-right"><i class="fa fa-facebook" style="font-size:36px"></i></th>
@@ -52,7 +52,7 @@
                                     <td width="550px">Asiacyberuniversity</td>
                                   </tr>
                               </table>
-                            
+
                         </div>
                     </div>
                 </div>

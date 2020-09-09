@@ -1,6 +1,6 @@
 @extends('layouts.main-page')
 
-@section('active-penerimaan', 'active') 
+@section('active-penerimaan', 'active')
 
 @section('contentBox')
         <!-- Page Heading Box ==== -->
@@ -73,7 +73,7 @@
                                     </p>
                                     <h6>4. Jalur Transfer/Pindahan/Studi Lanjut D1-D3 (Diploma) ke S1 (Strata 1)</h6>
                                     <p style="padding-left: 18px; text-align: justify">
-                                        Merupakan jalur perkuliahan online untuk mahasiswa yang telah lulus dari Program Diploma Perguruan Tinggi dalam dan luar negeri untuk memasuki Program Studi S1 di Universitas Siber Asia dengan konversi jumlah SKS (Satuan Kredit Semester) yang telah ditempuh. Sisa SKS yang akan ditempuh minimal adalah (144 SKS – N SKS) dimana  N SKS adalah jumlah SKS yang telah ditempuh dari program diploma (D1, D2, dan D3). 
+                                        Merupakan jalur perkuliahan online untuk mahasiswa yang telah lulus dari Program Diploma Perguruan Tinggi dalam dan luar negeri untuk memasuki Program Studi S1 di Universitas Siber Asia dengan konversi jumlah SKS (Satuan Kredit Semester) yang telah ditempuh. Sisa SKS yang akan ditempuh minimal adalah (144 SKS – N SKS) dimana  N SKS adalah jumlah SKS yang telah ditempuh dari program diploma (D1, D2, dan D3).
                                     </p>
                                     <p style="padding-left: 18px; text-align: justify">
                                         <strong>Persyaratan Administratif:</strong></br>
@@ -87,7 +87,7 @@
                                 <div class="mt-3">
                                     <h6>Standar Biaya Pendaftaran</h6>
                                     <p>
-                                        Biaya pendaftaran untuk setiap jalur dikenakan sebesar Rp. 300.000,00
+                                        Bebas biaya pendaftaran untuk setiap jalur
                                     </p>
                                 </div>
                                 <div class="mt-3">
@@ -102,78 +102,34 @@
                                         <thead style="background-color: #A5C1E1">
                                             <tr>
                                             <th scope="col">Program Studi</th>
-                                            <th scope="col">UPP</th>
-                                            <th scope="col">UPS</th>
                                             <th scope="col">Jumlah</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr class="text-left">
                                                 <td>Manajemen (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 2.000.000,00</td>
                                                 <td>Rp. 3.000.000,00</td>
                                             </tr>
                                             <tr class="text-left">
                                                 <td>Sistem Informasi (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 2.500.000,00</td>
-                                                <td>Rp. 3.500.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Teknik Informatika (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
                                                 <td>Rp. 3.000.000,00</td>
-                                                <td>Rp. 4.000.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Akuntansi (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 2.000.000,00</td>
-                                                <td>Rp. 2.000.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Komunikasi Digital (S1)</td>
-                                                <td>Rp. 1.000.000,00</td>
-                                                <td>Rp. 2.500.000,00</td>
-                                                <td>Rp. 3.500.000,00</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                                <div class="text-center mt-3">
-                                    <h6>Biaya Sidang Skripsi Online</h6>
-                                    <table class="table">
-                                        <thead style="background-color: #A5C1E1">
-                                            <tr>
-                                            <th scope="col">Program Studi</th>
-                                            <th scope="col">Sidang Skripsi</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr class="text-left">
-                                                <td>Manajemen (S1)</td>
-                                                <td>Rp. 1.500.000,00</td>
-                                            </tr>
-                                            <tr class="text-left">
-                                                <td>Sistem Informasi (S1)</td>
-                                                <td>Rp. 1.500.000,00</td>
                                             </tr>
                                             <tr class="text-left">
                                                 <td>Teknik Informatika (S1)</td>
-                                                <td>Rp. 1.500.000,00</td>
+                                                <td>Rp. 3.000.000,00</td>
                                             </tr>
                                             <tr class="text-left">
                                                 <td>Akuntansi (S1)</td>
-                                                <td>Rp. 1.500.000,00</td>
+                                                <td>Rp. 3.000.000,00</td>
                                             </tr>
                                             <tr class="text-left">
                                                 <td>Komunikasi Digital (S1)</td>
-                                                <td>Rp. 1.500.000,00</td>
+                                                <td>Rp. 3.000.000,00</td>
                                             </tr>
                                         </tbody>
                                     </table>
                                 </div>
+                                
                                 <div class="mt-3">
                                     <h6>Gelombang Penerimaan Mahasiswa Baru</h6>
                                     <p style="text-align: justify">

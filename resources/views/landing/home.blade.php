@@ -2,6 +2,15 @@
 <html lang="en">
 
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177377008-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-177377008-1');
+  </script>
 
     <!-- META ============================================= -->
     <meta charset="utf-8">
@@ -72,8 +81,8 @@
                                 <li><a href="{{ route('landing.faq') }}"><i class="fa fa-question-circle"></i>Ask a
                                         Question</a>
                                 </li>
-                                <li><a href="mailto:asiacyberuni@gmail.com"><i
-                                            class="fa fa-envelope-o"></i>asiacyberuni@gmail.com</a>
+                                <li><a href="mailto:pmb@unsia.ac.id"><i
+                                            class="fa fa-envelope-o"></i>pmb@unsia.ac.id</a>
                                 </li>
                                 {{-- <li><a href="http://lms-usa.site/webmail" target="_blank"><i
                                             class="fa fa-envelope-open-o"></i>Web
@@ -628,7 +637,7 @@
                                             </a>
                                         </div>
                                         <div class="link-web">
-                                            <a href="http://cyberlibrary.unsia.id/" target="_blank">
+                                            <a href="http://cyberlibrary.unsia.ac.id/" target="_blank">
                                                 <div class="col mr-2 ml-2 linkdigilib">
                                                     <div class="text-center mb-5 imgdigilib">
                                                         <img src="{{ asset('homepages/images/icon/book.png') }}"
@@ -959,7 +968,7 @@
                                 </ul>
                             </div>
                             <div class="pt-btn-join">
-                                <a href="https://akademik.unsia.id/spmbfront/" class="btn" target="_blank">Daftar Sekarang</a>
+                                <a href="https://akademik.unsia.ac.id/spmbfront/" class="btn" target="_blank">Daftar Sekarang</a>
                             </div>
                         </div>
                     </div>
@@ -972,7 +981,7 @@
                                 <ul>
                                     <li><i class="fa fa-home mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;Menara UNAS Ragunan</li>
                                     <li><i class="fa fa-phone mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;+62-21-27806189</li>
-                                    <li><i class="fa fa-envelope mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;asiacyberuni@gmail.com</li>
+                                    <li><i class="fa fa-envelope mb-3"></i>&nbsp;&nbsp;&nbsp;&nbsp;pmb@unsia.ac.id</li>
                                 </ul>
                                 {{-- <h5 class="footer-title">Ikuti Kami</h5>
                                 <p class="m-b20">Masukkan email anda untuk mengetahui info terupdate dari kami</p>
