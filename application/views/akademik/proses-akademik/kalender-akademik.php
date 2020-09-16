@@ -82,7 +82,7 @@
                                             </tr>
                                             <tr class="text-left">
                                                 <td>4</td>
-                                                <td>UTS (UJIAN AKHIR SEMESTER)</td>
+                                                <td>UTS (UJIAN TENGAH SEMESTER)</td>
                                                 <td>Minggu ke-1 dan ke-3 November 2020</td>
                                             </tr>
                                             <tr class="text-left">
@@ -98,7 +98,7 @@
                                             </tr>
                                             <tr class="text-left">
                                                 <td>7</td>
-                                                <td>UAS (UJIAN TENGAH SEMESTER)</td>
+                                                <td>UAS (UJIAN AKHIR SEMESTER)</td>
                                                 <td>Minggu ke-1 dan ke-2 Februari 2021</td>
                                             </tr>
                                         </tbody>

@@ -12,12 +12,8 @@
                   <b>Periode Pendaftaran</b>
                   <ol type="a" class="ml-3">
                     <li>
-                      Periode Penerimaan Tahap I
-                      <p>Pendaftaran dibuka pada September – Maret</p>
-                    </li>
-                    <li>
-                      Periode Penerimaan Tahap II
-                      <p>Pendaftaran dibuka pada Maret - September</p>
+                      Periode Penerimaan
+                      <p>Pendaftaran dibuka pada September</p>
                     </li>
                   </ol>
                 </li>

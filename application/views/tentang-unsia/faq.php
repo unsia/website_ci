@@ -154,9 +154,8 @@
               <div id="faq4" class="acod-body collapse">
                 <div class="acod-content">
                   <p style="text-align: justify">
-                    Universitas Siber Asia (UNSIA/ Asia Cyber
-                    University) merupakan kampus atau perguruan tinggi
-                    berbasis full online learning yang mendapatkan izin
+                    Universitas Siber Asia (UNSIA) merupakan kampus atau perguruan tinggi
+                    berbasis full online yang mendapatkan izin
                     prinsip pendirian dari Kemenristek DIKTI pada 26
                     Agustus 2019 pada Hari Kebangkitan Teknologi
                     Nasional, di Bali. Universitas Siber Asia ini adalah
@@ -173,7 +172,7 @@
                     class learning).
                   </p>
                   <p style="text-align: justify">
-                    Pendidikan berbasis full online learning dan full
+                    Pendidikan berbasis full online dan full
                     learning management system ini juga selaras dengan
                     kebijakan pemerintah dan menjawab tantangan Era
                     Revolusi Industri 4.0, memberikan efisiensi dalam
@@ -203,10 +202,7 @@
                     kompeten di bidangnya baik dari dalam negeri maupun
                     luar negeri, Universitas Siber Asia ditargetkan akan
                     mulai menerima mahasiswa baru tahun depan melalui
-                    lima program studi yang akan dibuka yaitu Manajemen
-                    Kontemporer dan e-commerce, Akuntansi dan
-                    Perpajakan, Sistem Informasi, Informatika, Penyiaran
-                    dan Komunikasi Digital.
+                    lima program studi yang akan dibuka yaitu Manajemen, Akuntansi, Sistem Informasi, Informatika, Komunikasi.
                   </p>
                   <p style="text-align: justify">
                     Untuk menyiapkan universitas Siber Asia, YMIK

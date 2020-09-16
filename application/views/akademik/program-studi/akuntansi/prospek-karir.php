@@ -6,7 +6,7 @@
                 <h6></h6>
             </div>
             <div class="widget-inner">
-                <p style="text-align: justify">Lulusan Akuntansi & Perpajakan mampu menguasai,menerapkan dan mengembangkan bidang keilmuan akuntansi yang memiliki karakter dan berintegritas serta mempersiapkan lulusan untuk melanjutkan jenjang profesi sebagai akuntan beregister negara (sesuai dengan Pengembangan Profesi Akuntansi Indonesia; ditetapkan oleh Pusat Pembinaan Akuntan dan Jasa Penilai; SEKJEN KEMENKEU).</p>
+                <p style="text-align: justify">Lulusan Akuntansi mampu menguasai,menerapkan dan mengembangkan bidang keilmuan akuntansi yang memiliki karakter dan berintegritas serta mempersiapkan lulusan untuk melanjutkan jenjang profesi sebagai akuntan beregister negara (sesuai dengan Pengembangan Profesi Akuntansi Indonesia; ditetapkan oleh Pusat Pembinaan Akuntan dan Jasa Penilai; SEKJEN KEMENKEU).</p>
                 <p style="text-align: justify">Dengan mengacu kepada Degree Outcome dan Profile Lulusan yang telah ditetapkan tersebut dapat diharapkan bahwa lulusan Prodi Akuntansi berperan aktif atas pengembangan keilmuan akuntansi untuk para stakeholder dan masyarakat pada umumnya.Lulusan Prodi Akuntansi tersebut dapat mengisi bidang profesi yang seluas – luasnya terkait dengan bidang keilmuan akuntansi yang telah dirumuskan oleh Ikatan Akuntan Indonesia ( IAI ).Adapun profesi–profesi tersebut dapat didefinisikan sbb :</p>
                 <table class="table table-bordered">
                     <tr class="bg-info text-center">

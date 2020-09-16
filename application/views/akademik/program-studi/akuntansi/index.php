@@ -70,17 +70,17 @@
                 <h4>Profil</h4>
             </div>
             <div class="widget-inner">
-                <p style="text-align: justify">Program Studi Akuntansi & Perpajakan merupakan disiplin ilmu
-                    yang berhubungan dengan akuntansi dan perpajakan guna menyelesaikan masalah-masalah
-                    perhitungan akuntansi dan perpajakan dalam perusahaan. Lulusan Akuntansi & Perpajakan
+                <p style="text-align: justify">Program Studi Akuntansi merupakan disiplin ilmu
+                    yang berhubungan dengan akuntansi guna menyelesaikan masalah-masalah
+                    perhitungan akuntansi dalam perusahaan. Lulusan Akuntansi
                     mempunyai kesempatan karir di bidang perbankan maupun perusahaan.</p>
                 <p style="text-align: justify">Program ini bertujuan membekali mahasiswa dengan wawasan
-                    pengetahuan dan keterampilan dalam pengembangan Akuntansi & Perpajakan, tren penggunaan
-                    dan kebutuhan Akuntansi & Perpajakan strategis bagi perusahaan (corporate information
-                    systems), penggunaan sistem Akuntansi & Perpajakan yang berbasis e-business, serta
+                    pengetahuan dan keterampilan dalam pengembangan Akuntansi, tren penggunaan
+                    dan kebutuhan Akuntansi strategis bagi perusahaan (corporate information
+                    systems), penggunaan sistem Akuntansi yang berbasis e-business, serta
                     pengetahuan teknologi dan bisnis yang dapat diaplikasikan dalam dunia usaha dan dunia
                     industri (DUDI). Mahasiswa akan diarahkan menjadi seorang pakar di dalam perencanaan
-                    strategi dan pemanfaatan Akuntansi & Perpajakan guna mendukung kinerja bisnis sebuah
+                    strategi dan pemanfaatan Akuntansi guna mendukung kinerja bisnis sebuah
                     organisasi.</p>
             </div>
         </div>

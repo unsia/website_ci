@@ -1,0 +1,17 @@
+.whatsapp {
+	overflow: hidden !important;
+	background-color: transparent !important;
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+}
+
+.head-jumbo {
+	background-image: url(../../images/marketing/bg.jpg);
+	height: 600px;
+}
+
+.ovpr-dark:after,
+.ovpr:after {
+	opacity: 0.75;
+}

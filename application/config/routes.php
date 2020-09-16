@@ -55,6 +55,8 @@ $route['translate_uri_dashes'] = FALSE;
 
 // Custom Routes
 
+$route['kuliah-online-pertama'] = 'home/kuliahonlinepertama';
+
 // TENTANG UNSIA
 $route['contact'] = 'home/contact';
 $route['tentang-unsia/salam-rektor'] = 'home/salamrektor';

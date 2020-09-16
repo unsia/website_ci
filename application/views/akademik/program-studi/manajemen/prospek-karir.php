@@ -3,7 +3,7 @@
     <div class="col-lg-12 m-b30">
         <div class="widget-box">
             <div class="wc-title">
-                <h6>Lulusan Program Studi Manajemen Kontemporer Universitas Siber Asia nantinya diharapkan dapat menjadi orofesi seperti dibawah ini</h6>
+                <h6>Lulusan Program Studi Manajemen Universitas Siber Asia nantinya diharapkan dapat menjadi orofesi seperti dibawah ini</h6>
             </div>
             <div class="widget-inner">
                 <table class="table table-borderless">

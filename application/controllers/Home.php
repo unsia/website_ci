@@ -597,4 +597,10 @@ class Home extends CI_Controller
 	{
 		$this->load->view('error404');
 	}
+
+	public function kuliahOnlinePertama()
+	{
+		$this->load->view('marketing');
+	}
+	
 }
