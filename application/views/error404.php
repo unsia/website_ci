@@ -62,6 +62,17 @@
                         <h5>Halaman yang kamu cari tidak ditemukan.</h5>
                         <div class="">
                             <a href="<?= base_url(); ?>" class="btn outline black">Kembali ke Beranda</a>
+                            <ul class="list-inline contact-social-bx mt-4">
+                  <li>
+                <a target="_blank" href="https://www.facebook.com/Universitas-Siber-Asia-115760190260178" class="btn outline radius-xl"><i class="fa fa-facebook"></i></a>
+              </li>
+              <li>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20Admin%20UNSIA" class="btn outline radius-xl"><i class="fa fa-whatsapp"></i></a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.instagram.com/asiacyberuniversity/" class="btn outline radius-xl"><i class="fa fa-instagram"></i></a>
+              </li>
+                  </ul>
                         </div>
                     </div>
                 </div>

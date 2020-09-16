@@ -9,15 +9,15 @@
           </div>
           <div class="pt-social-link">
             <ul class="list-inline m-a0">
-              <!-- <li>
-                <a href="#" class="btn-link"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li>
-                <a href="#" class="btn-link"><i class="fa fa-twitter"></i></a>
-              </li> -->
-              <li>
-                <a target="_blank" href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a>
-              </li>
+            <li>
+                    <a target="_blank" href="https://www.facebook.com/Universitas-Siber-Asia-115760190260178" class="btn-link"><i class="fa fa-facebook"></i></a>
+                  </li>
+                  <li>
+                    <a target="_blank" href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20Admin%20UNSIA" class="btn-link"><i class="fa fa-whatsapp"></i></a>
+                  </li>
+                  <li>
+                    <a target="_blank" href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a>
+                  </li>
             </ul>
           </div>
           <div class="pt-btn-join">

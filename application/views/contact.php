@@ -23,26 +23,15 @@
                   </div>
                   <h5 class="m-t0 m-b20">Follow Us</h5>
                   <ul class="list-inline contact-social-bx">
-                    <li>
-                      <a href="#" class="btn outline radius-xl"
-                        ><i class="fa fa-facebook"></i
-                      ></a>
-                    </li>
-                    <li>
-                      <a href="#" class="btn outline radius-xl"
-                        ><i class="fa fa-twitter"></i
-                      ></a>
-                    </li>
-                    <li>
-                      <a href="#" class="btn outline radius-xl"
-                        ><i class="fa fa-linkedin"></i
-                      ></a>
-                    </li>
-                    <li>
-                      <a href="#" class="btn outline radius-xl"
-                        ><i class="fa fa-instagram"></i
-                      ></a>
-                    </li>
+                  <li>
+                <a target="_blank" href="https://www.facebook.com/Universitas-Siber-Asia-115760190260178" class="btn outline radius-xl"><i class="fa fa-facebook"></i></a>
+              </li>
+              <li>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20Admin%20UNSIA" class="btn outline radius-xl"><i class="fa fa-whatsapp"></i></a>
+              </li>
+              <li>
+                <a target="_blank" href="https://www.instagram.com/asiacyberuniversity/" class="btn outline radius-xl"><i class="fa fa-instagram"></i></a>
+              </li>
                   </ul>
                 </div>
               </div>
