@@ -2,11 +2,14 @@
 <html lang="en">
 
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177377008-1"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177377008-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
     gtag('js', new Date());
 
     gtag('config', 'UA-177377008-1');
@@ -565,7 +568,7 @@
                 <div class="item">
                   <div class="cours-bx">
                     <div class="action-box">
-                      <img src="<?= base_url(); ?>assets/images/courses/pic4.jpg" alt="" />
+                      <img src="<?= base_url(); ?>assets/images/courses/pic5.jpg" alt="" />
                       <a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>" class="btn">Read More</a>
                     </div>
                     <div class="info-bx text-center">
