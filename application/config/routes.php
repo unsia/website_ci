@@ -83,8 +83,13 @@ $route['pendaftaran/pembiayaan-soft-loan'] = 'home/pembiayaansoftloan';
 $route['akademik/program-kampus-merdeka'] = 'home/programkampusmerdeka';
 $route['akademik/panduan-pembelajaran-online'] = 'home/panduanpembelajaranonline';
 
+// BERITA
+$route['arsip/berita/berita-list'] = 'home/listberita';
+
 // BLOG
-$route['blog/blog-list'] = 'home/listblog';
+$route['arsip/blog/blog-list'] = 'home/listblog';
+$route['arsip/blog/blog-detail-belajar-online'] = 'home/detailblogsatu';
+$route['arsip/blog/blog-detail-kelas-online'] = 'home/detailblogdua';
 
 //AKADEMIK - PROSES AKADEMIK
 $route['akademik/proses-akademik/panduan-akademik'] = 'home/panduanakademik';

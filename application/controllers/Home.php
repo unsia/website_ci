@@ -143,15 +143,47 @@ class Home extends CI_Controller
 		$this->load->view('partial/home_footer');
 	}
 
+	// BERITA
+	public function listBerita()
+	{
+		$data['title'] = 'Berita List';
+		$data['menu'] = 'Arsip';
+		$data['submenu'] = 'Berita';
+		$this->load->view('partial/home_header', $data);
+		$this->load->view('partial/home_navbar', $data);
+		$this->load->view('arsip/berita/berita-list');
+		$this->load->view('partial/home_footer');
+	}
+
 	// BLOG
 	public function listBlog()
 	{
 		$data['title'] = 'Blog List';
-		$data['menu'] = 'Blog';
-		$data['submenu'] = '';
+		$data['menu'] = 'Arsip';
+		$data['submenu'] = 'Blog';
 		$this->load->view('partial/home_header', $data);
 		$this->load->view('partial/home_navbar', $data);
-		$this->load->view('blog/blog-list');
+		$this->load->view('arsip/blog/blog-list');
+		$this->load->view('partial/home_footer');
+	}
+	public function detailBlogSatu()
+	{
+		$data['title'] = 'Blog - Belajar Online';
+		$data['menu'] = 'Arsip';
+		$data['submenu'] = 'Blog';
+		$this->load->view('partial/home_header', $data);
+		$this->load->view('partial/home_navbar', $data);
+		$this->load->view('arsip/blog/blog-details-satu');
+		$this->load->view('partial/home_footer');
+	}
+	public function detailBlogDua()
+	{
+		$data['title'] = 'Blog - Kelas Online';
+		$data['menu'] = 'Arsip';
+		$data['submenu'] = 'Blog';
+		$this->load->view('partial/home_header', $data);
+		$this->load->view('partial/home_navbar', $data);
+		$this->load->view('arsip/blog/blog-details-dua');
 		$this->load->view('partial/home_footer');
 	}
 

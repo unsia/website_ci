@@ -2,6 +2,25 @@
 <html lang="en">
 
 <head>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGCJ3LC');</script>
+ 
+ <script>
+ "trackEvent": {
+          "on": "click",
+          "selector": "#btn-whatsapp",
+          "request": "event",
+          "vars": {
+            "eventName": "AddToCart"
+          }
+},
+</script>
+
+<!-- End Google Tag Manager -->
 
   <!-- META ============================================= -->
   <meta charset="utf-8" />
@@ -57,9 +76,10 @@
 </head>
 
 <body id="bg">
-	<div class="whatsapp d-flex justify-content-end">
-		<a href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20Admin%20UNSIA"><img src="<?= base_url(); ?>assets/images/marketing/whatsapp.png" width="200" alt=""></a>
-	</div>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 	<div class="page-wraper">
 		<div id="loading-icon-bx"></div>
 		<!-- Header Top ==== -->
@@ -85,7 +105,7 @@
 					<div class="container clearfix">
 						<!-- Header Logo ==== -->
 						<div class="menu-logo">
-							<a href="index.html"><img src="assets/images/logo.png" alt="" /></a>
+							<a href="<?= base_url(); ?>"><img src="assets/images/logo.png" class="lazy" alt="" /></a>
 						</div>
 						<!-- Mobile Nav Button ==== -->
 						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button"
@@ -106,7 +126,7 @@
 						<!-- Navigation Menu ==== -->
 						<div class="menu-links navbar-collapse collapse justify-content-start" id="menuDropdown">
 						<div class="menu-logo">
-                <a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
+                <a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png" class="lazy" alt="" /></a>
               </div>
               <ul class="nav navbar-nav">
                 <li class="active"><a href="/">Beranda</a></li>
@@ -155,7 +175,7 @@
                     </li>
                     <li class="add-menu-right">
                       <a target="_blank" href="https://akademik.unsia.ac.id/spmbfront">
-                        <img src="<?= base_url(); ?>assets/images/adv/adv.jpg" alt="" />
+                        <img src="<?= base_url(); ?>assets/images/adv/adv.jpg" class="lazy" alt="" />
                       </a>
                     </li>
                   </ul>
@@ -221,8 +241,14 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="<?= base_url('blog/blog-list') ?>">Berita</a>
-                </li>
+                      <a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
+                      <ul class="sub-menu">
+                        <li><a href="<?= base_url('arsip/berita/berita-list') ?>">Berita</a></li>
+                        <li>
+                          <a href="<?= base_url('arsip/blog/blog-list') ?>">Blog</a>
+                        </li>
+                      </ul>
+                    </li>
                 <li><a href="<?= base_url('contact') ?>">Kontak</a></li>
               </ul>
 							<div class="nav-social-link">
@@ -264,11 +290,11 @@
 									tapi lagi pandemi begini?</h2>
 								<table class="table table-borderless">
 									<tr>
-										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" width="20" alt="" /></td>
+										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" class="lazy" alt="" /></td>
 										<td>Mau keluar rumah tapi takut Virus Corona</td>
 									</tr>
 									<tr>
-										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" width="20" alt="" /></td>
+										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" class="lazy" alt="" /></td>
 										<td>
 											Mau mulai kuliah tatap muka, mikir lagi biaya takut mahal.
 										</td>
@@ -277,29 +303,29 @@
 							</div>
 							<div class="col-lg-7 col-md-12 heading-bx p-lr">
 								<div class="video-bx">
-									<img src="<?= base_url(); ?>assets/images/marketing/1.jpg" alt="" />
+									<img src="<?= base_url(); ?>assets/images/marketing/1.png" class="lazy" alt="" />
 								</div>
 							</div>
 						</div>
 						<div class="row align-items-center d-flex">
 							<div class="col-lg-5 col-md-12 heading-bx">
 								<div class="video-bx">
-									<img src="<?= base_url(); ?>assets/images/marketing/2.jpg" alt="" />
+									<img src="<?= base_url(); ?>assets/images/marketing/2.png" class="lazy" alt="" />
 								</div>
 							</div>
 							<div class="col-lg-7 col-md-12 heading-bx p-lr">
 								<h2 class="m-b10">Mau kuliah tapi sibuk kerja?</h2>
 								<table class="table table-borderless">
 									<tr>
-										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" width="20" alt="" /></td>
+										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" class="lazy" alt="" /></td>
 										<td>Pulang kerumah pengenya langsung tidur</td>
 									</tr>
 									<tr>
-										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" width="20" alt="" /></td>
+										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" class="lazy" alt="" /></td>
 										<td>Banyak tugas dari kantor</td>
 									</tr>
 									<tr>
-										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" width="20" alt="" /></td>
+										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" class="lazy" alt="" /></td>
 										<td>Rasanya Lelah untuk berpikir setelah seharian ngantor</td>
 									</tr>
 								</table>
@@ -307,7 +333,7 @@
 						</div>
 						<h2 class="text-center">Mau kuliah tapi males macet-macetan?</h2>
 						<div class="text-center mt-4">
-							<img src="<?= base_url(); ?>assets/images/marketing/3.jpg" width="600" alt="" />
+							<img src="<?= base_url(); ?>assets/images/marketing/3.jpg" class="lazy" alt="" />
 						</div>
 						<h2 class="text-center mt-4">
 							Di Unsia kamu bisa meraih gelar sarjanamu cukup dari Rumah!
@@ -418,7 +444,7 @@
 									</table>
 								</div>
 								<div class="col-12 col-md-8">
-									<img src="<?= base_url(); ?>assets/images/marketing/study.jpg" width="500" alt="" />
+									<img src="<?= base_url(); ?>assets/images/marketing/study.jpg" class="lazy"alt="" />
 								</div>
 							</div>
 						</div>
@@ -428,11 +454,11 @@
 							<div class="col-6">
 								<table class="table table-borderless">
 									<tr>
-										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" width="20" alt="" /></td>
+										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" class="lazy" alt="" /></td>
 										<td>Bebas biaya pendaftaran</td>
 									</tr>
 									<tr>
-										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" width="20" alt="" /></td>
+										<td><img src="<?= base_url(); ?>assets/images/marketing/icon.jpg" class="lazy" alt="" /></td>
 										<td>
 											Biaya perkuliahan Rp. 3.000.000/ semester ( Bisa dicicil 3x )
 										</td>
@@ -497,7 +523,8 @@
 
 						<h4 class="text-center mt-4">#semuabisaKULIAHdiUNSIA</h4>
 						<div class="text-center">
-							<a href="https://akademik.unsia.ac.id/spmbfront/" class="btn btn-primary mt-4">DAFTAR
+							
+							<a href="https://api.whatsapp.com/send?phone=6281213732772&text=Hi+admin%2C+saya+tertarik+kuliah+di+UNSIA.+Info+lanjutnya+%21" class="btn btn-primary mt-4" id="btn-whatsapp">DAFTAR
 								SEKARANG JUGA</a>
 						</div>
 					</div>
@@ -514,7 +541,7 @@
       <div class="container">
         <div class="d-flex align-items-stretch">
           <div class="pt-logo mr-auto">
-            <a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo-white.png" width="211px" /></a>
+            <a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo-white.png" class="lazy" width="211px" /></a>
           </div>
           <div class="pt-social-link">
             <ul class="list-inline m-a0">
@@ -591,28 +618,28 @@
             <h5 class="footer-title">Gallery</h5>
             <ul class="magnific-image">
               <li>
-                <a href="<?= base_url(); ?>assets/images/gallery/pic1.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic1.jpg" alt="" /></a>
+                <a href="<?= base_url(); ?>assets/images/gallery/pic1.jpg" class="magnific-anchor"><img class="lazy" src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic1.jpg" alt="" /></a>
               </li>
               <li>
-                <a href="<?= base_url(); ?>assets/images/gallery/pic2.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic2.jpg" alt="" /></a>
+                <a href="<?= base_url(); ?>assets/images/gallery/pic2.jpg" class="magnific-anchor"><img class="lazy" src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic2.jpg" alt="" /></a>
               </li>
               <li>
-                <a href="<?= base_url(); ?>assets/images/gallery/pic3.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic3.jpg" alt="" /></a>
+                <a href="<?= base_url(); ?>assets/images/gallery/pic3.jpg" class="magnific-anchor"><img class="lazy" src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic3.jpg" alt="" /></a>
               </li>
               <li>
-                <a href="<?= base_url(); ?>assets/images/gallery/pic4.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic4.jpg" alt="" /></a>
+                <a href="<?= base_url(); ?>assets/images/gallery/pic4.jpg" class="magnific-anchor"><img class="lazy" src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic4.jpg" alt="" /></a>
               </li>
               <li>
-                <a href="<?= base_url(); ?>assets/images/gallery/pic5.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic5.jpg" alt="" /></a>
+                <a href="<?= base_url(); ?>assets/images/gallery/pic5.jpg" class="magnific-anchor"><img class="lazy" src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic5.jpg" alt="" /></a>
               </li>
               <li>
-                <a href="<?= base_url(); ?>assets/images/gallery/pic6.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic6.jpg" alt="" /></a>
+                <a href="<?= base_url(); ?>assets/images/gallery/pic6.jpg" class="magnific-anchor"><img class="lazy" src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic6.jpg" alt="" /></a>
               </li>
               <li>
-                <a href="<?= base_url(); ?>assets/images/gallery/pic7.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic7.jpg" alt="" /></a>
+                <a href="<?= base_url(); ?>assets/images/gallery/pic7.jpg" class="magnific-anchor"><img class="lazy" src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic7.jpg" alt="" /></a>
               </li>
               <li>
-                <a href="<?= base_url(); ?>assets/images/gallery/pic8.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic8.jpg" alt="" /></a>
+                <a href="<?= base_url(); ?>assets/images/gallery/pic8.jpg" class="magnific-anchor"><img class="lazy" src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic8.jpg" alt="" /></a>
               </li>
             </ul>
           </div>
@@ -636,6 +663,11 @@
 <button class="back-to-top fa fa-chevron-up"></button>
 </div>
 <!-- External JavaScripts -->
+<script>
+	    $(function() {
+        $('.lazy').lazy();
+    });
+</script>
 <script src="<?= base_url(); ?>assets/home/js/jquery.min.js"></script>
 <script src="<?= base_url(); ?>assets/home/vendors/bootstrap/js/popper.min.js"></script>
 <script src="<?= base_url(); ?>assets/home/vendors/bootstrap/js/bootstrap.min.js"></script>
@@ -650,7 +682,6 @@
 <script src="<?= base_url(); ?>assets/home/vendors/owl-carousel/owl.carousel.js"></script>
 <script src="<?= base_url(); ?>assets/home/js/functions.js"></script>
 <script src="<?= base_url(); ?>assets/home/js/contact.js"></script>
-<script src="<?= base_url(); ?>assets/home/vendors/switcher/switcher.js"></script>
 </body>
 
 

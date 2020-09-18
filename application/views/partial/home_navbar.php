@@ -1,4 +1,8 @@
 <body id="bg">
+  	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
   <div class="page-wraper">
     <div id="loading-icon-bx"></div>
 
@@ -148,8 +152,14 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="<?= base_url('blog/blog-list') ?>">Berita</a>
-                </li>
+                      <a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
+                      <ul class="sub-menu">
+                        <li><a href="<?= base_url('arsip/berita/berita-list') ?>">Berita</a></li>
+                        <li>
+                          <a href="<?= base_url('arsip/blog/blog-list') ?>">Blog</a>
+                        </li>
+                      </ul>
+                    </li>
                 <li><a href="<?= base_url('contact') ?>">Kontak</a></li>
               </ul>
             </div>
