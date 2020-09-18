@@ -93,221 +93,6 @@
 	<!-- End Google Tag Manager (noscript) -->
 	<div class="page-wraper">
 		<div id="loading-icon-bx"></div>
-		<!-- Header Top ==== -->
-		<header class="header rs-nav">
-			<div class="top-bar">
-				<div class="container">
-					<div class="row d-flex justify-content-between">
-						<div class="topbar-left">
-							<ul>
-								<li>
-									<a href="<?= base_url('tentang-unsia/faq') ?>"><i
-											class="fa fa-question-circle"></i>Ask a Question</a>
-								</li>
-								<li>
-									<a href="mailto:pmb@unsia.ac.id"><i class="fa fa-envelope-o"></i>pmb@unsia.ac.id</a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="sticky-header navbar-expand-lg">
-				<div class="menu-bar clearfix">
-					<div class="container clearfix">
-						<!-- Header Logo ==== -->
-						<div class="menu-logo">
-							<a href="<?= base_url(); ?>"><img src="assets/images/logo.png" class="lazy" alt="" /></a>
-						</div>
-						<!-- Mobile Nav Button ==== -->
-						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button"
-							data-toggle="collapse" data-target="#menuDropdown" aria-controls="menuDropdown"
-							aria-expanded="false" aria-label="Toggle navigation">
-							<span></span>
-							<span></span>
-							<span></span>
-						</button>
-						<!-- Author Nav ==== -->
-						<div class="secondary-menu">
-							<div class="secondary-inner">
-								<ul>
-								</ul>
-							</div>
-						</div>
-
-						<!-- Navigation Menu ==== -->
-						<div class="menu-links navbar-collapse collapse justify-content-start" id="menuDropdown">
-							<div class="menu-logo">
-								<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png"
-										class="lazy" alt="" /></a>
-							</div>
-							<ul class="nav navbar-nav">
-								<li class="active"><a href="/">Beranda</a></li>
-								<li>
-									<a href="javascript:;">Tentang UNSIA <i class="fa fa-chevron-down"></i></a>
-									<ul class="sub-menu">
-										<li>
-											<a href="<?= base_url('tentang-unsia/salam-rektor') ?>">Salam Rektor</a>
-										</li>
-										<li>
-											<a href="<?= base_url('tentang-unsia/kenapa-unsia') ?>">Kenapa UNSIA?</a>
-										</li>
-										<li>
-											<a href="<?= base_url('tentang-unsia/keunggulan-dan-manfaat') ?>">Keunggulan
-												dan Manfaat</a>
-										</li>
-										<li>
-											<a href="<?= base_url('tentang-unsia/list-of-partner') ?>">List of
-												Partner</a>
-										</li>
-										<li><a href="<?= base_url('tentang-unsia/sejarah') ?>">Sejarah</a></li>
-										<li><a href="<?= base_url('tentang-unsia/visi-misi') ?>">Visi Misi</a></li>
-										<li>
-											<a href="<?= base_url('tentang-unsia/struktur-organisasi') ?>">Struktur
-												Organisasi</a>
-										</li>
-										<li><a href="<?= base_url('tentang-unsia/faq') ?>">FAQ</a></li>
-									</ul>
-								</li>
-								<li class="add-mega-menu">
-									<a href="javascript:;">Pendaftaran <i class="fa fa-chevron-down"></i></a>
-									<ul class="sub-menu add-menu">
-										<li class="add-menu-left">
-											<h5 class="menu-adv-title">Pendaftaran</h5>
-											<ul>
-												<li>
-													<a href="<?= base_url('pendaftaran/info-pendaftaran') ?>">Info
-														Pendaftaran</a>
-												</li>
-												<li>
-													<a href="<?= base_url('pendaftaran/biaya-perkuliahan') ?>">Biaya
-														Perkuliahan</a>
-												</li>
-												<li>
-													<a href="<?= base_url('pendaftaran/beasiswa') ?>">Beasiswa</a>
-												</li>
-												<li>
-													<a href="<?= base_url('pendaftaran/pembiayaan-soft-loan') ?>">Pembiayaan
-														Soft Loan</a>
-												</li>
-											</ul>
-										</li>
-										<li class="add-menu-right">
-											<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront">
-												<img src="<?= base_url(); ?>assets/images/adv/adv.jpg" class="lazy"
-													alt="" />
-											</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="javascript:;">Akademik <i class="fa fa-chevron-down"></i></a>
-									<ul class="sub-menu">
-										<li>
-											<a href="javascript:;">Program Studi<i class="fa fa-angle-right"></i></a>
-											<ul class="sub-menu">
-												<li><a target="_blank"
-														href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
-												</li>
-												<li>
-													<a target="_blank"
-														href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
-														Informasi</a>
-												</li>
-												<li><a target="_blank"
-														href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a>
-												</li>
-												<li><a target="_blank"
-														href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
-												</li>
-												<li><a target="_blank"
-														href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a>
-												</li>
-											</ul>
-										</li>
-										<li>
-											<a href="javascript:;">Proses Akademik<i class="fa fa-angle-right"></i></a>
-											<ul class="sub-menu">
-												<li><a
-														href="<?= base_url('akademik/proses-akademik/panduan-akademik') ?>">Panduan
-														Akademik</a></li>
-												<li>
-													<a
-														href="<?= base_url('akademik/proses-akademik/teaching-profesor') ?>">Teaching
-														Profesor</a>
-												</li>
-												<li>
-													<a
-														href="<?= base_url('akademik/proses-akademik/keunggulan-lulusan-unsia') ?>">Keunggulan
-														Lulusan UNSIA</a>
-												</li>
-												<li><a
-														href="<?= base_url('akademik/proses-akademik/peraturan-akademik') ?>">Peraturan
-														Akademik</a></li>
-												<li><a
-														href="<?= base_url('akademik/proses-akademik/kalender-akademik') ?>">Kalender
-														Akademik</a></li>
-											</ul>
-										</li>
-										<li>
-											<a href="<?= base_url('akademik/program-kampus-merdeka') ?>">Program Kampus
-												Merdeka</a>
-										</li>
-										<li>
-											<a href="<?= base_url('akademik/panduan-pembelajaran-online') ?>">Panduan
-												Pembelajaran Online</a>
-										</li>
-										<li>
-											<a href="http://kuliah.unsia.ac.id/">Sistem Pembelajaran Online</a>
-										</li>
-										<li>
-											<a href="https://akademik.unsia.ac.id/">Sistem Informasi Akademik</a>
-										</li>
-										<li>
-											<a href="http://cyberlibrary.unsia.ac.id/">Digital Library</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="javascript:;">Fasilitas <i class="fa fa-chevron-down"></i></a>
-									<ul class="sub-menu">
-										<li>
-											<a href="<?= base_url('fasilitas/learning-community') ?>">Learning
-												Community</a>
-										</li>
-										<li>
-											<a href="<?= base_url('fasilitas/laboratorium-virtual') ?>">Laboratorium
-												Virtual</a>
-										</li>
-										<li>
-											<a href="<?= base_url('fasilitas/studio-multimedia') ?>">Studio
-												Multimedia</a>
-										</li>
-									</ul>
-								</li>
-								<li>
-									<a href="javascript:;">Arsip<i class="fa fa-chevron-down"></i></a>
-									<ul class="sub-menu">
-										<li><a href="<?= base_url('arsip/berita/berita-list') ?>">Berita</a></li>
-										<li>
-											<a href="<?= base_url('arsip/blog/blog-list') ?>">Blog</a>
-										</li>
-									</ul>
-								</li>
-								<li><a href="<?= base_url('contact') ?>">Kontak</a></li>
-							</ul>
-							<div class="nav-social-link">
-								<a href="javascript:;"><i class="fa fa-facebook"></i></a>
-								<a href="javascript:;"><i class="fa fa-google-plus"></i></a>
-								<a href="javascript:;"><i class="fa fa-linkedin"></i></a>
-							</div>
-						</div>
-						<!-- Navigation Menu END ==== -->
-					</div>
-				</div>
-			</div>
-		</header>
-		<!-- Header Top END ==== -->
 		<!-- Content -->
 		<div class="page-content bg-white">
 			<!-- Main Slider -->
@@ -587,9 +372,15 @@
 						<h4 class="text-center mt-4">#semuabisaKULIAHdiUNSIA</h4>
 						<div class="text-center">
 
-							<a href="https://api.whatsapp.com/send?phone=6281213732772&text=Hi+admin%2C+saya+tertarik+kuliah+di+UNSIA.+Info+lanjutnya+%21"
-								class="btn btn-primary mt-4" id="btn-whatsapp">DAFTAR
-								SEKARANG JUGA</a>
+							<a href="https://api.whatsapp.com/send?phone=6281213732772&text=Hai%20admin,%20saya%20ingin%20tahu%20lebih%20lanjut%20tentang%20kuliah%20online%20di%20UNSIA.%20Apakah%20bisa%20dibantu?"
+								class="btn btn-marketing mt-4" id="btn-whatsapp">RANCANG STUDI MU BERSAMA KAMI SEKARANG!</a>
+								
+						</div>
+						<div class="text-center">
+						<img src="<?= base_url(); ?>assets/images/marketing/panah.gif" alt="">
+						</div>
+						<div class="text-center">
+						<img src="<?= base_url(); ?>assets/images/marketing/caption.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -603,37 +394,19 @@
 			<div class="footer-top">
 				<div class="pt-exebar">
 					<div class="container">
-						<div class="d-flex align-items-stretch">
-							<div class="pt-logo mr-auto">
-								<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo-white.png"
+						<div class="d-flex justify-content-center">
+							<div class="pt-logo">
+								<a href="#"><img src="<?= base_url(); ?>assets/images/logo-white.png"
 										class="lazy" width="211px" /></a>
-							</div>
-							<div class="pt-social-link">
-								<ul class="list-inline m-a0">
-									<!-- <li>
-                <a href="#" class="btn-link"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li>
-                <a href="#" class="btn-link"><i class="fa fa-twitter"></i></a>
-              </li> -->
-									<li>
-										<a target="_blank" href="https://www.instagram.com/asiacyberuniversity/"
-											class="btn-link"><i class="fa fa-instagram"></i></a>
-									</li>
-								</ul>
-							</div>
-							<div class="pt-btn-join">
-								<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront/" class="btn">Daftar
-									Sekarang</a>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="container">
-					<div class="row">
-						<div class="col-lg-4 col-md-12 col-sm-12 footer-col-4">
+					<div class="row d-flex justify-content-center">
+						<div class="col-lg-4 col-md-12 col-sm-12 footer-col-4 text-center">
 							<div class="widget">
-								<h5 class="footer-title">Hubungi Kami</h5>
+								<h5 class="footer-title-market">Kunjungi Kami</h5>
 								<p class="text-capitalize m-b20">
 									Jl. Harsono RM, Ragunan, Pasar Minggu Jakarta Selatan
 								</p>
@@ -641,113 +414,6 @@
 									Telp: (021) 27806189<br />
 									Email: pmb@unsia.ac.id
 								</p>
-							</div>
-						</div>
-						<div class="col-12 col-lg-5 col-md-7 col-sm-12">
-							<div class="row">
-								<div class="col-4 col-lg-4 col-md-4 col-sm-4">
-									<div class="widget footer_widget">
-										<h5 class="footer-title">Layanan</h5>
-										<ul>
-											<li>
-												<a target="_blank" href="https://akademik.unsia.ac.id/">Sistem Informasi
-													Akademik</a>
-											</li>
-											<li>
-												<a target="_blank" href="http://cyberlibrary.unsia.ac.id/">Digital
-													Library</a>
-											</li>
-											<li>
-												<a target="_blank" href="http://kuliah.unsia.ac.id/login">Sistem
-													Pembelajaran Online</a>
-											</li>
-											<li>
-												<a target="_blank"
-													href="https://akademik.unsia.ac.id/spmbfront/">Pendaftaran Mahasiswa
-													Baru</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="col-4 col-lg-4 col-md-4 col-sm-4">
-									<div class="widget footer_widget">
-										<h5 class="footer-title">Program Studi</h5>
-										<ul>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
-											</li>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a>
-											</li>
-											<li>
-												<a target="_blank"
-													href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
-													Informasi</a>
-											</li>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
-											</li>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-12 col-lg-3 col-md-5 col-sm-12 footer-col-4">
-							<div class="widget widget_gallery gallery-grid-4">
-								<h5 class="footer-title">Gallery</h5>
-								<ul class="magnific-image">
-									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic1.jpg"
-											class="magnific-anchor"><img class="lazy"
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic1.jpg"
-												alt="" /></a>
-									</li>
-									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic2.jpg"
-											class="magnific-anchor"><img class="lazy"
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic2.jpg"
-												alt="" /></a>
-									</li>
-									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic3.jpg"
-											class="magnific-anchor"><img class="lazy"
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic3.jpg"
-												alt="" /></a>
-									</li>
-									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic4.jpg"
-											class="magnific-anchor"><img class="lazy"
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic4.jpg"
-												alt="" /></a>
-									</li>
-									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic5.jpg"
-											class="magnific-anchor"><img class="lazy"
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic5.jpg"
-												alt="" /></a>
-									</li>
-									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic6.jpg"
-											class="magnific-anchor"><img class="lazy"
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic6.jpg"
-												alt="" /></a>
-									</li>
-									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic7.jpg"
-											class="magnific-anchor"><img class="lazy"
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic7.jpg"
-												alt="" /></a>
-									</li>
-									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic8.jpg"
-											class="magnific-anchor"><img class="lazy"
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic8.jpg"
-												alt="" /></a>
-									</li>
-								</ul>
 							</div>
 						</div>
 					</div>
@@ -759,7 +425,7 @@
 						<div class="col-lg-12 col-md-12 col-sm-12 text-center">
 							<?= date("Y"); ?> | Copyright © Universitas Siber Asia <br />
 							Tema oleh
-							<a target="_blank" href="https://www.templateshub.net">templateshub.net</a>
+							<a target="_blank" href="#">templateshub.net</a>
 						</div>
 					</div>
 				</div>
