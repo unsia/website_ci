@@ -34,11 +34,11 @@
   </script>
 
   <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NGCJ3LC');</script>
+})(window,document,'script','dataLayer','GTM-57QZG9P');</script>
 <!-- End Google Tag Manager -->
 
 
@@ -95,8 +95,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </head>
 
 <body id="bg">
-  	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC"
+  	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57QZG9P"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   <div class="page-wraper">
@@ -676,7 +677,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="item">
                 <div class="recent-news">
                   <div class="action-box">
-                    <img src="<?= base_url('assets/images/blog/pic1.jpg') ?>" alt="" />
+                    <img src="<?= base_url('assets/images/berita/pic5.jpg') ?>" alt="" />
+                  </div>
+                  <div class="info-bx">
+                    <ul class="media-post">
+                      <li>
+                        <a href="#"><i class="fa fa-calendar"></i>22 September 2020</a>
+                      </li>
+                      <li>
+                        <a href="#"><i class="fa fa-user"></i>By UNSIA</a>
+                      </li>
+                    </ul>
+                    <h5 class="post-title">
+                      <a href="<?= base_url('arsip/berita/berita-detail'); ?>">Resmikan Universitas Siber Pertama, Wapres Tekankan Pentingnya Unsia Dorong Apk Indonesia</a>
+                    </h5>
+                    <p>
+                    Jakarta, 22 September 2020 – Wakil Presiden Republik Indonesia, Prof. Dr. KH Ma’ruf Amin meresmikan Universitas Siber Asia (UNSIA) secara daring, Selasa (22/9). 
+                    </p>
+                    <div class="post-extra">
+                      <a href="<?= base_url('arsip/berita/berita-detail'); ?>" class="btn-link">READ MORE</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="recent-news">
+                  <div class="action-box">
+                    <img src="<?= base_url('assets/images/berita/pic1.jpg') ?>" alt="" />
                   </div>
                   <div class="info-bx">
                     <ul class="media-post">
@@ -702,7 +729,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="item">
                 <div class="recent-news">
                   <div class="action-box">
-                    <img src="<?= base_url('assets/images/blog/pic2.jpg') ?>" alt="" />
+                    <img src="<?= base_url('assets/images/berita/pic2.jpg') ?>" alt="" />
                   </div>
                   <div class="info-bx">
                     <ul class="media-post">
@@ -728,7 +755,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="item">
                 <div class="recent-news">
                   <div class="action-box">
-                    <img src="<?= base_url('assets/images/blog/pic3.jpg') ?>" alt="" />
+                    <img src="<?= base_url('assets/images/berita/pic3.jpg') ?>" alt="" />
                   </div>
                   <div class="info-bx">
                     <ul class="media-post">

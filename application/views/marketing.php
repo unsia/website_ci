@@ -3,23 +3,12 @@
 
 <head>
 	<!-- Google Tag Manager -->
-	<script>
-		(function (w, d, s, l, i) {
-			w[l] = w[l] || [];
-			w[l].push({
-				'gtm.start': new Date().getTime(),
-				event: 'gtm.js'
-			});
-			var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s),
-				dl = l != 'dataLayer' ? '&l=' + l : '';
-			j.async = true;
-			j.src =
-				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-			f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-NGCJ3LC');
-	</script>
 
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57QZG9P');</script>
 	<script>
 		"trackEvent": {
 			"on": "click",
@@ -87,10 +76,11 @@
 </head>
 
 <body id="bg">
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57QZG9P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 	<div class="page-wraper">
 		<div id="loading-icon-bx"></div>
 		<!-- Content -->
@@ -373,14 +363,15 @@
 						<div class="text-center">
 
 							<a href="https://api.whatsapp.com/send?phone=6281213732772&text=Hai%20admin,%20saya%20ingin%20tahu%20lebih%20lanjut%20tentang%20kuliah%20online%20di%20UNSIA.%20Apakah%20bisa%20dibantu?"
-								class="btn btn-marketing mt-4" id="btn-whatsapp">RANCANG STUDI MU BERSAMA KAMI SEKARANG!</a>
-								
+								class="btn btn-marketing mt-4" id="btn-whatsapp">RANCANG STUDI MU BERSAMA KAMI
+								SEKARANG!</a>
+
 						</div>
 						<div class="text-center">
-						<img src="<?= base_url(); ?>assets/images/marketing/panah.gif" alt="">
+							<img src="<?= base_url(); ?>assets/images/marketing/panah.gif" alt="">
 						</div>
 						<div class="text-center">
-						<img src="<?= base_url(); ?>assets/images/marketing/caption.png" alt="">
+							<img src="<?= base_url(); ?>assets/images/marketing/caption.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -396,8 +387,8 @@
 					<div class="container">
 						<div class="d-flex justify-content-center">
 							<div class="pt-logo">
-								<a href="#"><img src="<?= base_url(); ?>assets/images/logo-white.png"
-										class="lazy" width="211px" /></a>
+								<a href="#"><img src="<?= base_url(); ?>assets/images/logo-white.png" class="lazy"
+										width="211px" /></a>
 							</div>
 						</div>
 					</div>

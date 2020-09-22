@@ -155,6 +155,17 @@ class Home extends CI_Controller
 		$this->load->view('partial/home_footer');
 	}
 
+	public function detailBeritaSatu()
+	{
+		$data['title'] = 'Berita';
+		$data['menu'] = 'Arsip';
+		$data['submenu'] = 'Berita';
+		$this->load->view('partial/home_header', $data);
+		$this->load->view('partial/home_navbar', $data);
+		$this->load->view('arsip/berita/berita-details-satu');
+		$this->load->view('partial/home_footer');
+	}
+
 	// BLOG
 	public function listBlog()
 	{
