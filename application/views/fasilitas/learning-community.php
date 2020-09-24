@@ -25,7 +25,7 @@
         </div>
         <div class="col-lg-7 col-md-12 heading-bx p-lr">
           <div class="video-bx">
-            <img src="<?= base_url(); ?>assets/images/facilities/learning-community3.jpg" alt="" />
+            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/facilities/learning-community3.jpg" alt="" />
             <div class="text-center">
               <small>
                 Fasilitas ruangan Learning Community di Kampus UNSIA,
@@ -46,10 +46,10 @@
           <div class="col-12">
             <div class="row">
               <div class="col-md-6">
-                <img src="<?= base_url(); ?>assets/images/facilities/learning-community1.png" alt="" />
+                <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/facilities/learning-community1.png" alt="" />
               </div>
               <div class="col-md-6">
-                <img src="<?= base_url(); ?>assets/images/facilities/learning-community2.jpg" alt="" />
+                <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/facilities/learning-community2.jpg" alt="" />
               </div>
             </div>
             <div class="text-center">

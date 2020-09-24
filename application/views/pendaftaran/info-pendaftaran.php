@@ -52,52 +52,6 @@
                         </ol>
                       </td>
                     </tr>
-                    <tr>
-                      <td>Pindahan</td>
-                      <td>
-                        <ol type="1" class="ml-3">
-                          <li>
-                            Ijazah Pendidikan tingkat diploma yang sudah
-                            diselesaikan;
-                          </li>
-                          <li>Transkrip Nilai</li>
-                          <li>
-                            Surat Pindah dari PT Asal yang akreditasi
-                            program studinya minimal sama dengan prodi
-                            yang dituju;
-                          </li>
-                          <li>Laporan Forlap PDPT DIKTI</li>
-                          <li>Lembar konversi nilai</li>
-                        </ol>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>Lanjutan</td>
-                      <td>
-                        <ol type="1" class="ml-3">
-                          <li>
-                            Menyelesaikan jenjang Pendidikan diploma
-                            III;
-                          </li>
-                          <li>
-                            Mengirimkan Ijazah Pendidikan tingkat
-                            diploma yang sudah diselesaikan;
-                          </li>
-                          <li>
-                            Surat Pindah dari PT Asal yang akreditasi
-                            program studinya minimal sama dengan prodi
-                            yang dituju;
-                          </li>
-                          <li>Laporan Forlap PDPT DIKTI</li>
-                          <li>Surat pindah</li>
-                          <li>Lembar Konversi Nilai</li>
-                          <li>
-                            Berasal dari prodi dengan akreditasi minimal
-                            sama dengan prodi yang dituju
-                          </li>
-                        </ol>
-                      </td>
-                    </tr>
                   </table>
                   <ul class="ml-4">
                     <li>
@@ -117,37 +71,6 @@
                         <li>Form Pendaftaran,</li>
                         <li>Transkrip Nilai;</li>
                         <li>Ijazah</li>
-                        <li>Keterangan lulus tes seleksi masuk;</li>
-                        <li>
-                          Form persetujuan Verifikasi Dokumen Akademik
-                        </li>
-                        <li>
-                          dokumen lain sesuai dengan pesyaratan di atas
-                        </li>
-                      </ol>
-                    </li>
-                    <li>
-                      <b>Pindahan</b>
-                      <ol type="a" class="ml-3">
-                        <li>Form Pendaftaran,</li>
-                        <li>Transkrip Nilai;</li>
-                        <li>Laporan PDPT DIKTI</li>
-                        <li>Keterangan lulus tes seleksi masuk;</li>
-                        <li>
-                          Form persetujuan Verifikasi Dokumen Akademik
-                        </li>
-                        <li>
-                          dokumen lain sesuai dengan pesyaratan di atas
-                        </li>
-                      </ol>
-                    </li>
-                    <li>
-                      <b>Lanjutan</b>
-                      <ol type="a" class="ml-3">
-                        <li>Form Pendaftaran,</li>
-                        <li>Transkrip Nilai;</li>
-                        <li>Ijazah</li>
-                        <li>Laporan PDPT DIKTI</li>
                         <li>Keterangan lulus tes seleksi masuk;</li>
                         <li>
                           Form persetujuan Verifikasi Dokumen Akademik
@@ -209,18 +132,6 @@
                 &nbsp;&nbsp;&nbsp;5. Foto 4x6</br>
                 Nb. Semua dokumen dalam bentuk digital, dapat dipindai (scanning) atau difoto dengan handphone dengan resolusi image yang jelas.
               </p>
-              <h6>4. Jalur Transfer/Pindahan/Studi Lanjut D1-D3 (Diploma) ke S1 (Strata 1)</h6>
-              <p style="padding-left: 18px; text-align: justify">
-                Merupakan jalur perkuliahan online untuk mahasiswa yang telah lulus dari Program Diploma Perguruan Tinggi dalam dan luar negeri untuk memasuki Program Studi S1 di Universitas Siber Asia dengan konversi jumlah SKS (Satuan Kredit Semester) yang telah ditempuh. Sisa SKS yang akan ditempuh minimal adalah (144 SKS – N SKS) dimana N SKS adalah jumlah SKS yang telah ditempuh dari program diploma (D1, D2, dan D3).
-              </p>
-              <p style="padding-left: 18px; text-align: justify">
-                <strong>Persyaratan Administratif:</strong></br>
-                &nbsp;&nbsp;&nbsp;1. Ijazah D1 atau D2 atau D3</br>
-                &nbsp;&nbsp;&nbsp;2. Transkrip Nilai D1 atau D2 atau D3</br>
-                &nbsp;&nbsp;&nbsp;3. KTP atau Kartu Keluarga atau identitas lain.</br>
-                &nbsp;&nbsp;&nbsp;4. Foto 4x6</br>
-                Nb. Semua dokumen dalam bentuk digital, dapat dipindai (scanning) atau difoto dengan handphone dengan resolusi image yang jelas.
-              </p>
             </div>
             <div class="mt-3">
               <h6>Standar Biaya Pendaftaran</h6>
@@ -275,7 +186,6 @@
                 1. Jalur Lulusan SMA/SMK/MAN </br>
                 2. Jalur Pekerja Industri/Perkantoran </br>
                 3. Jalur Tenaga Kerja Asing (TKI) Luar Negeri </br>
-                4. Jalur Transfer/Pindahan/Studi Lanjut D1-D3 (Diploma) ke S1 (Strata 1) </br>
               </p>
               <p style="text-align: justify">
                 Gelombang Penerimaan Mahasiswa Baru Universitas Siber Asia setiap tahun akademik adalah sebagai berikut:</br>

@@ -7,7 +7,7 @@
 									<!-- blog start -->
 									<div class="recent-news blog-lg">
 									<div class="text-center">
-											<img src="<?= base_url() ?>assets/images/profile/cho-salam.jpg" width="300" alt="" />
+											<img src="#" class="lazy" data-src="<?= base_url() ?>assets/images/profile/cho-salam.jpg" width="300" alt="" />
 										</div>
 										<div class="info-bx">
 											<p style="text-align: justify">

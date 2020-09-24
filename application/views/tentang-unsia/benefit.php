@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-lg-5 col-md-5 m-b30">
         <div class="bg-primary text-white contact-info-bx">
-          <img src="<?= base_url() ?>assets/images/content/benefit.jpg" alt="" />
+          <img src="#" class="lazy" data-src="<?= base_url() ?>assets/images/content/benefit.jpg" alt="" />
         </div>
       </div>
       <div class="col-lg-7 col-md-7">

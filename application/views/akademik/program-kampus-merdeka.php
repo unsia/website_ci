@@ -30,8 +30,10 @@
                                             penyetaraan kredit semester maksimal 20 SKS.</li>
                                     </ol>
                                     <div class="text-center">
-                                        <img src="<?= base_url(); ?>assets/images/content/program-kampus-merdeka1.png" alt="" class="mb-4">
-                                        <img src="<?= base_url(); ?>assets/images/content/program-kampus-merdeka2.png" alt="" class="mb-4">
+                                        <img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/content/program-kampus-merdeka1.png" alt="" class="mb-4">
+                                        <img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/content/program-kampus-merdeka2.png" alt="" class="mb-4">
                                     </div>
                                     <p>Persyaratan bagi mahasiswa yang mengambil program kampus merdeka
                                         adalah sebagai berikut:</p>
@@ -73,7 +75,7 @@
                                         <li>Atau telah memiliki ijazah diploma (D1, D2, atau D3)</li>
                                     </ul>
                                     <div class="text-center">
-                                        <img src="<?= base_url(); ?>assets/images/content/program-kampus-merdeka3.png" alt="" class="mb-4">
+                                        <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/content/program-kampus-merdeka3.png" alt="" class="mb-4">
                                     </div>
                                 </li>
                             </ol>

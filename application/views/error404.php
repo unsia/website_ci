@@ -46,15 +46,16 @@
 
 <body id="bg">
     <div class="page-wraper">
-        <div id="loading-icon-bx"></div>
         <div class="account-form">
             <div class="account-head" style="background-image:url(assets/images/background/bg2.jpg);">
-                <a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo-white.png" width="300" alt=""></a>
+                <a href="<?= base_url(); ?>"><img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/logo-white.png" width="300" alt=""></a>
             </div>
             <div class="account-form-inner">
                 <div class="account-container">
                     <div class="error-page">
-                        <a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png" width="300" alt=""></a>
+                        <a href="<?= base_url(); ?>"><img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/logo.png" width="300" alt=""></a>
                         <br>
                         <hr>
                         <h3>Ooopps :(</h3>
@@ -94,6 +95,7 @@
     <script src="<?= base_url(); ?>assets/home/vendors/owl-carousel/owl.carousel.js"></script>
     <script src="<?= base_url(); ?>assets/home/js/functions.js"></script>
     <script src="<?= base_url(); ?>assets/home/js/contact.js"></script>
+    <script src="<?= base_url(); ?>assets/home/js/blazy.js"></script>
 </body>
 
 </html>

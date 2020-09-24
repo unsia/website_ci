@@ -16,7 +16,7 @@
                                 pembelajaran yang intensif di LMS dan didukung oleh pelatihan-pelatihan
                                 professional bersertifikat yang diwajibkan untuk diikuti oleh setiap
                                 mahasiswa.</p>
-                            <img src="<?= base_url(); ?>assets/images/content/keunggulan-lulusan1.png" class="img-fluid mb-4" alt="Responsive image">
+                            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/content/keunggulan-lulusan1.png" class="img-fluid mb-4" alt="Responsive image">
                             <p style="text-align: justify">Branding utama Universitas Siber Asia adalah
                                 Kampus Smart Digital Techology. Mahasiswa di setiap Prodi yang ditawarkan
                                 oleh Universitas Siber Asia dibekali dengan penguasaan skill Teknologi
@@ -24,7 +24,7 @@
                                 bidang ilmu applied science dapat mengembangkan keilmuannya dengan
                                 memanfaatkan teknologi informasi untuk menghasilkan sistem atau entitas
                                 teknologi informasi berbentuk aplikasi digital</p>
-                            <img src="<?= base_url(); ?>assets/images/content/keunggulan-lulusan2.png" class="img-fluid" alt="Responsive image">
+                            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/content/keunggulan-lulusan2.png" class="img-fluid" alt="Responsive image">
                         </div>
                     </div>
                 </div>

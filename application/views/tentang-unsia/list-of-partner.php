@@ -150,7 +150,7 @@
       </div>
       <div class="col-md-6">
         <div class="video-bx">
-          <img src="<?= base_url() ?>assets/images/gallery/pic2.jpg" alt="" />
+          <img src="#" class="lazy" data-src="<?= base_url() ?>assets/images/gallery/pic2.jpg" alt="" />
         </div>
       </div>
     </div>

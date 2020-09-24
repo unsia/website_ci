@@ -141,6 +141,7 @@
 <script src="<?= base_url(); ?>assets/home/vendors/owl-carousel/owl.carousel.js"></script>
 <script src="<?= base_url(); ?>assets/home/js/functions.js"></script>
 <script src="<?= base_url(); ?>assets/home/js/contact.js"></script>
+<script src="<?= base_url(); ?>assets/home/js/blazy.js"></script>
 <script src="https://cdn.plyr.io/3.6.2/plyr.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.js"></script>
 <script>

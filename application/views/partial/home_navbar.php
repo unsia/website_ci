@@ -4,7 +4,7 @@
 			style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	<div class="page-wraper">
-		<div id="loading-icon-bx"></div>
+		<!-- <div id="loading-icon-bx"></div> -->
 
 		<!-- Header Top ==== -->
 		<header class="header rs-nav">
@@ -29,7 +29,8 @@
 					<div class="container clearfix">
 						<!-- Header Logo ==== -->
 						<div class="menu-logo">
-							<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
+							<a href="<?= base_url(); ?>"><img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
 						</div>
 						<!-- Mobile Nav Button ==== -->
 						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button" data-toggle="collapse"
@@ -42,7 +43,8 @@
 						<!-- Navigation Menu ==== -->
 						<div class="menu-links navbar-collapse collapse justify-content-start" id="menuDropdown">
 							<div class="menu-logo">
-								<a href="index.html"><img src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
+								<a href="index.html"><img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
 							</div>
 							<ul class="nav navbar-nav">
 								<li><a href="<?= base_url(); ?>">Beranda</a></li>
@@ -88,7 +90,8 @@
 										</li>
 										<li class="add-menu-right">
 											<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront">
-												<img src="<?= base_url(); ?>assets/images/adv/adv.jpg" alt="" />
+												<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/adv/adv.jpg" alt="" />
 											</a>
 										</li>
 									</ul>

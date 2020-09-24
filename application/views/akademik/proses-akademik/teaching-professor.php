@@ -38,7 +38,7 @@
                                     <td>Prof. Dr. Muhammad Zarlis, M.Kom</td>
                                     <td>
                                         <div class="text-center">
-                                            <img src="<?= base_url(); ?>assets/images/content/profesor/muhammad-zarlis.jpg" alt="" width="150px" class="img-thumbnail">
+                                            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/content/profesor/muhammad-zarlis.jpg" alt="" width="150px" class="img-thumbnail">
                                         </div>
                                     </td>
                                     <td>Universitas Sumatra Utara (USU)</td>
@@ -50,7 +50,7 @@
                                     <td>Dr. Ali Ahmad </td>
                                     <td>
                                         <div class="text-center">
-                                            <img src="<?= base_url(); ?>assets/images/content/profesor/ali-ahmad.jpg" width="150px" alt="" class="img-thumbnail">
+                                            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/content/profesor/ali-ahmad.jpg" width="150px" alt="" class="img-thumbnail">
                                         </div>
                                     </td>
                                     <td>Warwick University (UK)</td>
@@ -61,7 +61,7 @@
                                     <td>Prof. Ir. Rudy C. Tarumingkeng Ph.D</td>
                                     <td>
                                         <div class="text-center">
-                                            <img src="<?= base_url(); ?>assets/images/content/profesor/rudy.jpg" width="150px" alt="" class="img-thumbnail">
+                                            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/content/profesor/rudy.jpg" width="150px" alt="" class="img-thumbnail">
                                         </div>
                                     </td>
                                     <td>Professor (Emeritus) Institut Pertanian Bogor (IPB)</td>

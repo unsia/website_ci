@@ -39,7 +39,7 @@
                     </tr>
                     <tr>
                         <th>Syarat Pendidikan</th>
-                        <td>Lulusan SMA/SMK dan Se-derajat, Pindahan, dan Lanjutan</td>
+                        <td>Lulusan SMA/SMK dan Se-derajat</td>
                     </tr>
                     <tr>
                         <th>Lama Studi</th>

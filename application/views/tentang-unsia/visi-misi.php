@@ -113,7 +113,7 @@
           </table>
         </div>
       </div>
-      <img src="<?= base_url() ?>assets/images/content/vision-mission.jpg" alt="" />
+      <img src="#" class="lazy" data-src="<?= base_url() ?>assets/images/content/vision-mission.jpg" alt="" />
     </div>
   </div>
   <!-- Our Services ==== -->

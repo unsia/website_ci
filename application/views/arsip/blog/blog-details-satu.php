@@ -8,7 +8,7 @@
 							<!-- blog start -->
 							<div class="recent-news blog-lg">
 								<div class="action-box blog-lg">
-									<img src="<?= base_url(); ?>assets/images/blog/pic1.jpg" alt="">
+									<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/blog/pic1.jpg" alt="">
 								</div>
 								<div class="info-bx">
 									<ul class="media-post">
@@ -52,7 +52,7 @@
               <div class="widget-post-bx">
                 <div class="widget-post clearfix">
                   <div class="ttr-post-media">
-                    <img src="<?= base_url(); ?>assets/images/blog/pic1.jpg" width="200" height="143" alt="" />
+                    <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/blog/pic1.jpg" width="200" height="143" alt="" />
                   </div>
                   <div class="ttr-post-info">
                     <div class="ttr-post-header">
@@ -69,7 +69,7 @@
                 </div>
                 <div class="widget-post clearfix">
                   <div class="ttr-post-media">
-                    <img src="<?= base_url(); ?>assets/images/blog/pic2.jpg" width="200" height="160" alt="" />
+                    <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/blog/pic2.jpg" width="200" height="160" alt="" />
                   </div>
                   <div class="ttr-post-info">
                     <div class="ttr-post-header">

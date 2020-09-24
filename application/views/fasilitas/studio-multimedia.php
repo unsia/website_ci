@@ -31,16 +31,16 @@
       <div class="section-content">
         <div class="row">
           <div class="col-12 col-md-3">
-            <img src="<?= base_url(); ?>assets/images/facilities/studio-multimedia1.jpg" alt="" />
+            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/facilities/studio-multimedia1.jpg" alt="" />
           </div>
           <div class="col-12 col-md-3">
-            <img src="<?= base_url(); ?>assets/images/facilities/studio-multimedia2.jpg" alt="" />
+            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/facilities/studio-multimedia2.jpg" alt="" />
           </div>
           <div class="col-12 col-md-3">
-            <img src="<?= base_url(); ?>assets/images/facilities/studio-multimedia3.jpg" alt="" />
+            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/facilities/studio-multimedia3.jpg" alt="" />
           </div>
           <div class="col-12 col-md-3">
-            <img src="<?= base_url(); ?>assets/images/facilities/studio-multimedia4.jpg" alt="" />
+            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/facilities/studio-multimedia4.jpg" alt="" />
           </div>
         </div>
       </div>

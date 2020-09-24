@@ -15,7 +15,7 @@
                             alur perkuliahan mahasiswa UNSIA dari mulai Penerimaan hingga lulus setelah
                             menjalani 8 semester perkuliahan.</p>
                         <div class="text-center mb-5">
-                            <img src="<?= base_url(); ?>assets/images/content/academic-guide.png" alt="">
+                            <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/content/academic-guide.png" alt="">
                         </div>
                     </div>
                 </div>

@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <img src="<?= base_url() ?>assets/images/content/organizational-structue.jpg" alt="">
+        <img src="#" class="lazy" data-src="<?= base_url() ?>assets/images/content/organizational-structue.jpg" alt="">
       </div>
     </div>
     <div class="row">

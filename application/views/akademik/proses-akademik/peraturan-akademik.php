@@ -189,7 +189,7 @@
                                                     menggunakan rumus :
                                                 </div>
                                                 <div class="col-md-6 text-center">
-                                                    <img src="<?= base_url(); ?>assets/images/content/guide-masastudi.png" alt="">
+                                                    <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/content/guide-masastudi.png" alt="">
                                                 </div>
                                             </p>
                                         </div>
@@ -1881,7 +1881,7 @@
                                                     berikut :
                                                 </div>
                                                 <div class="text-center">
-                                                    <img src="<?= base_url(); ?>assets/images/academic-guide1.png" style="width: 40%;" alt="">
+                                                    <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/academic-guide1.png" style="width: 40%;" alt="">
                                                 </div>
                                                 <div style="padding-left: 1.5em; text-indent:-1.5em;">
                                                     (4) NA suatu
@@ -1905,7 +1905,7 @@
                                                     berikut:
                                                 </div>
                                                 <div class="text-center">
-                                                    <img src="<?= base_url(); ?>assets/images/academic-guide2.png" style="width: 40%;" alt="">
+                                                    <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/academic-guide2.png" style="width: 40%;" alt="">
                                                 </div>
                                             </p>
                                         </div>
@@ -2062,7 +2062,7 @@
                                                     :
                                                 </div>
                                                 <div class="text-left">
-                                                    <img src="<?= base_url(); ?>assets/images/academic-guide3.png" style="width: 30%;" alt="">
+                                                    <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/academic-guide3.png" style="width: 30%;" alt="">
                                                 </div>
                                                 <div style="padding-left: 1.5em; text-indent:-1.5em;">
                                                     (3)
@@ -3333,7 +3333,7 @@
                                                 Diploma
                                             </div>
                                             <div class="text-center">
-                                                <img src="<?= base_url(); ?>assets/images/academic-guide4.png" style="width: 35%;" alt="">
+                                                <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/academic-guide4.png" style="width: 35%;" alt="">
                                             </div>
                                             <div class="m-0" style="padding-left: 3em; text-indent:-1.0em;">
                                                 b.
@@ -3343,7 +3343,7 @@
                                                 Doktor
                                             </div>
                                             <div class="text-center">
-                                                <img src="<?= base_url(); ?>assets/images/academic-guide5.png" style="width: 35%;" alt="">
+                                                <img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/academic-guide5.png" style="width: 35%;" alt="">
                                             </div>
                                         </p>
                                     </div>

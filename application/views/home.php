@@ -61,11 +61,6 @@
 	<!-- MOBILE SPECIFIC ============================================= -->
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-	<!--[if lt IE 9]>
-      <script src="assets/js/html5shiv.min.js"></script>
-      <script src="assets/js/respond.min.js"></script>
-    <![endif]-->
-
 	<!-- All PLUGINS CSS ============================================= -->
 	<link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/home/css/assets.css" />
 
@@ -127,45 +122,7 @@
 							<span></span>
 							<span></span>
 						</button>
-						<!-- Author Nav ==== -->
-						<!-- <div class="secondary-menu">
-                <div class="secondary-inner">
-                  <ul>
-                    <li>
-                      <a
-                        target="_blank"
-                        href="https://www.instagram.com/asiacyberuniversity/"
-                        class="btn-link"
-                        ><i class="fa fa-instagram"></i
-                      ></a>
-                    </li>
-                    Search Button ==== 
-                    <li class="search-btn">
-                      <button
-                        id="quik-search-btn"
-                        type="button"
-                        class="btn-link"
-                      >
-                        <i class="fa fa-search"></i>
-                      </button>
-                    </li>
-                  </ul>
-                </div>
-              </div> -->
-						<!-- Search Box ==== -->
-						<!-- <div class="nav-search-bar">
-                <form action="#">
-                  <input
-                    name="search"
-                    value=""
-                    type="text"
-                    class="form-control"
-                    placeholder="Type to search"
-                  />
-                  <span><i class="ti-search"></i></span>
-                </form>
-                <span id="search-remove"><i class="ti-close"></i></span>
-              </div> -->
+						
 						<!-- Navigation Menu ==== -->
 						<div class="menu-links navbar-collapse collapse justify-content-end" id="menuDropdown">
 							<div class="menu-logo">

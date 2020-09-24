@@ -199,16 +199,16 @@
               </div>
             </div>
           </div>
-          <img src="<?= base_url() ?>assets/images/gallery/pic10.jpg" alt="" />
+          <img src="#" class="lazy" data-src="<?= base_url() ?>assets/images/gallery/pic10.jpg" alt="" />
         </div>
         <div class="col-lg-4 col-md-12">
-          <img src="<?= base_url() ?>assets/images/gallery/pic9.jpg" alt="" />
+          <img src="#" class="lazy" data-src="<?= base_url() ?>assets/images/gallery/pic9.jpg" alt="" />
           <div class="text-center mb-4">
             <small>
               Penyerahan surat dukungan dari Menristek Dikti
             </small>
           </div>
-          <img src="<?= base_url() ?>assets/images/gallery/pic1.jpg" alt="" />
+          <img src="#" class="lazy" data-src="<?= base_url() ?>assets/images/gallery/pic1.jpg" alt="" />
           <div class="text-center">
             <small>
               Pertemuan dengan Wakil Presiden RI, Prof. KH. Ma'ruf Amin
