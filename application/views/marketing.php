@@ -90,6 +90,7 @@
 
 	<!-- STYLESHEETS ============================================= -->
 	<link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/home/css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/home/css/countdown.css">
 	<link class="skin" rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/home/css/color/color-1.css">
 
 	<link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
@@ -298,6 +299,18 @@
 				</div>
 				<!-- inner page banner END -->
 			</div>
+			<!-- Countdown-->
+				<div class="row text-countdown">
+					<div class="col-12">
+					<h1>Akhir Pendaftaran</h1>
+					</div>
+					<div class="col-12 text-dua">
+					<h1>8 Oktober 2020</h1>
+					</div>
+				</div>
+			<div class="container countdown">
+				<div id="timer"></div>
+			</div>
 			<!-- Content END-->
 			<!-- Footer ==== -->
 			<footer>
@@ -361,7 +374,8 @@
 		<script src="<?= base_url(); ?>assets/home/vendors/owl-carousel/owl.carousel.js" defer></script>
 		<script src="<?= base_url(); ?>assets/home/js/functions.js" defer></script>
 		<script src="<?= base_url(); ?>assets/home/js/contact.js" defer></script>
-		<script src="<?= base_url(); ?>assets/home/js/blazy.js"></script>
+		<script src="<?= base_url(); ?>assets/home/js/blazy.js" defer></script>
+		<script src="<?= base_url(); ?>assets/home/js/countdown.js" defer></script>
 </body>
 
 

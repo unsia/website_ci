@@ -56,7 +56,7 @@
                                     <td>Warwick University (UK)</td>
                                     <td>Entrepreneurship and Innovation</td>
                                 </tr>
-                                <tr>
+                                <!--<tr>
                                     <th>3</th>
                                     <td>Prof. Ir. Rudy C. Tarumingkeng Ph.D</td>
                                     <td>
@@ -66,13 +66,13 @@
                                     </td>
                                     <td>Professor (Emeritus) Institut Pertanian Bogor (IPB)</td>
                                     <td>Manajemen Strategik.</td>
-                                </tr>
+                                </tr>-->
                             </table>
                         </div>
-                        <p>Berikut contoh Video Teaser Teaching Professor:</p>
+                        <!--<p>Berikut contoh Video Teaser Teaching Professor:</p>
                         <div class="text-center">
                             <div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="_Gpz7EUi9YU"></div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>

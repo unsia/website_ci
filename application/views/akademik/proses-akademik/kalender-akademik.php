@@ -112,6 +112,7 @@
 							</div>
 							<p class="text-right">Jakarta, 7 Oktober 2020</p>
 							<hr>
+							<a class="btn btn-primary" href="https://drive.google.com/file/d/1yn8ckHfFi406RlUvC327ip443ChUG__D/view?usp=sharing">Download Kalender Akademik (pdf)</a>
 							<div class="row">
 								<div class="col-12 col-md-4">
 									<table>

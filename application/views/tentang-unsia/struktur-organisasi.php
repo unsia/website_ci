@@ -15,111 +15,111 @@
             <td>:</td>
             <td>Dr. Ramlan Siregar, MSi</td>
             <td>asiacyberuniv@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+
           </tr>
           <tr>
             <td>2.</td>
             <td>Rektor</td>
             <td>:</td>
             <td>Jang Youn Cho, Ph.D., CPA</td>
-            <td>cho.jy@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>cho@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>3.</td>
             <td>Wakil Rektor Akademik, Kemahasiswaan dan PPMK</td>
             <td>:</td>
             <td>Dr. Ucuk Darusalam, S.T., M.T.</td>
-            <td>ucuk.darusalam@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>ucukdarusalam@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>4.</td>
             <td>Wakil Rektor Administrasi Keuangan, SDM dan Kerjasama</td>
             <td>:</td>
-            <td>Drs. Abdul Wahab Bangkona, M.Sc.</td>
-            <td>aw.bangkona@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>Ir. Abdul Wahab Bangkona, M.Sc.</td>
+            <td>abdulwahab@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>5.</td>
             <td>Badan Penjaminan Mutu</td>
             <td>:</td>
             <td>Dr. Ir. Edi Sugiono, S.E., M.M.</td>
-            <td>edi.sugiono@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>edisugiono@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>6.</td>
             <td>Biro Administrasi Akademik dan Kemahasiswaan</td>
             <td>:</td>
             <td>Dr. (c) Ria, S.E., M.Ak.</td>
-            <td>ria@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>ria@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>7.</td>
             <td>Unit Pengembangan Teknologi Informasi</td>
             <td>:</td>
             <td>Novi Dian Nathasia, S.Kom., M.M.S.I.</td>
-            <td>novidian@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>novidia@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>8.</td>
             <td>Biro Kerjasama Nasional dan Internasional</td>
             <td>:</td>
             <td>Dra. Inez Saptenno, M.A.</td>
-            <td>inez.saptenno@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>inezsaptenno@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>9.</td>
             <td>Biro Administrasi Umum, SDM dan Keuangan</td>
             <td>:</td>
             <td>Dian Metha Ariyanti, S.Sos., M.Si.</td>
-            <td>karyatun@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>dianmetha@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>10.</td>
             <td>Ketua Program Studi Sistem Informasi</td>
             <td>:</td>
             <td>Andrianingsih, S.Kom, M.M.S.I</td>
-            <td>andrianingsih@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>andrianingsih@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>11.</td>
             <td>Ketua Program Studi Manajemen</td>
             <td>:</td>
-            <td>Drs. Suadi, M.M.</td>
-            <td>suadi@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>Drs. Suadi Sapta, M.M.</td>
+            <td>suadisapta@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>12.</td>
             <td>Ketua Program Studi Teknik Informatika</td>
             <td>:</td>
-            <td>Eri Mardiana, S.Kom, M.Kom</td>
-            <td>eri.mardiana@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>Eri Mardiani, S.Kom, M.Kom</td>
+            <td>erimardiani@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>13.</td>
             <td>Ketua Program Studi Akuntansi</td>
             <td>:</td>
-            <td>Dr Bambang Sudibyo</td>
-            <td>bambang.sudibyo@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>Dr. Padri Achyarsyah, S.E., Ak., MM, DESS CA, CPA</td>
+            <td>padriachyarsyah@acu.ac.id</td>
+
           </tr>
           <tr>
             <td>14.</td>
             <td>Ketua Program Studi Komunikasi</td>
             <td>:</td>
             <td>Rosanah, S.S., M.IKom</td>
-            <td>rosanah@lms-usa.site</td>
-            <td><a href="#" class="btn btn-primary">Download CV</a></td>
+            <td>rosanah@acu.ac.id</td>
+
           </tr>
         </table>
       </div>

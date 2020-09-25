@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700|Montserrat:900");
+
+.container.countdown {
+	position: relative;
+	margin: auto;
+	overflow: hidden;
+	width: 100%;
+	margin-top: -35px;
+	margin-bottom: 20px;
+}
+
+.text-countdown {
+	position: relative;
+	margin: auto;
+	overflow: hidden;
+	width: 100%;
+}
+
+.text-countdown .text-dua {
+	margin-top: -25px;
+}
+
+.text-countdown h1 {
+	font-family: "Lato", sans-serif;
+	text-align: center;
+	font-size: 1em;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: #0a3d62;
+}
+
+#timer {
+	color: #f6f4f3;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Lato", sans-serif;
+	margin-top: 10px;
+	font-size: 0.7em;
+	letter-spacing: 5px;
+}
+
+.hari,
+.jam,
+.menit,
+.detik {
+	display: inline-block;
+	padding: 20px;
+	width: 100px;
+	border-radius: 5px;
+}
+
+.hari {
+	background: #e55039;
+}
+
+.jam {
+	background: #38ada9;
+}
+
+.menit {
+	margin-top: 20px;
+	background: #4a69bd;
+}
+
+.detik {
+	margin-top: 20px;
+	background: #fa983a;
+}
+
+.numbers {
+	font-family: "Montserrat", sans-serif;
+	color: #ffffff;
+	font-size: 4em;
+}

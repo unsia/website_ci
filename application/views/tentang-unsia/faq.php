@@ -237,39 +237,34 @@
                   <ol type="1" class="ml-4">
                     <li>
                       Total aktifitas 1 semester 16 minggu terdiri atas
-                      Off-Line dan On-Line
+                      Full Online
                     </li>
                     <li>
-                      Kelas Off-Line per MK = 2 minggu terdiri atas 1
-                      minggu diawal semester dan 1 minggu di akhir
-                      semester
+                      Struktur utama 16 minggu perkuliahan On-Line terdiria atas Perkuliahan Online Tahap 1, minggu ke-1 hingga
+                      ke-7, Perkuliahan Online Tahap 2 yakni minggu ke-9 hingga ke15, Ujian Tengah Semester (UTS) pada minggu
+                      ke-8 dan Ujian Akhir Semester (UAS) pada minggu ke-16.
                     </li>
-                    <li>Kelas On-line per MK = 14 Minggu</li>
+                    <li>Setiap mahasiswa UNSIA akan mendapatkan akses Sistem Informasi Akademik, LMS, dan Digital Library</li>
                     <li>
-                      Mode pembelajaran on-line menerapkan metode
-                      Singkron dan Asinkron, yakni dosen dan mahasiswa
-                      bisa berinteraksi di LMS dalam waktu yang
-                      bersamaan, maupun tidak bersamaan dalam setiap
-                      minggu on-line.
+                      Aktifitas 1 Minggu on-line untuk reguler mode sinkron dan asinkron (6 hari kerja, Senin – Sabtu, alokasi waktu
+                      24 jam/hari).
                     </li>
                     <li>
-                      Video conference atau Webinar (Web Seminar) di
-                      salah satu minggu On-Line.
+                      Video conference atau Webinar (Web Seminar) dilakukan oleh dosen dan mahasiswa pada beberapa minggu
+                      perkuliahan On-Line, sesuai dengan instruksi dosen/tutor di LMS .
                     </li>
                     <li>
-                      UTS On-Line minggu ke-8, bentuk E-paper dan Vlog
-                      Presentation
+                      Dalam minggu perkuliahan online, dosen/tutor dapat menyelenggarakan live streaming dengan menghadirkan
+                      pakar, professional atau dosen tamu yang akan memberikan materi secara online.
                     </li>
-                    <li>UAS Off-Line/On-Site minggu ke-16</li>
+                    <li>Dalam perkuliahan 1 semester, mahasiswa diberikan beban mengerjakan tugas mandiri atau kelompok dalam
+                      bentuk Tugas 1, Tugas 2 dan Project Assignment.</li>
                     <li>
-                      Aktifitas 1 Minggu on-line untuk reguler mode
-                      sinkron dan asinkron (6 hari kerja, Senin – Sabtu,
-                      alokasi waktu 24 jam/hari)
+                      Project Assignment adalah bentuk penugasan perkuliahan dalam bentuk kunjungan lapangan atau industry.
                     </li>
                     <li>
-                      Meningkatkan kemampuan menampilkan informasi
-                      dengan perangkat teknologi informasi, dimana
-                      dengan perangkat biasa sulit dilakukan.
+                      Mahasiswa diberikan fasilitas untuk pelatihan atau workshop bersertifikasi di setiap akhir semester (pada
+                      minggu liburan perkuliahan)
                     </li>
                   </ol>
                   <p class="mt-3">
