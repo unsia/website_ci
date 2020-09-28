@@ -267,6 +267,21 @@
 					</div>
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
+							<div class="row text-countdown">
+								<div class="col-12">
+									<h1>Akhir Pendaftaran</h1>
+								</div>
+								<div class="col-12 text-dua">
+									<h1>8 Oktober 2020</h1>
+								</div>
+							</div>
+							<div class="container countdown">
+								<div id="timer"></div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-12 col-md-12">
 							<div class="heading-bx text-center">
 								<h4 class="title-head">#semuabisaKULIAHdiUNSIA</h4>
 							</div>
@@ -300,17 +315,7 @@
 				<!-- inner page banner END -->
 			</div>
 			<!-- Countdown-->
-				<div class="row text-countdown">
-					<div class="col-12">
-					<h1>Akhir Pendaftaran</h1>
-					</div>
-					<div class="col-12 text-dua">
-					<h1>8 Oktober 2020</h1>
-					</div>
-				</div>
-			<div class="container countdown">
-				<div id="timer"></div>
-			</div>
+
 			<!-- Content END-->
 			<!-- Footer ==== -->
 			<footer>

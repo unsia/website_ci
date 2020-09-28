@@ -183,7 +183,7 @@
                                                     (5) Perhitungan masa studi tidak termasuk cuti akademik;
                                                 </div>
                                                 <div style="padding-left: 1.5em; text-indent:-1.5em;">
-                                                    (6) Masa studi mahasiswa pindahan dan mahasiswa aktif
+                                                    (6) Masa studi mahasiswa aktif
                                                     kembali
                                                     ditetapkan
                                                     menggunakan rumus :
