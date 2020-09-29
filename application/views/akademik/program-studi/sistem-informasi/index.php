@@ -6,7 +6,7 @@
 				<h4>Teaser Video</h4>
 			</div>
 			<div class="widget-inner">
-				<div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="BAVk-FoPs3g"></div>
+				<div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="vLsiN5GdvsI"></div>
 			</div>
 		</div>
 	</div>
