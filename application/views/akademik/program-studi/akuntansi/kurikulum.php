@@ -18,7 +18,7 @@
             <div class="widget-inner">
                 <p>Jumlah sks Program Studi (minimum untuk kelulusan) : 144 sks yang tersusun
                     sebagai berikut:</p>
-                <a href="<?= base_url(); ?>assets/documents/Kurikulum Program Studi Akuntansi dan Perpajakan.pdf" class="btn btn-primary">KURIKULUM</a>
+                <a href="<?= base_url(); ?>assets/documents/Kurikulum Akuntansi.pdf" class="btn btn-primary">KURIKULUM</a>
             </div>
         </div>
     </div>
