@@ -183,12 +183,12 @@
             <div class="panel">
               <div class="acod-head">
                 <h6 class="acod-title">
-                  <a data-toggle="collapse" href="#faq9" class="collapsed" data-parent="#faq9">
+                  <a data-toggle="collapse" href="#faq10" class="collapsed" data-parent="#faq10">
                     24 Agustus 2020
                   </a>
                 </h6>
               </div>
-              <div id="faq9" class="acod-body collapse">
+              <div id="faq10" class="acod-body collapse">
                 <div class="acod-content">
                   Universitas Siber Asia mendapatkan lisensi resmi dari
                   pemerintah untuk menjalankan pendidikan jarak jauh

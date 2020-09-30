@@ -13,7 +13,7 @@
 											<p style="text-align: justify">
 												&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di
 												Universitas Siber pertama di Indonesia, Universitas
-												Siber Asia / Asia Cyber University. Universitas kami
+												Siber Asia. Universitas kami
 												didirikan sejak 2019 untuk memenuhi kebutuhan abad ke
 												21, pemimpin professional dalam masyarakat digital yang
 												cerdas dalam era revolusi industri ke 4.

@@ -70,18 +70,18 @@
                 <h4>Profil</h4>
             </div>
             <div class="widget-inner">
-            <p style="text-align: justify">Program Studi Teknik Informatika didirikan untuk menjawab
+            <p style="text-align: justify">Program Studi Informatika didirikan untuk menjawab
                                 tantangan revolusi industri 4,0 dimana semua operasi perusahaan saat ini bekerja atas
-                                dasar teknologi informasi digital. Manajemen Kontemporer diharapkan akan menghasilkan
-                                lulusan yang bermutu di bidang manajemen kontemporer untuk dapat diserap oleh stake
+                                dasar teknologi informasi digital. Informatika diharapkan akan menghasilkan
+                                lulusan yang bermutu di bidang Informatika untuk dapat diserap oleh stake
                                 holder/user.</p>
                             <p style="text-align: justify">Sebagai uniqueness Prodi dan Universitas, pendidikan berbasis
-                                karakter dan integritas dipilih oleh Manajemen Kontemporer sebagai penciri khas
-                                kurikulum. Dengan demikian, penyusunan KPT-KKNI level 6 oleh Teknik Informatika telah
+                                karakter dan integritas dipilih oleh Informatika sebagai penciri khas
+                                kurikulum. Dengan demikian, penyusunan KPT-KKNI level 6 oleh Informatika telah
                                 memperhatikan prosedur atau langkah-langkah standar yang telah ditetapkan oleh Belmawa
                                 DIKTI, yakni telah mengacu pada rekomendasi dari asosiasi prodi (ASPIKOM)</p>
-                            <p style="text-align: justify">Dengan demikian, penerapan KPT-KKNI level 6 di Teknik
-                                Informatika berupaya konsisten dalam membangun mutu lulusan di bidang Teknik
+                            <p style="text-align: justify">Dengan demikian, penerapan KPT-KKNI level 6 di
+                                Informatika berupaya konsisten dalam membangun mutu lulusan di bidang
                                 Informatika.</p>
             </div>
         </div>

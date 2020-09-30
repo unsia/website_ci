@@ -72,14 +72,14 @@
             <div class="widget-inner">
             <p style="text-align: justify">Program studi Komunikasi didirikan
                                 untuk menjawab tantangan revolusi industry 4,0 dimana semua operasi perusahaan saat ini
-                                bekerja atas dasar teknologi informasi digital. Manajemen Kontemporer dan E-Commerce
-                                diharapkan akan menghasilkan lulusan yang bermutu di bidang manajemen kontemporer untuk
+                                bekerja atas dasar komunikasi digital. Komunikasi
+                                diharapkan akan menghasilkan lulusan yang bermutu di bidang Komunikasi untuk
                                 dapat diserap oleh stake holder/user.
                             </p>
                             <p style="text-align: justify">Sebagai uniqueness Program studi dan Universitas, pendidikan
-                                berbasis karakter dan integritas dipilih oleh Penyiaran dan Komunikasi Digital sebagai
-                                penciri khas kurikulum. Dengan demikian, penyusunan KPT-KKNI level 6 oleh Manajemen
-                                Kontemporer dan E-Commerce telah memperhatikan prosedur atau langkah-langkah standar
+                                berbasis karakter dan integritas dipilih oleh Komunikasi sebagai
+                                penciri khas kurikulum. Dengan demikian, penyusunan KPT-KKNI level 6 oleh Komunikasi
+                             telah memperhatikan prosedur atau langkah-langkah standar
                                 yang telah ditetapkan oleh Belmawa DIKTI, yakni telah mengacu pada rekomendasi dari
                                 asosiasi prodi.
                             </p>
