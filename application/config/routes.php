@@ -56,6 +56,7 @@ $route['translate_uri_dashes'] = FALSE;
 // Custom Routes
 
 $route['kuliah-online-pertama'] = 'home/kuliahonlinepertama';
+$route['semuabisakuliah'] = 'home/semuabisakuliah';
 
 // TENTANG UNSIA
 $route['contact'] = 'home/contact';
@@ -140,31 +141,3 @@ $route['akademik/program-studi/informatika/dosen'] = 'home/doseninformatika';
 $route['akademik/program-studi/informatika/keunggulan'] = 'home/keunggulaninformatika';
 $route['akademik/program-studi/informatika/kurikulum'] = 'home/kurikuluminformatika';
 $route['akademik/program-studi/informatika/prospek-karir'] = 'home/prospekkaririnformatika';
-
-
-// ADMIN PANEL - CMS
-// AUTH
-$route['admin-cms'] = 'auth';
-$route['admin-cms/registration'] = 'auth/registration';
-$route['admin-cms/blocked'] = 'auth/blocked';
-$route['admin-cms/forgot-password'] = 'auth/forgotPassword';
-$route['admin-cms/change-password'] = 'auth/changePassword';
-$route['admin-cms/koneksi'] = 'auth/koneksi';
-
-// ADMIN
-$route['admin-cms/admin'] = 'admin';
-$route['admin-cms/admin/role'] = 'admin/role';
-$route['admin-cms/admin/role-access'] = 'admin/roleaccess';
-
-// CONTENT
-$route['admin-cms/content'] = 'content';
-$route['admin-cms/content/add-blog'] = 'content/newblog';
-
-// MENU
-$route['admin-cms/menu'] = 'menu';
-$route['admin-cms/menu/submenu'] = 'menu/submenu';
-
-// USER
-$route['admin-cms/user'] = 'user';
-$route['admin-cms/user/edit'] = 'user/edit';
-$route['admin-cms/user/change-password'] = 'user/changepassword';

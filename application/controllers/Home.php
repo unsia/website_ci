@@ -645,5 +645,53 @@ class Home extends CI_Controller
 	{
 		$this->load->view('marketing');
 	}
+
+	public function semuaBisaKuliah()
+	{
+		$this->form_validation->set_rules('name', 'Name', 'required|trim');
+		$this->form_validation->set_rules('email', 'Email', 'required|trim|valid_email');
+		$this->form_validation->set_rules('subject', 'Subject', 'required|trim');
+		$this->form_validation->set_rules('phone', 'Phone', 'required|trim');
+		$this->form_validation->set_rules('message', 'Message', 'required|trim');
+
+		if ($this->form_validation->run() == false) {
+			$this->load->view('ads');
+		} else {
+			$this->_sendEmail();
+			$this->session->set_flashdata('message', '<div class="alert alert-success alert-dismissible fade show" role="alert"> <strong>Hai' . $this->input->post('name') . '!</strong> Pesan anda telah terkirim. <button type="button" class="close" data-dismiss="alert" aria-label="Close"> <span aria-hidden="true">&times;</span> </button> </div>');
+			redirect('semuabisakuliah');
+		}
+	}
+
+	private function _sendEmail()
+	{
+		$config = [
+			'protocol'      => 'smtp',
+			'smtp_host'     => 'ssl://smtp.googlemail.com',
+			'smtp_user'     => 'mypc804@gmail.com', //email untuk mengirim
+			'smtp_pass'     => 'batunisan', //password untuk mengirim
+			'smtp_port'     => 465,
+			'smtp_timeout'  => 20,
+			'mailtype'      => 'html',
+			'charset'       => 'utf-8',
+			'newline'       => "\r\n"
+		];
+
+		$this->email->initialize($config);
+
+
+		$this->email->from($this->input->post('email'), $this->input->post('name'));
+		$this->email->to('admission@acu.ac.id');
+
+		$this->email->subject($this->input->post('subject'));
+		$this->email->message('Nama : ' . $this->input->post('name') . '<br>Phone : ' . $this->input->post('phone') . '<br>' . $this->input->post('message'));
+
+		if ($this->email->send()) {
+			return true;
+		} else {
+			echo $this->email->print_debugger();
+			die;
+		}
+	}
 	
 }

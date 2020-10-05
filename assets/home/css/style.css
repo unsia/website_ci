@@ -3871,6 +3871,11 @@ button.back-to-top {
 	height: 600px
 }
 
+.head-ads {
+	background-image: url(../../images/marketing/bgads.jpg);
+	height: 600px
+}
+
 .ovpr-dark:after,
 .ovpr:after {
 	opacity: .75
