@@ -238,9 +238,9 @@
 								<ul class="ml-4">
 									<li>Di UNSIA kamu dapat menggunakan LMS yang didesain untuk membantu kamu belajar
 										secara maksimal</li>
-									<li>Perkuliahan dilengkapi dengna materi sekaligus video pembelajaran</li>
+									<li>Perkuliahan dilengkapi dengan materi sekaligus video pembelajaran</li>
 									<li>Perkuliahan ditunjang Learning material lengkap yang diakses secara online di
-										Digtal Library</li>
+										Digital Library</li>
 									<li>Memiliki Fitur Live Streaming</li>
 									<li>Video direkam dengan kualitas terbaik</li>
 								</ul>

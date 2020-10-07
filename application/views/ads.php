@@ -227,11 +227,11 @@
 							<div class="heading-bx left">
 								<h2 class="title-head">Apa <span>Yang Kamu Dapat ??</span></h2>
 								<ul class="ml-4">
-									<li>Di UNSIA kamu dapat menggunakan LMS yang didesain untuk membantu kamu belajar
+									<li>Di UNSIA kamu dapat menggunakan Learning Management System (LMS) yang didesain untuk membantu kamu belajar
 										secara maksimal</li>
-									<li>Perkuliahan dilengkapi dengna materi sekaligus video pembelajaran</li>
+									<li>Perkuliahan dilengkapi dengan materi sekaligus video pembelajaran</li>
 									<li>Perkuliahan ditunjang Learning material lengkap yang diakses secara online di
-										Digtal Library</li>
+										Digital Library</li>
 									<li>Memiliki Fitur Live Streaming</li>
 									<li>Video direkam dengan kualitas terbaik</li>
 								</ul>
@@ -240,6 +240,7 @@
 						<div class="col-lg-6 col-md-6">
 							<div class="heading-bx left">
 								<h2 class="title-head">Pilih Program Studi <span>Kesukaanmu</span></h2>
+								<h4>Kuliah online S1 terbaik di Indonesia</h4>
 								<ul class="ml-4">
 									<li>Manajemen</li>
 									<li>Sistem Informasi</li>

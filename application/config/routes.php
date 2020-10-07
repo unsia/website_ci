@@ -102,6 +102,7 @@ $route['akademik/proses-akademik/kalender-akademik'] = 'home/kalenderakademik';
 
 //AKADEMIK - PROGRAM STUDI
 // MANAJEMEN
+$route['manajemen'] = 'home/manajemen';
 $route['akademik/program-studi/manajemen'] = 'home/manajemen';
 $route['akademik/program-studi/manajemen/profil'] = 'home/profilmanajemen';
 $route['akademik/program-studi/manajemen/dosen'] = 'home/dosenmanajemen';

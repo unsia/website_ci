@@ -64,6 +64,12 @@
                         <span class="ttr-label">Prospek Karir</span>
                     </a>
                 </li>
+                <li>
+                    <a href="https://akademik.unsia.ac.id/spmbfront/" class="ttr-material-button">
+                        <span class="ttr-icon"><i class="ti-pencil-alt"></i></span>
+                        <span class="ttr-label">Daftar Sekarang</span>
+                    </a>
+                </li>
             </ul>
             <!-- sidebar menu end -->
         </nav>
