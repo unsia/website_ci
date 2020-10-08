@@ -1,7 +1,10 @@
-const year = new Date().getFullYear();
-const fourthOfJuly = new Date(year, 9, 9).getTime();
-const fourthOfJulyNextYear = new Date(year + 1, 9, 9).getTime();
+let tanggal = "Oct 13, 2020 00:00:00",
+	fourthOfJuly = new Date(tanggal).getTime();
 const month = new Date().getMonth();
+const second = 1000;
+const minute = second * 60;
+const hour = minute * 60;
+const day = hour * 24;
 
 // countdown
 let timer = setInterval(function () {
@@ -9,18 +12,13 @@ let timer = setInterval(function () {
 	const today = new Date().getTime();
 
 	// get the difference
-	let diff;
-	if (month > 9) {
-		diff = fourthOfJulyNextYear - today;
-	} else {
-		diff = fourthOfJuly - today;
-	}
+	let diff = fourthOfJuly - today;
 
 	// math
-	let hari = Math.floor(diff / (1000 * 60 * 60 * 24));
-	let jam = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-	let menit = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-	let detik = Math.floor((diff % (1000 * 60)) / 1000);
+	let hari = Math.floor(diff / (day));
+	let jam = Math.floor((diff % (day)) / (hour));
+	let menit = Math.floor((diff % (hour)) / (minute));
+	let detik = Math.floor((diff % (minute)) / second);
 
 	// display
 	document.getElementById("timer").innerHTML =
