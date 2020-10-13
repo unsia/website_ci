@@ -102,7 +102,7 @@ $route['akademik/proses-akademik/kalender-akademik'] = 'home/kalenderakademik';
 
 //AKADEMIK - PROGRAM STUDI
 // MANAJEMEN
-$route['manajemen'] = 'home/manajemen';
+$route['prodi-manajemen'] = 'home/prodimanajemen';
 $route['akademik/program-studi/manajemen'] = 'home/manajemen';
 $route['akademik/program-studi/manajemen/profil'] = 'home/profilmanajemen';
 $route['akademik/program-studi/manajemen/dosen'] = 'home/dosenmanajemen';
@@ -123,6 +123,7 @@ $route['akademik/program-studi/sistem-informasi/profil-lulusan'] = 'home/profill
 $route['akademik/program-studi/sistem-informasi/prospek-karir'] = 'home/prospekkarirsisteminformasi';
 
 // AKUNTANSI
+$route['prodi-akuntansi'] = 'home/prodiakuntansi';
 $route['akademik/program-studi/akuntansi'] = 'home/akuntansi';
 $route['akademik/program-studi/akuntansi/dosen'] = 'home/dosenakuntansi';
 $route['akademik/program-studi/akuntansi/keunggulan'] = 'home/keunggulanakuntansi';
@@ -137,6 +138,7 @@ $route['akademik/program-studi/komunikasi/kurikulum'] = 'home/kurikulumkomunikas
 $route['akademik/program-studi/komunikasi/prospek-karir'] = 'home/prospekkarirkomunikasi';
 
 // INFORMATIKA
+$route['prodi-informatika'] = 'home/prodiinformatika';
 $route['akademik/program-studi/informatika'] = 'home/informatika';
 $route['akademik/program-studi/informatika/dosen'] = 'home/doseninformatika';
 $route['akademik/program-studi/informatika/keunggulan'] = 'home/keunggulaninformatika';

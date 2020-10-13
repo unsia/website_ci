@@ -93,9 +93,9 @@
 	<!-- META ============================================= -->
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="keywords" content="" />
-	<meta name="author" content="" />
-	<meta name="robots" content="" />
+	<meta name="keywords" content="Universitas Siber Asia" />
+	<meta name="author" content="Universitas Siber Asia" />
+	<meta name="robots" content="Universitas Siber Asia" />
 
 	<!-- DESCRIPTION -->
 	<meta name="description" content="Universitas Siber Asia" />
@@ -103,7 +103,7 @@
 	<!-- OG -->
 	<meta property="og:title" content="Universitas Siber Asia" />
 	<meta property="og:description" content="Universitas Siber Asia" />
-	<meta property="og:image" content="" />
+	<meta property="og:image" content="Universitas Siber Asia" />
 	<meta name="format-detection" content="telephone=no" />
 
 	<!-- FAVICONS ICON ============================================= -->
@@ -169,7 +169,7 @@
 									<a href="<?= base_url('tentang-unsia/faq') ?>"><i class="fa fa-question-circle"></i>Ask a Question</a>
 								</li>
 								<li>
-									<a href="mailto:pmb@unsia.ac.id"><i class="fa fa-envelope-o"></i>pmb@unsia.ac.id</a>
+									<a href="mailto:admission@acu.ac.id"><i class="fa fa-envelope-o"></i>admission@acu.ac.id</a>
 								</li>
 							</ul>
 						</div>
@@ -1080,7 +1080,7 @@
 									</li>
 									<li>
 										<a target="_blank"
-											href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20Admin%20UNSIA"
+											href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20admin,%20saya%20mendapatkan%20info%20kuliah%20online%20melalui%20website%20unsia.%20Apakah%20bisa%20dibantu%20untuk%20info%20selanjutnya?"
 											class="btn-link"><i class="fa fa-whatsapp"></i></a>
 									</li>
 									<li>
@@ -1105,7 +1105,7 @@
 								</p>
 								<p class="m-b20">
 									Telp: (021) 27806189<br />
-									Email: pmb@unsia.ac.id
+									Email: admission@acu.ac.id
 								</p>
 							</div>
 						</div>

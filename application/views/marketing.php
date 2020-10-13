@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+
 	<!-- Google Tag Manager -->
 
 	<!-- Universitas Siber Asia 3 -->
@@ -320,7 +321,7 @@
 									<h1>Akhir Pendaftaran</h1>
 								</div>
 								<div class="col-12 text-dua">
-									<h1>12 Oktober 2020</h1>
+									<h1>13 Oktober 2020</h1>
 								</div>
 							</div>
 							<div class="container countdown">
@@ -338,7 +339,7 @@
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
 							<div class="text-center">
-								<a href="https://api.whatsapp.com/send?phone=6281213732772&text=Hai%20admin,%20saya%20ingin%20tahu%20lebih%20lanjut%20tentang%20kuliah%20online%20di%20UNSIA.%20Apakah%20bisa%20dibantu?"
+								<a href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20admin,%20saya%20mendapatkan%20info%20kuliah%20online%20melalui%20sosial%20media%20unsia.%20Apakah%20bisa%20dibantu%20untuk%20info%20selanjutnya?"
 									class="btn btn-marketing" id="btn-whatsapp"><b>RANCANG STUDI MU SEKARANG!</b></a>
 							</div>
 						</div>

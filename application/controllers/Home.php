@@ -693,5 +693,28 @@ class Home extends CI_Controller
 			die;
 		}
 	}
+
+	//LANDING PAGE
+
+	public function prodiManajemen()
+	{
+		$this->load->view('partial/lp_header');
+		$this->load->view('landing-page/prodi-manajemen');
+		$this->load->view('partial/lp_footer');
+	}
+
+	public function prodiAkuntansi()
+	{
+		$this->load->view('partial/lp_header');
+		$this->load->view('landing-page/prodi-akuntansi');
+		$this->load->view('partial/lp_footer');
+	}
+
+	public function prodiInformatika()
+	{
+		$this->load->view('partial/lp_header');
+		$this->load->view('landing-page/prodi-informatika');
+		$this->load->view('partial/lp_footer');
+	}
 	
 }

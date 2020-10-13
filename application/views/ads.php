@@ -242,11 +242,11 @@
 								<h2 class="title-head">Pilih Program Studi <span>Kesukaanmu</span></h2>
 								<h4>Kuliah online S1 terbaik di Indonesia</h4>
 								<ul class="ml-4">
-									<li>Manajemen</li>
-									<li>Sistem Informasi</li>
-									<li>Akuntansi</li>
-									<li>Komunikasi</li>
-									<li>Informatika</li>
+									<li><a href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a></li>
+									<li><a href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem Informasi</a></li>
+									<li><a href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a></li>
+									<li><a href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a></li>
+									<li><a href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a></li>
 								</ul>
 							</div>
 						</div>
@@ -282,10 +282,10 @@
 						</div>
 						<div class="col-lg-6 col-md-6">
 							<div class="heading-bx left">
-								<h2 class="title-head">Biaya Kuliah <span>Terjangkau</span></h2>
+								<h2 class="title-head">Berapa Biaya Kuliah S1 <span>di UNSIA?</span></h2>
 								<ul class="ml-4">
 									<li>Bebas biaya pendaftaran</li>
-									<li>Biaya perkuliahan Rp. 3.000.000/ semester ( Bisa dicicil 3x )</li>
+									<li>Biaya Kuliah Online Rp. 3.000.000/ semester ( Bisa dicicil 3x )</li>
 								</ul>
 							</div>
 						</div>

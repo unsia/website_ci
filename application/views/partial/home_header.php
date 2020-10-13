@@ -6,9 +6,9 @@
 	<!-- META ============================================= -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="keywords" content="" />
-	<meta name="author" content="" />
-	<meta name="robots" content="" />
+	<meta name="keywords" content="Universitas Siber Asia" />
+	<meta name="author" content="Universitas Siber Asia" />
+	<meta name="robots" content="Universitas Siber Asia" />
 
 	<!-- DESCRIPTION -->
 	<meta name="description" content="Universitas Siber Asia" />
@@ -16,7 +16,7 @@
 	<!-- OG -->
 	<meta property="og:title" content="Universitas Siber Asia" />
 	<meta property="og:description" content="Universitas Siber Asia" />
-	<meta property="og:image" content="" />
+	<meta property="og:image" content="Universitas Siber Asia" />
 	<meta name="format-detection" content="telephone=no">
 
 	<!-- FAVICONS ICON ============================================= -->
