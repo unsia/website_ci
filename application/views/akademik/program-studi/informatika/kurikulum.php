@@ -18,7 +18,7 @@
             <div class="widget-inner">
                 <p>Jumlah sks Program Studi (minimum untuk kelulusan) : 144 sks yang tersusun
                     sebagai berikut:</p>
-                <a href="<?= base_url(); ?>assets/documents/Kurikulum Informatika.pdf" class="btn btn-primary">KURIKULUM</a>
+                <a target="_blank" href="<?= base_url(); ?>assets/documents/Kurikulum Informatika.pdf" class="btn btn-primary">KURIKULUM</a>
             </div>
         </div>
     </div>
