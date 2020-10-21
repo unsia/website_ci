@@ -13,7 +13,7 @@
 									<a href="<?= base_url('tentang-unsia/faq') ?>"><i class="fa fa-question-circle"></i>Ask a Question</a>
 								</li>
 								<li>
-									<a href="mailto:pmb@unsia.ac.id"><i class="fa fa-envelope-o"></i>pmb@unsia.ac.id</a>
+									<a href="mailto:admission@acu.ac.id"><i class="fa fa-envelope-o"></i>admission@acu.ac.id</a>
 								</li>
 							</ul>
 						</div>
@@ -25,13 +25,10 @@
 					<div class="container clearfix">
 						<!-- Header Logo ==== -->
 						<div class="menu-logo">
-							<a href="<?= base_url(); ?>"><img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
+							<a href="<?= base_url(); ?>"><img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
 						</div>
 						<!-- Mobile Nav Button ==== -->
-						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button" data-toggle="collapse"
-							data-target="#menuDropdown" aria-controls="menuDropdown" aria-expanded="false"
-							aria-label="Toggle navigation">
+						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button" data-toggle="collapse" data-target="#menuDropdown" aria-controls="menuDropdown" aria-expanded="false" aria-label="Toggle navigation">
 							<span></span>
 							<span></span>
 							<span></span>
@@ -39,8 +36,7 @@
 						<!-- Navigation Menu ==== -->
 						<div class="menu-links navbar-collapse collapse justify-content-start" id="menuDropdown">
 							<div class="menu-logo">
-								<a href="index.html"><img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
+								<a href="index.html"><img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
 							</div>
 							<ul class="nav navbar-nav">
 								<li><a href="<?= base_url(); ?>">Beranda</a></li>
@@ -86,8 +82,7 @@
 										</li>
 										<li class="add-menu-right">
 											<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront">
-												<img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/adv/adv.jpg" alt="" />
+												<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/adv/adv.jpg" alt="" />
 											</a>
 										</li>
 									</ul>
@@ -104,12 +99,10 @@
 													<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
 														Informasi</a>
 												</li>
-												<li><a target="_blank"
-														href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a></li>
+												<li><a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a></li>
 												<li><a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
 												</li>
-												<li><a target="_blank"
-														href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a></li>
+												<li><a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a></li>
 											</ul>
 										</li>
 										<li>
@@ -171,6 +164,7 @@
 									</ul>
 								</li>
 								<li><a href="<?= base_url('contact') ?>">Kontak</a></li>
+								<li><a href="<?= base_url('pensaku') ?>">PENSAKU</a></li>
 							</ul>
 						</div>
 						<!-- Navigation Menu END ==== -->
@@ -182,8 +176,7 @@
 		<!-- Content -->
 		<div class="page-content bg-white">
 			<!-- inner page banner -->
-			<div class="page-banner ovbl-dark"
-				style="background-image: url(<?= base_url(); ?>assets/images/banner/banner2.jpg)">
+			<div class="page-banner ovbl-dark" style="background-image: url(<?= base_url(); ?>assets/images/banner/banner2.jpg)">
 				<div class="container">
 					<div class="page-banner-entry">
 						<h1 class="text-white"><?= $title; ?></h1>
@@ -197,7 +190,7 @@
 						<li><a href="<?= base_url(); ?>">Home</a></li>
 						<li><?= $menu; ?></li>
 						<?php if ($submenu == true) : ?>
-						<li><?= $submenu; ?></li>
+							<li><?= $submenu; ?></li>
 						<?php else : ?>
 						<?php endif; ?>
 						<li><?= $title; ?></li>

@@ -144,3 +144,6 @@ $route['akademik/program-studi/informatika/dosen'] = 'home/doseninformatika';
 $route['akademik/program-studi/informatika/keunggulan'] = 'home/keunggulaninformatika';
 $route['akademik/program-studi/informatika/kurikulum'] = 'home/kurikuluminformatika';
 $route['akademik/program-studi/informatika/prospek-karir'] = 'home/prospekkaririnformatika';
+
+// PENSAKU
+$route['pensaku'] = 'home/pensaku';
