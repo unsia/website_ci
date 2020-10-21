@@ -716,5 +716,15 @@ class Home extends CI_Controller
 		$this->load->view('landing-page/prodi-informatika');
 		$this->load->view('partial/lp_footer');
 	}
-	
+
+	public function pensaku()
+	{
+		$data['title'] = 'Pensaku';
+		$data['menu'] = 'Pensaku';
+		$data['submenu'] = '';
+		$this->load->view('partial/home_header', $data);
+		$this->load->view('partial/home_navbar', $data);
+		$this->load->view('pensaku/pensaku1');
+		$this->load->view('partial/home_footer');
+	}
 }

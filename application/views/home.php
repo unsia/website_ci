@@ -20,7 +20,7 @@
 
 	<!-- Universitas Siber Asia 3 -->
 	<script>
-		(function (w, d, s, l, i) {
+		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
 				'gtm.start': new Date().getTime(),
@@ -38,7 +38,7 @@
 
 	<!-- Universitas Siber Asia 4 -->
 	<script>
-		(function (w, d, s, l, i) {
+		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
 				'gtm.start': new Date().getTime(),
@@ -55,7 +55,7 @@
 	</script>
 
 	<script>
-		(function (w, d, s, l, i) {
+		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
 				'gtm.start': new Date().getTime(),
@@ -72,7 +72,7 @@
 	</script>
 
 	<script>
-		(function (w, d, s, l, i) {
+		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
 				'gtm.start': new Date().getTime(),
@@ -141,20 +141,16 @@
 	<!-- Google Tag Manager (noscript) -->
 
 	<!-- Universitas Siber Asia 3 -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5PJ4FD" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5PJ4FD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<!-- Universitas Siber Asia 4 -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPP9KZP" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPP9KZP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<!-- Universitas Siber Asia 2 -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57QZG9P" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57QZG9P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<!-- Universitas Siber Asia -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	<div class="page-wraper">
 		<div id="loading-icon-bx"></div>
@@ -184,14 +180,12 @@
 							<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
 						</div>
 						<!-- Mobile Nav Button ==== -->
-						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button" data-toggle="collapse"
-							data-target="#menuDropdown" aria-controls="menuDropdown" aria-expanded="false"
-							aria-label="Toggle navigation">
+						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button" data-toggle="collapse" data-target="#menuDropdown" aria-controls="menuDropdown" aria-expanded="false" aria-label="Toggle navigation">
 							<span></span>
 							<span></span>
 							<span></span>
 						</button>
-						
+
 						<!-- Navigation Menu ==== -->
 						<div class="menu-links navbar-collapse collapse justify-content-end" id="menuDropdown">
 							<div class="menu-logo">
@@ -261,12 +255,10 @@
 													<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
 														Informasi</a>
 												</li>
-												<li><a target="_blank"
-														href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a></li>
+												<li><a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a></li>
 												<li><a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
 												</li>
-												<li><a target="_blank"
-														href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a></li>
+												<li><a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a></li>
 											</ul>
 										</li>
 										<li>
@@ -328,6 +320,7 @@
 									</ul>
 								</li>
 								<li><a href="<?= base_url('contact') ?>">Kontak</a></li>
+								<li><a href="<?= base_url('pensaku') ?>">PENSAKU</a></li>
 							</ul>
 							<div class="nav-social-link">
 								<a href="javascript:;"><i class="fa fa-facebook"></i></a>
@@ -345,8 +338,7 @@
 		<div class="page-content bg-white">
 			<!-- Main Slider -->
 			<div class="rev-slider">
-				<div id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container"
-					data-alias="news-gallery36" data-source="gallery" style="
+				<div id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery36" data-source="gallery" style="
               margin: 0px auto;
               background-color: #ffffff;
               padding: 0px;
@@ -357,41 +349,19 @@
 					<div id="rev_slider_486_1" class="rev_slider fullwidthabanner" style="display: none" data-version="5.3.0.2">
 						<ul>
 							<!-- SLIDE  -->
-							<li data-index="rs-100" data-transition="parallaxvertical" data-slotamount="default"
-								data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default"
-								data-masterspeed="default" data-thumb="error-404.html" data-rotate="0" data-fstransition="fade"
-								data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"
-								data-title="A STUDY ON HAPPINESS" data-param1="" data-param2="" data-param3="" data-param4=""
-								data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10=""
-								data-description="Science says that Women are generally happier">
+							<li data-index="rs-100" data-transition="parallaxvertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="error-404.html" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Science says that Women are generally happier">
 								<!-- MAIN IMAGE -->
-								<img src="<?= base_url(); ?>assets/images/slider/slide1.jpg" alt="" data-bgposition="center center"
-									data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
-									data-no-retina />
+								<img src="<?= base_url(); ?>assets/images/slider/slide1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina />
 
 								<!-- LAYER NR. 1 -->
-								<div class="tp-caption tp-shape tp-shapewrapper" id="slide-100-layer-1"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full"
-									data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide"
-									data-responsive_offset="off" data-responsive="off"
-									data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1,"to":"opacity:0;","ease":"Power4.easeOut"}]'
-									data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption tp-shape tp-shapewrapper" id="slide-100-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1,"to":"opacity:0;","ease":"Power4.easeOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 5;
                       background-color: rgba(2, 0, 11, 0.8);
                       border-color: rgba(0, 0, 0, 0);
                       border-width: 0px;
                     "></div>
 								<!-- LAYER NR. 2 -->
-								<div class="tp-caption Newspaper-Title tp-resizeme" id="slide-100-layer-2"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['250','250','250','240']"
-									data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="full"
-									data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]" data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Title tp-resizeme" id="slide-100-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['250','250','250','240']" data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="full" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 6;
                       font-family: rubik;
                       font-weight: 700;
@@ -402,13 +372,7 @@
 								</div>
 
 								<!-- LAYER NR. 3 -->
-								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-100-layer-3"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['210','210','210','210']" data-width="none"
-									data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-100-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['210','210','210','210']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 7;
                       white-space: nowrap;
                       color: #fff;
@@ -420,14 +384,7 @@
 								</div>
 
 								<!-- LAYER NR. 3 -->
-								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-100-layer-4"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['320','320','320','290']"
-									data-width="['800','800','700','420']" data-height="['100','100','100','120']" data-whitespace="unset"
-									data-type="text" data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-100-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['320','320','320','290']" data-width="['800','800','700','420']" data-height="['100','100','100','120']" data-whitespace="unset" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 7;
                       text-transform: capitalize;
                       white-space: unset;
@@ -442,17 +399,8 @@
 									Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
 								</div>
 								<!-- LAYER NR. 4 -->
-								<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront" id="link-header-daftar"
-									style="display: none"></a>
-								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn" id="slide-100-layer-5"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['400','400','400','420']" data-width="none"
-									data-height="none" data-whitespace="nowrap" data-type="button" data-responsive_offset="on"
-									data-responsive="off"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[12,12,12,12]"
-									data-paddingright="[30,35,35,15]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]"
-									style="
+								<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront" id="link-header-daftar" style="display: none"></a>
+								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn" id="slide-100-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['400','400','400','420']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]" style="
                       margin-top: 20px;
                       z-index: 8;
                       white-space: nowrap;
@@ -470,27 +418,12 @@
 									DAFTAR SEKARANG
 								</div>
 							</li>
-							<li data-index="rs-200" data-transition="parallaxvertical" data-slotamount="default"
-								data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default"
-								data-masterspeed="default" data-thumb="<?= base_url(); ?>assets/images/slider/slide1.jpg"
-								data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7"
-								data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1="" data-param2=""
-								data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
-								data-param10="" data-description="Science says that Women are generally happier">
+							<li data-index="rs-200" data-transition="parallaxvertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?= base_url(); ?>assets/images/slider/slide1.jpg" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Science says that Women are generally happier">
 								<!-- MAIN IMAGE -->
-								<img src="<?= base_url(); ?>assets/images/slider/slide2.jpg" alt="" data-bgposition="center center"
-									data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
-									data-no-retina />
+								<img src="<?= base_url(); ?>assets/images/slider/slide2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina />
 
 								<!-- LAYER NR. 1 -->
-								<div class="tp-caption tp-shape tp-shapewrapper" id="slide-200-layer-1"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full"
-									data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide"
-									data-responsive_offset="off" data-responsive="off"
-									data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"to":"opacity:1;","ease":"Power4.easeOut"}]'
-									data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption tp-shape tp-shapewrapper" id="slide-200-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"to":"opacity:1;","ease":"Power4.easeOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 5;
                       background-color: rgba(2, 0, 11, 0.8);
                       border-color: rgba(0, 0, 0, 0);
@@ -498,14 +431,7 @@
                     "></div>
 
 								<!-- LAYER NR. 2 -->
-								<div class="tp-caption Newspaper-Title tp-resizeme" id="slide-200-layer-2"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['250','250','250','240']"
-									data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="full"
-									data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]" data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Title tp-resizeme" id="slide-200-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['250','250','250','240']" data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="full" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 6;
                       font-family: rubik;
                       font-weight: 700;
@@ -517,13 +443,7 @@
 								</div>
 
 								<!-- LAYER NR. 3 -->
-								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-200-layer-3"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['210','210','210','210']" data-width="none"
-									data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-200-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['210','210','210','210']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 7;
                       white-space: nowrap;
                       text-transform: uppercase;
@@ -536,14 +456,7 @@
 								</div>
 
 								<!-- LAYER NR. 4 -->
-								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-200-layer-4"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['320','320','320','290']"
-									data-width="['800','800','700','420']" data-height="['100','100','100','120']" data-whitespace="unset"
-									data-type="text" data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-200-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['320','320','320','290']" data-width="['800','800','700','420']" data-height="['100','100','100','120']" data-whitespace="unset" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 7;
                       text-transform: capitalize;
                       white-space: unset;
@@ -558,15 +471,7 @@
 									Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
 								</div>
 								<!-- LAYER NR. 5 -->
-								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn" id="slide-100-layer-5"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['400','400','400','420']" data-width="none"
-									data-height="none" data-whitespace="nowrap" data-type="button" data-responsive_offset="on"
-									data-responsive="off"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[12,12,12,12]"
-									data-paddingright="[30,35,35,15]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]"
-									style="
+								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn" id="slide-100-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['400','400','400','420']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]" style="
                       margin-top: 20px;
                       z-index: 8;
                       white-space: nowrap;
@@ -681,8 +586,7 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic2.jpg" alt="" />
-											<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>"
-												class="btn">Read More</a>
+											<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>" class="btn">Read More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
@@ -741,8 +645,7 @@
 				<!-- Popular Courses END -->
 
 				<!-- Form -->
-				<div class="section-area section-sp1 ovpr-dark bg-fix online-cours"
-					style="background-image: url(<?= base_url(); ?>assets/images/background/bg1.jpg)">
+				<div class="section-area section-sp1 ovpr-dark bg-fix online-cours" style="background-image: url(<?= base_url(); ?>assets/images/background/bg1.jpg)">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12 text-center text-white">
@@ -914,8 +817,7 @@
 				<!-- Recent News End -->
 
 				<!-- Salam Rektor -->
-				<div class="section-area section-sp2 bg-fix ovbl-dark"
-					style="background-image: url(<?= base_url(); ?>assets/images/background/bg1.jpg)">
+				<div class="section-area section-sp2 bg-fix ovbl-dark" style="background-image: url(<?= base_url(); ?>assets/images/background/bg1.jpg)">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12 text-white heading-bx left">
@@ -1075,17 +977,13 @@
 							<div class="pt-social-link">
 								<ul class="list-inline m-a0">
 									<li>
-										<a target="_blank" href="https://www.facebook.com/Universitas-Siber-Asia-115760190260178"
-											class="btn-link"><i class="fa fa-facebook"></i></a>
+										<a target="_blank" href="https://www.facebook.com/Universitas-Siber-Asia-115760190260178" class="btn-link"><i class="fa fa-facebook"></i></a>
 									</li>
 									<li>
-										<a target="_blank"
-											href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20admin,%20saya%20mendapatkan%20info%20kuliah%20online%20melalui%20website%20unsia.%20Apakah%20bisa%20dibantu%20untuk%20info%20selanjutnya?"
-											class="btn-link"><i class="fa fa-whatsapp"></i></a>
+										<a target="_blank" href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20admin,%20saya%20mendapatkan%20info%20kuliah%20online%20melalui%20website%20unsia.%20Apakah%20bisa%20dibantu%20untuk%20info%20selanjutnya?" class="btn-link"><i class="fa fa-whatsapp"></i></a>
 									</li>
 									<li>
-										<a target="_blank" href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i
-												class="fa fa-instagram"></i></a>
+										<a target="_blank" href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a>
 									</li>
 								</ul>
 							</div>
@@ -1136,8 +1034,7 @@
 										<ul>
 											<li><a target="_blank" href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
 											</li>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a></li>
+											<li><a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a></li>
 											<li>
 												<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
 													Informasi</a>
@@ -1156,36 +1053,28 @@
 								<h5 class="footer-title">Gallery</h5>
 								<ul class="magnific-image">
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic1.jpg" class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic1.jpg" alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic1.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic1.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic2.jpg" class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic2.jpg" alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic2.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic2.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic3.jpg" class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic3.jpg" alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic3.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic3.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic4.jpg" class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic4.jpg" alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic4.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic4.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic5.jpg" class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic5.jpg" alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic5.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic5.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic6.jpg" class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic6.jpg" alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic6.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic6.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic7.jpg" class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic7.jpg" alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic7.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic7.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic8.jpg" class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic8.jpg" alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic8.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic8.jpg" alt="" /></a>
 									</li>
 								</ul>
 							</div>
@@ -1234,8 +1123,7 @@
 	</script>
 	<script src="<?= base_url(); ?>assets/home/vendors/revolution/js/extensions/revolution.extension.kenburn.min.js">
 	</script>
-	<script
-		src="<?= base_url(); ?>assets/home/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js">
+	<script src="<?= base_url(); ?>assets/home/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js">
 	</script>
 	<script src="<?= base_url(); ?>assets/home/vendors/revolution/js/extensions/revolution.extension.migration.min.js">
 	</script>
@@ -1259,7 +1147,7 @@
 		);
 	</script>
 	<script>
-		jQuery(document).ready(function () {
+		jQuery(document).ready(function() {
 			var ttrevapi;
 			var tpj = jQuery;
 			if (tpj("#rev_slider_486_1").revolution == undefined) {
