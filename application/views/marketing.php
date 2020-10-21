@@ -321,7 +321,7 @@
 									<h1>Akhir Pendaftaran</h1>
 								</div>
 								<div class="col-12 text-dua">
-									<h1>13 Oktober 2020</h1>
+									<h1>22 Oktober 2020</h1>
 								</div>
 							</div>
 							<div class="container countdown">

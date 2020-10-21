@@ -1,4 +1,4 @@
-let tanggal = "Oct 14, 2020 00:00:00",
+let tanggal = "Oct 22, 2020 00:00:00",
 	fourthOfJuly = new Date(tanggal).getTime();
 const month = new Date().getMonth();
 const second = 1000;
