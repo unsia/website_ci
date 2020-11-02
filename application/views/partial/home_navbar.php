@@ -164,7 +164,6 @@
 									</ul>
 								</li>
 								<li><a href="<?= base_url('contact') ?>">Kontak</a></li>
-								<li><a href="<?= base_url('pensaku') ?>">PENSAKU</a></li>
 							</ul>
 						</div>
 						<!-- Navigation Menu END ==== -->
