@@ -11,7 +11,7 @@
                         <th rowspan="2">No</th>
                         <th rowspan="2">Nama Dosen Tetap</th>
                         <th colspan="2">S2</th>
-                        <th colspan="3">S3</th>
+                        <th colspan="2">S3</th>
                         <th rowspan="2">CV</th>
                     </tr>
                     <tr class="bg-success">
@@ -19,148 +19,105 @@
                         <th>Bidang Ilmu</th>
                         <th>Universitas</th>
                         <th>Bidang Ilmu</th>
-                        <th>Tahun</th>
                     </tr>
                     <tr>
                         <th>1</th>
-                        <td>Heni suryanti</td>
-                        <td>UMJ</td>
+                        <td>Molina, S.E., M.Si., Ak.</td>
+                        <td>Universitas Muhammadiyah Jakarta</td>
                         <td>Akuntansi</td>
-                        <td>UUM/Unpadj</td>
+                        <td>Universitas Indonesia</td>
                         <td>Akuntansi</td>
-                        <td>2018</td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>2</th>
-                        <td>Arni karina</td>
-                        <td>UNAS</td>
-                        <td>Manajemen</td>
-                        <td>UUM/UI</td>
-                        <td>Akuntansi</td>
-                        <td>2019</td>
+                        <td>Dr. Padri Achyarsyah, SE., Ak., MM, DESS, CPA</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>3</th>
-                        <td>Erwin Indriyanto</td>
-                        <td>Unpad</td>
-                        <td>Akuntansi</td>
-                        <td>UUM/Unpadj</td>
-                        <td>Akuntansi</td>
-                        <td>2019</td>
+                        <td>Rahayu Lestari, S.E., M.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>4</th>
-                        <td>M. Nur</td>
-                        <td>-</td>
-                        <td>Akuntansi</td>
-                        <td>UUM</td>
-                        <td>Akuntansi</td>
-                        <td>2020</td>
+                        <td>Drs Abdul Hadi Achmad, M.Sc.</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>5</th>
-                        <td>Nungki Yartono</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>UUM</td>
-                        <td>Akuntansi</td>
-                        <td>2020</td>
+                        <td>Ria, SE., M.Si., Ak.</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>6</th>
-                        <td>Dipa Teruna</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>UUM</td>
+                        <td>Murdhaningsih, S.E., M.Ak.</td>
+                        <td>Universitas Pancasila</td>
                         <td>Akuntansi</td>
-                        <td>2018</td>
-                        <td><a href="#">Download</a></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Akuntansi/CV Murdhaningsih S.E., M.Ak.pdf">Download</a></td>
                     </tr>
                     <tr>
                         <th>7</th>
-                        <td>Khairul S.Tobing</td>
-                        <td>Trisakti</td>
-                        <td>-</td>
-                        <td>UUM</td>
+                        <td>Deri Yanto, S.E., M.Ak</td>
+                        <td>Universitas Pancasila</td>
                         <td>Akuntansi</td>
-                        <td>Akuntansi</td>
-                        <td><a href="#">Download</a></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Akuntansi/CV Deri Yanto S.E., M.Ak.pdf">Download</a></td>
                     </tr>
                     <tr>
                         <th>8</th>
-                        <td>Molina</td>
-                        <td>UMJ</td>
-                        <td>Akuntansi</td>
+                        <td>Bunga Anisah Harared, S.E., M.Ak</td>
                         <td>Universitas Indonesia</td>
-                        <td>Akuntansi</td>
-                        <td>2020</td>
+                        <td>Ilmu Akuntansi</td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
-                </table>
-                <p>Rencana Penguatan Ilmu Pascadoktor</p>
-                <table class="table table-bordered">
-                    <tr class="bg-info text-center">
-                        <th rowspan="2">No.</th>
-                        <th rowspan="2">Nama Dosen Tetap</th>
-                        <th colspan="3">S3</th>
-                        <th colspan="2">Post-Doctoral</th>
-                    </tr>
-                    <tr class="bg-success text-center">
-                        <th>Universitas</th>
-                        <th>Bidang Ilmu</th>
-                        <th>Tahun</th>
-                        <th>Universitas</th>
-                        <th>Tahun</th>
+                    <tr>
+                        <th>9</th>
+                        <td>Dr. Zumratul Meini</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
-                        <td>1</td>
-                        <td>Padri Achyarsyah</td>
-                        <td>Unpadj</td>
-                        <td>Akuntansi</td>
-                        <td>2017</td>
-                        <td>Unpadj</td>
-                        <td>2019</td>
+                        <th>10</th>
+                        <td>Arni Karlina</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
-                        <td>2</td>
-                        <td>Bambang Subianto</td>
-                        <td>Undip</td>
-                        <td>Akuntansi</td>
-                        <td>2018</td>
-                        <td>Undip</td>
-                        <td>2020</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>Asep Supriatna</td>
-                        <td>Undip</td>
-                        <td>Akuntansi</td>
-                        <td>2018</td>
-                        <td>Undip</td>
-                        <td>2020</td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td>Zumratul Meini</td>
-                        <td>UI</td>
-                        <td>Akuntansi</td>
-                        <td>2018</td>
-                        <td>UI</td>
-                        <td>2020</td>
-                    </tr>
-                    <tr>
-                        <td>5</td>
-                        <td>Ach. Aryanda</td>
-                        <td>Trisakti</td>
-                        <td>Akuntansi</td>
-                        <td>2018</td>
-                        <td>UI</td>
-                        <td>2020</td>
+                        <th>11</th>
+                        <td>Abdu Rahman, S.E., M.Ak.</td>
+                        <td>Universitas Pancasila/td>
+                        <td>Akuntansi Pemerintahan</td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Akuntansi/CV Abdu Rahman S.E., M.Ak.pdf">Download</a></td>
                     </tr>
                 </table>
             </div>

@@ -116,26 +116,26 @@
             <div class="panel">
               <div class="acod-head">
                 <h6 class="acod-title">
-                  <a data-toggle="collapse" href="#faq6" class="collapsed" data-parent="#faq6">
+                  <a data-toggle="collapse" href="#faq7" class="collapsed" data-parent="#faq6">
                     Biaya Kuliah Terjangkau
                   </a>
                 </h6>
               </div>
-              <div id="faq6" class="acod-body collapse">
+              <div id="faq7" class="acod-body collapse">
                 <div class="acod-content">
-                  Biaya perkuliahan yang sangat jangkau dan dapat dicicil. Serta bebas dari biaya pendaftaran
+                  Biaya perkuliahan yang sangat jangkau dan dapat dicicil.
                 </div>
               </div>
             </div>
             <div class="panel">
               <div class="acod-head">
                 <h6 class="acod-title">
-                  <a data-toggle="collapse" href="#faq6" class="collapsed" data-parent="#faq6">
+                  <a data-toggle="collapse" href="#faq8" class="collapsed" data-parent="#faq6">
                     Materi perkuliahan yang up-to-date
                   </a>
                 </h6>
               </div>
-              <div id="faq6" class="acod-body collapse">
+              <div id="faq8" class="acod-body collapse">
                 <div class="acod-content">
                   materi kuliah berkualitas tinggi melalui pengembangan sistem akademik kuliah
                   dan sistem manajemennya.

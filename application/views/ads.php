@@ -284,7 +284,7 @@
 							<div class="heading-bx left">
 								<h2 class="title-head">Berapa Biaya Kuliah S1 <span>di UNSIA?</span></h2>
 								<ul class="ml-4">
-									<li>Bebas biaya pendaftaran</li>
+									<li>Biaya Pendaftaran Rp. 100.000</li>
 									<li>Biaya Kuliah Online Rp. 3.000.000/ semester ( Bisa dicicil 3x )</li>
 								</ul>
 							</div>

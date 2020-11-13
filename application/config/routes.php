@@ -88,6 +88,7 @@ $route['akademik/panduan-pembelajaran-online'] = 'home/panduanpembelajaranonline
 $route['arsip/berita/berita-list'] = 'home/listberita';
 $route['arsip/berita/berita-detail'] = 'home/detailberitasatu';
 $route['arsip/berita/transformation-of-digital-communication'] = 'home/transformationofdigitalcommunication';
+$route['arsip/berita/forum-diskusi-dosen'] = 'home/forumdiskusidosen';
 
 // BLOG
 $route['arsip/blog/blog-list'] = 'home/listblog';

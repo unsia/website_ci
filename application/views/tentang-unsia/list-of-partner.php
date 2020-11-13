@@ -145,6 +145,20 @@
                 </div>
               </div>
             </div>
+            <div class="panel">
+              <div class="acod-head">
+                <h6 class="acod-title">
+                  <a data-toggle="collapse" href="#faq7" class="collapsed" data-parent="#faq6">
+                  PT. Haruka Evolusi Digital Utama
+                  </a>
+                </h6>
+              </div>
+              <div id="faq7" class="acod-body collapse">
+                <div class="acod-content">
+                HarukaEDU menawarkan solusi teknologi bagi perguruan tinggi, perusahaan/institusi maupun individu dalam mendesain pembelajaran online. Bagi perguruan tinggi, layanan yang diberikan HarukaEDU terdiri dari pengembangan sistem IT, konten online, pusat bantuan, operasional, hingga rekrutmen mahasiswa dan dosen.
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

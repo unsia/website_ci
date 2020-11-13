@@ -54,7 +54,7 @@
 								alt="">
 							<div class="text-center">
 								<small>Agung Suprio – Ketua Komisi Penyiaran Indonesia (KPI) Pusat</small></div>
-								<br>
+							<br>
 							<p>Narasumber pertama, Agung Suprio menyampaikan materi mengenai “Tantangan Regulasi
 								Penyiaran Digital dan Media Baru”. Dalam pemaparannya, Suprio menjelaskan bahwa di
 								Asia Tenggara Indonesia masih sama kedudukannya dengan Timor Leste dalam hal
@@ -76,7 +76,7 @@
 							<div class="text-center">
 								<small>Agung Laksamana, M.Sc., IAPR – Ketua Umum Perhimpunan Hubungan Masyarakat
 									Indonesia (Perhumas)</small></div>
-									<br>
+							<br>
 							<p>Ketua Umum Persatuan Hubungan Masyarakat Indonesia (PERHUMAS), Agung
 								Laksamana, M.Sc, memaparkan materi yang kedua dengan tema “Transformasi Public
 								Relations (PR) di Era Digital”. Peran Public Relations atau Humas di era transformasi
@@ -99,7 +99,7 @@
 							<div class="text-center">
 								<small>Dr. Muhammad Sulhan, S.IP., M.Si. – Ketua Umum Asosiasi Pendidikan Tinggi Ilmu
 									Komunikasi (ASPIKOM)</small></div>
-									<br>
+							<br>
 							<p>Guna mengimbangi kedua narasumber yang berasal dari birokrasi dan dunia bisnis,
 								narasumber ketiga justru menghadirkan Dr. Muhamad Sulhan, S.IP., M.Si dengan pemaparan
 								tema “Transformasi Komunikasi Digital Perspektif Teoritis”. Sulhan menyampaikan bahwa
@@ -155,14 +155,37 @@
 								<div class="widget-post clearfix">
 									<div class="ttr-post-media">
 										<img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/event/komunikasi/TTDC.jpeg" width="200"
-											height="143" alt="" />
+											data-src="<?= base_url(); ?>assets/images/berita/forum-diskusi-kom.jpeg"
+											width="200" height="143" alt="" />
 									</div>
 									<div class="ttr-post-info">
 										<div class="ttr-post-header">
 											<h6 class="post-title">
-												<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">“Transformation of Digital Communication” Menjadi Tema Pada Webinar Perdana
-Prodi Komunikasi UNSIA</a>
+												<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>">Dampak
+													Omnibus Law Bagi Masa Depan Penyiaran
+													Indonesia</a>
+											</h6>
+										</div>
+										<ul class="media-post">
+											<li>
+												<a href="#"><i class="fa fa-calendar"></i>5 November 2020</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="widget-post clearfix">
+									<div class="ttr-post-media">
+										<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/event/komunikasi/TTDC.jpeg"
+											width="200" height="143" alt="" />
+									</div>
+									<div class="ttr-post-info">
+										<div class="ttr-post-header">
+											<h6 class="post-title">
+												<a
+													href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">Transformation
+													of Digital Communication” Menjadi Tema Pada Webinar Perdana
+													Prodi Komunikasi UNSIA</a>
 											</h6>
 										</div>
 										<ul class="media-post">
@@ -208,26 +231,6 @@ Prodi Komunikasi UNSIA</a>
 										<ul class="media-post">
 											<li>
 												<a href="#"><i class="fa fa-calendar"></i>4 September 2020</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="widget-post clearfix">
-									<div class="ttr-post-media">
-										<img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/berita/pic2.jpg" width="200"
-											height="160" alt="" />
-									</div>
-									<div class="ttr-post-info">
-										<div class="ttr-post-header">
-											<h6 class="post-title">
-												<a href="blog-details.html">Pemerintah Siapkan Rp 22 T untuk Kembangkan
-													Pendidikan Berbasis Digital</a>
-											</h6>
-										</div>
-										<ul class="media-post">
-											<li>
-												<a href="#"><i class="fa fa-calendar"></i>7 Juli 2020</a>
 											</li>
 										</ul>
 									</div>

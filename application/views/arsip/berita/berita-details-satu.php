@@ -100,7 +100,51 @@
 							<div class="widget-post-bx">
 								<div class="widget-post clearfix">
 									<div class="ttr-post-media">
-										<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/berita/pic5.jpg" width="200"
+										<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/berita/forum-diskusi-kom.jpeg"
+											width="200" height="143" alt="" />
+									</div>
+									<div class="ttr-post-info">
+										<div class="ttr-post-header">
+											<h6 class="post-title">
+												<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>">Dampak
+													Omnibus Law Bagi Masa Depan Penyiaran
+													Indonesia</a>
+											</h6>
+										</div>
+										<ul class="media-post">
+											<li>
+												<a href="#"><i class="fa fa-calendar"></i>5 November 2020</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="widget-post clearfix">
+									<div class="ttr-post-media">
+										<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/event/komunikasi/TTDC.jpeg"
+											width="200" height="143" alt="" />
+									</div>
+									<div class="ttr-post-info">
+										<div class="ttr-post-header">
+											<h6 class="post-title">
+												<a
+													href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">Transformation
+													of Digital Communication” Menjadi Tema Pada Webinar Perdana
+													Prodi Komunikasi UNSIA</a>
+											</h6>
+										</div>
+										<ul class="media-post">
+											<li>
+												<a href="#"><i class="fa fa-calendar"></i>31 Oktober 2020</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="widget-post clearfix">
+									<div class="ttr-post-media">
+										<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/berita/pic5.jpg" width="200"
 											height="143" alt="" />
 									</div>
 									<div class="ttr-post-info">
@@ -120,7 +164,8 @@
 								</div>
 								<div class="widget-post clearfix">
 									<div class="ttr-post-media">
-										<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/berita/pic1.jpg" width="200"
+										<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/berita/pic1.jpg" width="200"
 											height="143" alt="" />
 									</div>
 									<div class="ttr-post-info">
@@ -132,44 +177,6 @@
 										<ul class="media-post">
 											<li>
 												<a href="#"><i class="fa fa-calendar"></i>4 September 2020</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="widget-post clearfix">
-									<div class="ttr-post-media">
-										<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/berita/pic2.jpg" width="200"
-											height="160" alt="" />
-									</div>
-									<div class="ttr-post-info">
-										<div class="ttr-post-header">
-											<h6 class="post-title">
-												<a href="blog-details.html">Pemerintah Siapkan Rp 22 T untuk Kembangkan
-													Pendidikan Berbasis Digital</a>
-											</h6>
-										</div>
-										<ul class="media-post">
-											<li>
-												<a href="#"><i class="fa fa-calendar"></i>7 Juli 2020</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="widget-post clearfix">
-									<div class="ttr-post-media">
-										<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/berita/pic3.jpg" width="200"
-											height="160" alt="" />
-									</div>
-									<div class="ttr-post-info">
-										<div class="ttr-post-header">
-											<h6 class="post-title">
-												<a href="blog-details.html">YMIK Terima Izin Pendirian Universitas Siber
-													Pertama di Indonesia</a>
-											</h6>
-										</div>
-										<ul class="media-post">
-											<li>
-												<a href="#"><i class="fa fa-calendar"></i>26 Agustus 2019</a>
 											</li>
 										</ul>
 									</div>

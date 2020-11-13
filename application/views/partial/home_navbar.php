@@ -40,7 +40,7 @@
 							</div>
 							<ul class="nav navbar-nav">
 								<li><a href="<?= base_url(); ?>">Beranda</a></li>
-								<li class="active">
+								<li class="">
 									<a href="javascript:;">Tentang UNSIA <i class="fa fa-chevron-down"></i></a>
 									<ul class="sub-menu">
 										<li>

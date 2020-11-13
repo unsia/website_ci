@@ -7,6 +7,38 @@
 					<div class="recent-news blog-lg m-b40">
 						<div class="action-box blog-lg">
 							<img src="#" class="lazy"
+								data-src="<?= base_url(); ?>assets/images/berita/forum-diskusi-kom.jpeg"
+								alt="" />
+						</div>
+						<div class="info-bx">
+							<ul class="media-post">
+								<li>
+									<a href="#"><i class="fa fa-calendar"></i>5 November 2020</a>
+								</li>
+								<li>
+									<a href="#"><i class="fa fa-user"></i>By Komunikasi UNSIA</a>
+								</li>
+							</ul>
+							<h5 class="post-title">
+								<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>">Dampak Omnibus Law Bagi
+									Masa Depan Penyiaran
+									Indonesia</a>
+							</h5>
+							<p>
+								Jakarta – Kamis (05/11/2020) Program Studi Ilmu Komunikasi Universitas Nasional (UNAS)
+								bekerjasama dengan Program Studi Komunikasi Universitas Siber Asia (UNSIA) dan Komisi
+								Penyiaran Indonesia Daerah (KPID) Provinsi DKI Jakarta mengadakan webinar bertajuk
+								Forum Diskusi Komunikasi (FDK) yang mengusung tema
+							</p>
+							<div class="post-extra">
+								<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>" class="btn-link">READ
+									MORE</a>
+							</div>
+						</div>
+					</div>
+					<div class="recent-news blog-lg m-b40">
+						<div class="action-box blog-lg">
+							<img src="#" class="lazy"
 								data-src="<?= base_url(); ?>assets/images/event/komunikasi/TTDC.jpeg" alt="" />
 						</div>
 						<div class="info-bx">
@@ -19,7 +51,7 @@
 								</li>
 							</ul>
 							<h5 class="post-title">
-								<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">“Transformation
+								<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">Transformation
 									of Digital Communication” Menjadi Tema Webinar Perdana
 									Prodi Komunikasi UNSIA</a>
 							</h5>
@@ -179,21 +211,43 @@
 				<!-- Side bar start -->
 				<div class="col-md-5 col-lg-4 col-xl-4 sticky-top">
 					<aside class="side-bar sticky-top">
-
 						<div class="widget recent-posts-entry">
 							<h6 class="widget-title">Recent Posts</h6>
 							<div class="widget-post-bx">
 								<div class="widget-post clearfix">
 									<div class="ttr-post-media">
 										<img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/event/komunikasi/TTDC.jpeg" width="200"
-											height="143" alt="" />
+											data-src="<?= base_url(); ?>assets/images/event/komunikasi/forum-diskusi-kom.jpeg"
+											width="200" height="143" alt="" />
 									</div>
 									<div class="ttr-post-info">
 										<div class="ttr-post-header">
 											<h6 class="post-title">
-												<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">“Transformation of Digital Communication” Menjadi Tema Webinar Perdana
-Prodi Komunikasi UNSIA</a>
+												<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>">Dampak
+													Omnibus Law Bagi Masa Depan Penyiaran
+													Indonesia</a>
+											</h6>
+										</div>
+										<ul class="media-post">
+											<li>
+												<a href="#"><i class="fa fa-calendar"></i>5 November 2020</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="widget-post clearfix">
+									<div class="ttr-post-media">
+										<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/event/komunikasi/TTDC.jpeg"
+											width="200" height="143" alt="" />
+									</div>
+									<div class="ttr-post-info">
+										<div class="ttr-post-header">
+											<h6 class="post-title">
+												<a
+													href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">“Transformation
+													of Digital Communication” Menjadi Tema Pada Webinar Perdana
+													Prodi Komunikasi UNSIA</a>
 											</h6>
 										</div>
 										<ul class="media-post">
@@ -213,8 +267,8 @@ Prodi Komunikasi UNSIA</a>
 										<div class="ttr-post-header">
 											<h6 class="post-title">
 												<a href="<?= base_url('arsip/berita/berita-detail'); ?>">Resmikan
-													Universitas Siber Pertama,
-													Wapres Tekankan Pentingnya Unsia Dorong Apk Indonesia</a>
+													Universitas Siber Pertama, Wapres Tekankan Pentingnya Unsia Dorong
+													Apk Indonesia</a>
 											</h6>
 										</div>
 										<ul class="media-post">
@@ -243,30 +297,8 @@ Prodi Komunikasi UNSIA</a>
 										</ul>
 									</div>
 								</div>
-								<div class="widget-post clearfix">
-									<div class="ttr-post-media">
-										<img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/berita/pic2.jpg" width="200"
-											height="160" alt="" />
-									</div>
-									<div class="ttr-post-info">
-										<div class="ttr-post-header">
-											<h6 class="post-title">
-												<a href="blog-details.html">Pemerintah Siapkan Rp 22 T untuk Kembangkan
-													Pendidikan Berbasis Digital</a>
-											</h6>
-										</div>
-										<ul class="media-post">
-											<li>
-												<a href="#"><i class="fa fa-calendar"></i>7 Juli 2020</a>
-											</li>
-										</ul>
-									</div>
-								</div>
 							</div>
 						</div>
-
-
 					</aside>
 				</div>
 				<!-- Side bar END -->

@@ -9,15 +9,6 @@
 						<div class="icon-content mb-2">
 							<ol type="1" class="ml-4">
 								<li class="mb-3">
-									<b>Periode Pendaftaran</b>
-									<ol type="a" class="ml-3">
-										<li>
-											Periode Penerimaan
-											<p>Pendaftaran dibuka pada September</p>
-										</li>
-									</ol>
-								</li>
-								<li class="mb-3">
 									<b>Persyaratan Pendaftaran</b>
 									<ol type="a" class="ml-3">
 										<li>
@@ -76,7 +67,7 @@
 													Form persetujuan Verifikasi Dokumen Akademik
 												</li>
 												<li>
-													dokumen lain sesuai dengan pesyaratan di atas
+													Dokumen lain sesuai dengan pesyaratan di atas
 												</li>
 											</ol>
 										</li>
@@ -99,7 +90,7 @@
 						<div class="mt-3">
 							<h6>Standar Biaya Pendaftaran</h6>
 							<p>
-								Bebas biaya pendaftaran untuk setiap jalur
+								Biaya pendaftaran sebesar Rp. 100.000,00
 							</p>
 						</div>
 						<div class="mt-3">

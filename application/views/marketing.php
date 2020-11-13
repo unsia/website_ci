@@ -293,7 +293,7 @@
 							<div class="heading-bx left">
 								<h2 class="title-head">Biaya Kuliah <span>Terjangkau</span></h2>
 								<ul class="ml-4">
-									<li>Bebas biaya pendaftaran</li>
+									<li>Biaya Pendaftaran Rp. 100.000</li>
 									<li>Biaya perkuliahan Rp. 3.000.000/ semester ( Bisa dicicil 3x )</li>
 								</ul>
 							</div>
@@ -314,7 +314,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="row">
+					<!-- <div class="row">
 						<div class="col-lg-12 col-md-12">
 							<div class="row text-countdown">
 								<div class="col-12">
@@ -328,7 +328,7 @@
 								<div id="timer"></div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
 							<div class="heading-bx text-center">

@@ -11,7 +11,7 @@
                         <th rowspan="2">No</th>
                         <th rowspan="2">Nama Dosen Tetap</th>
                         <th colspan="2">S2</th>
-                        <th colspan="3">S3</th>
+                        <th colspan="2">S3</th>
                         <th rowspan="2">CV</th>
                     </tr>
                     <tr class="bg-success">
@@ -19,76 +19,149 @@
                         <th>Bidang Ilmu</th>
                         <th>Universitas</th>
                         <th>Bidang Ilmu</th>
-                        <th>Tahun</th>
                     </tr>
                     <tr>
                         <th>1</th>
-                        <td>Dr. Ir. Edi Sugiono, SE., MM</td>
-                        <td>Universitas Negeri Jember</td>
-                        <td>Manajemen</td>
-                        <td>Universitas Brawijaya</td>
-                        <td>Manajemen SDM</td>
-                        <td>2018</td>
+                        <td>Herry Krisnandi, S.E., M.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>2</th>
-                        <td>Dr. Sugeng Prasetno, SE., MH.</td>
-                        <td>Universitas Indonesia</td>
-                        <td>Manajemen</td>
-                        <td>Universitas Indonesia</td>
-                        <td>Manajemen Strategik</td>
-                        <td>-</td>
+                        <td>Dita Nurul Aini Dewi, S.E., M.E</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>3</th>
-                        <td>Dr. Kusama, Pramanajati SE., M.Si.M.</td>
-                        <td>Inggris</td>
+                        <td>Farid Al Rizky, SE., MM</td>
+                        <td>Universitas Nasional</td>
                         <td>Manajemen</td>
-                        <td>Universitas Gajah Mada</td>
-                        <td>Manajemen Keuangan</td>
-                        <td>-</td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>4</th>
-                        <td>Drs. Suadi Putra, M.Si.M</td>
-                        <td>Universitas Nasional</td>
-                        <td>Manajemen</td>
-                        <td>Unhas</td>
-                        <td>Manajemen Pemasaran</td>
-                        <td>-</td>
+                        <td>Muhani, S.E., M.Si.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>5</th>
-                        <td>Dwitya Kirana Amry, B.Sc., MSC.</td>
-                        <td>Warwick University England</td>
+                        <td>Drs. Suadi Sapta Putra, M.Si.M</td>
+                        <td>Universitas Nasional</td>
                         <td>Manajemen</td>
-                        <td>Warwick University England</td>
-                        <td>Manajemen</td>
-                        <td>2019</td>
+                        <td>Universitas Nasional</td>
+                        <td> Manajemen Pemasaran</td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>6</th>
-                        <td>Mufidah Sahid SE., MM.</td>
-                        <td>Universitas Nasional</td>
-                        <td>Manajemen</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>2016</td>
+                        <td>Aji Satrio Nugroho, S.E., M.E., M.Ec.Dev</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>7</th>
-                        <td>Dr. Sukusen Soemarinda, DipTech., MBA.</td>
-                        <td>Universitas Indonesia</td>
+                        <td>Atsari Sujud, S.E,. M.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>8</th>
+                        <td>Dwitya Kirana Amry, B.Sc., M.Sc</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>9</th>
+                        <td>Joko Suhariyanto, S.E,M.M.</td>
+                        <td>Universitas Lampung</td>
+                        <td>Manajemen</td>
+                        <td>Universitas Pancasila</td>
+                        <td>Manajemen</td>
+                        <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Manajemen/CV Joko Suhariyanto S.E., M.M.pdf">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>10</th>
+                        <td>Kusumaaji Pramanajati, S.E., M.Si.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>11</th>
+                        <td>Pustika Ayuning Putri, S.E., M.Si.M</td>
+                        <td>Universitas Nasional</td>
+                        <td>Manajemen</td>
+                        <td>Universitas Nasional</td>
+                        <td>Manajemen</td>
+                        <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Manajemen/CV Pustika Ayuning Puri S.E, M.M.pdf">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>12</th>
+                        <td>Ratih Anggoro Wilis, S.E., M.M.</td>
+                        <td>Universitas Mercu Buana</td>
+                        <td>Manajemen</td>
+                        <td>Universitas Nasional</td>
+                        <td>Manajemen</td>
+                        <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Manajemen/CV Ratih Anggoro Wilis S.E., M.M.pdf">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>13</th>
+                        <td>Siti Nurhasanah, S.M., M.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>14</th>
+                        <td>Resti Hardini, S.E., M.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>15</th>
+                        <td>Dr. Ir. Sukusen Soemarinda, Dip Tech., MBA</td>
+                        <td>Universitas Indoensia</td>
                         <td>Ekonomi Manajemen</td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>16</th>
+                        <td>Nunu Nurjaya, S.E.,M.Si.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
                 </table>

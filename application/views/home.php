@@ -1025,6 +1025,36 @@
 							<div class="item">
 								<div class="recent-news">
 									<div class="action-box">
+										<img src="<?= base_url('assets/images/berita/forum-diskusi-kom.jpeg') ?>" alt="" />
+									</div>
+									<div class="info-bx">
+										<ul class="media-post">
+											<li>
+												<a href="#"><i class="fa fa-calendar"></i>5 November 2020</a>
+											</li>
+											<li>
+												<a href="#"><i class="fa fa-user"></i>By Komunikasi UNSIA</a>
+											</li>
+										</ul>
+										<h5 class="post-title">
+											<a
+												href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>">Dampak Omnibus Law Bagi Masa Depan Penyiaran
+									Indonesia</a>
+										</h5>
+										<p>
+										Jakarta – Kamis (05/11/2020) Program Studi Ilmu Komunikasi Universitas Nasional (UNAS)
+								bekerjasama dengan Program Studi Komunikasi Universitas Siber Asia (UNSIA) dan
+										</p>
+										<div class="post-extra">
+											<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>"
+												class="btn-link">READ MORE</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="item">
+								<div class="recent-news">
+									<div class="action-box">
 										<img src="<?= base_url('assets/images/event/komunikasi/TTDC.jpeg') ?>" alt="" />
 									</div>
 									<div class="info-bx">
