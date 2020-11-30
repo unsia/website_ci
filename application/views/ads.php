@@ -306,7 +306,7 @@
 								</p>
 							</div>
 							<form method="post" action="<?= base_url('home/semuabisakuliah'); ?>">
-								<div class="form-row">
+								<div class="form-row"> 
 									<div class="form-group col-md-6">
 										<label for="inputName">Name</label>
 										<input type="name" class="form-control" id="inputName" name="name"

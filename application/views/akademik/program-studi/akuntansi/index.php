@@ -35,7 +35,7 @@
                     </tr>
                     <tr>
                         <th>Gelar</th>
-                        <td>Sarjana Ekonomi (S.E)</td>
+                        <td>Sarjana Akuntansi (S.Ak.)</td>
                     </tr>
                     <tr>
                         <th>Syarat Pendidikan</th>

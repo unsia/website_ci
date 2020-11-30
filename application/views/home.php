@@ -243,9 +243,9 @@
 													<a href="<?= base_url('pendaftaran/biaya-perkuliahan') ?>">Biaya
 														Perkuliahan</a>
 												</li>
-												<li>
+												<!-- <li>
 													<a href="<?= base_url('pendaftaran/beasiswa') ?>">Beasiswa</a>
-												</li>
+												</li> -->
 												<li>
 													<a href="<?= base_url('pendaftaran/pembiayaan-soft-loan') ?>">Pembiayaan
 														Soft Loan</a>

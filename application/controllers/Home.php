@@ -681,7 +681,7 @@ class Home extends CI_Controller
 		} else {
 			$this->_sendEmail();
 			$this->session->set_flashdata('message', '<div class="alert alert-success alert-dismissible fade show" role="alert"> <strong>Hai' . $this->input->post('name') . '!</strong> Pesan anda telah terkirim. <button type="button" class="close" data-dismiss="alert" aria-label="Close"> <span aria-hidden="true">&times;</span> </button> </div>');
-			redirect('semuabisakuliah');
+			redirect('/');
 		}
 	}
 

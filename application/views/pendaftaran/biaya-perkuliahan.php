@@ -7,7 +7,7 @@
         <div class="col-lg-5 col-md-12 heading-bx">
           <h5>Biaya Pendaftaran</h5>
           <p>
-            Biaya Pendaftaran di awal dikenakan sebesar Rp. 0 ( Bebas Biaya Pendaftaran )
+            Biaya Pendaftaran di awal dikenakan sebesar Rp. 100.000
           </p>
           <h5>Biaya Perkuliahan</h5>
           <p>

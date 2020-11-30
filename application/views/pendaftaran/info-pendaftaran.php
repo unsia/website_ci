@@ -14,12 +14,13 @@
 										<li>
 											Persyaratan Umum
 											<ol type="1" class="ml-3">
-												<li>Ijazah SMA/SMK atau se-derajat</li>
-												<li>Nilai UN/ STTB</li>
-												<li>FC KTP</li>
-												<li>FC Kartu Keluarga (KK)</li>
+												<li>Scan Ijazah SMA/SMK atau se-derajat</li>
+												<li>Scan Nilai UN/SKHUN/STTB</li>
+												<li>Scan KTP</li>
+												<li>Scan Kartu Keluarga (KK)</li>
+												<li>Scan Akta Kelahiran</li>
 												<li>NISN</li>
-												<li>Foto / pas foto</li>
+												<li>Pas foto</li>
 											</ol>
 										</li>
 									</ol>
@@ -46,10 +47,12 @@
 									</table>
 									<ul class="ml-4">
 										<li>
-											Cara pendaftaran: Pendaftaran dapat dilakukan
+											Cara pendaftaran:
+											<br>
+											Pendaftaran dapat dilakukan
 											secara online melalui aplikasi pendaftaran di
-											website. Dokumen dapat dikirimkan lewat pos atau
-											datang secara langsung.
+											website <a href="https://akademik.unsia.ac.id/spmbfront/"> PMB Unsia </a>.
+											<br> Dokumen dapat diupload mandiri melalui web pmb unsia.
 										</li>
 									</ul>
 								</li>
@@ -59,16 +62,13 @@
 										<li>
 											<b>Lulusan SMA/SMK dan Se-derajat</b>
 											<ol type="a" class="ml-3">
-												<li>Form Pendaftaran,</li>
-												<li>Transkrip Nilai;</li>
-												<li>Ijazah</li>
-												<li>Keterangan lulus tes seleksi masuk;</li>
-												<li>
-													Form persetujuan Verifikasi Dokumen Akademik
-												</li>
-												<li>
-													Dokumen lain sesuai dengan pesyaratan di atas
-												</li>
+												<li>Scan Ijazah SMA/SMK atau se-derajat</li>
+												<li>Scan Nilai UN/SKHUN/STTB</li>
+												<li>Scan KTP</li>
+												<li>Scan Kartu Keluarga (KK)</li>
+												<li>Scan Akta Kelahiran</li>
+												<li>NISN</li>
+												<li>Pas foto</li>
 											</ol>
 										</li>
 									</ol>
@@ -146,11 +146,11 @@
 							<p style="text-align: justify">
 								Gelombang Penerimaan Mahasiswa Baru Universitas Siber Asia setiap tahun akademik adalah sebagai
 								berikut:</br>
-								1. Gelombang 1, periode Semester Ganjil </br>
+								1. Periode Semester Ganjil </br>
 								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pendaftaran dibuka setiap bulan Maret – September </br>
 								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Perkuliahan semester Ganjil pada September – Februari </br>
-								2. Gelombang 2, periode Semester Genap </br>
-								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pendaftaran dibuka setiap bulan November – Februari </br>
+								2. Periode Semester Genap </br>
+								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pendaftaran dibuka setiap bulan November – Januari </br>
 								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Perkuliahan semester Genap pada Maret - Agustus
 							</p>
 						</div>

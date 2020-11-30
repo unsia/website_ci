@@ -36,7 +36,7 @@
             </p>
             <p class="m-b20">
               Telp: (021) 27806189<br />
-              Email: pmb@unsia.ac.id
+              Email: admission@acu.ac.id
             </p>
           </div>
         </div>
