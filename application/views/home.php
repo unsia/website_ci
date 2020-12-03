@@ -711,6 +711,31 @@
 								<div class="item">
 									<div class="event-bx">
 										<div class="action-box">
+											<img src="assets/images/event/komunikasi/perhumas.jpg" alt="">
+										</div>
+										<div class="info-bx d-flex">
+											<div>
+												<div class="event-time">
+													<div class="event-date">4/5</div>
+													<div class="event-month">Desember</div>
+												</div>
+											</div>
+											<div class="event-info">
+												<h4 class="event-title"><a href="http://bit.ly/KNH20-PERHUMAS">Konvensi Nasional Humas 2020</a></h4>
+												<ul class="media-post">
+													<li><a href="#"><i class="fa fa-clock-o"></i> -</a>
+													</li>
+													<li><a href="#"><i class="fa fa-map-marker"></i> Zoom Video Conference</a>
+													</li>
+												</ul>
+												<p>Konvensi Nasional Humas 2020 (KNH20), konvensi yang ke 20 sejak pertama kali diadakan pada tahun 1994, merupakan platform untuk menyatukan praktisi Public Relation,</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="event-bx">
+										<div class="action-box">
 											<img src="assets/images/event/komunikasi/TTDC.jpeg" alt="">
 										</div>
 										<div class="info-bx d-flex">

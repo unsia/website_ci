@@ -55,8 +55,14 @@ $route['translate_uri_dashes'] = FALSE;
 
 // Custom Routes
 
-$route['kuliah-online-pertama'] = 'home/kuliahonlinepertama';
-$route['semuabisakuliah'] = 'home/semuabisakuliah';
+// $route['kuliah-online-pertama'] = 'home/kuliahonlinepertama';
+$route['kuliah-online-pertama'] = 'adsense';
+$route['semuabisakuliah'] = 'google';
+// $route['semuabisakuliah'] = 'home/semuabisakuliah';
+
+//Adsense
+// $route['ayokuliah'] = 'adsense';
+
 
 // TENTANG UNSIA
 $route['contact'] = 'home/contact';

@@ -130,6 +130,7 @@
 	<link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/home/css/style.css">
 	<link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/home/css/countdown.css">
 	<link class="skin" rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/home/css/color/color-1.css">
+	<link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/home/css/custom.css">
 
 	<link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
 
@@ -163,14 +164,41 @@
 			<div class="section-area section-sp1 ovpr-dark head-jumbo bg-fix online-cours d-flex align-items-center">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-12 text-center text-white">
+						<div class="col-md-4 text-center text-white">
 							<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/logo-white.png"
 								width="200" alt="">
-							<h1 class="mt-4">UNIVERSITAS SIBER ASIA</h1>
+							<h4 class="mt-4">UNIVERSITAS SIBER ASIA</h4>
 							<h5>
 								Perguruan Tinggi Berbasis Full Online Pertama di
 								Indonesia
 							</h5>
+						</div>
+						<div class="col-md-2">
+						</div>
+						<div class="col-md-6">
+							<div class="form-new">
+								<p class="text-center text-white">Silahkan lengkapi form berikut untuk informasi lebih
+									lanjut mengenai program kuliah online.</p>
+								<form method="post" action="<?= base_url('home/semuabisakuliah'); ?>">
+									<div class="form-group">
+										<input type="text" class="form-control" id="inputSubject" placeholder="Nama"
+											name="subject" required>
+									</div>
+									<div class="form-group">
+										<input type="text" class="form-control" id="inputSubject" name="subject"
+											placeholder="Email" required>
+									</div>
+									<div class="form-group">
+										<input type="text" class="form-control" id="inputSubject" name="subject"
+											placeholder="No. HP" required>
+									</div>
+									<div class="form-group">
+										<input type="text" class="form-control" id="inputSubject" name="subject"
+											placeholder="Waktu Untuk Dihubungi" required>
+									</div>
+									<button type="submit" class="btn btn-primary">Send Message</button>
+								</form>
+							</div>
 						</div>
 					</div>
 				</div>
