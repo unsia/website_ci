@@ -2,6 +2,37 @@
 <html lang="en">
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Ads: 834244886 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834244886"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', 'AW-834244886');
+	</script>
+
+	<!-- Event snippet for Submit lead form conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+	<script>
+		function gtag_report_conversion(url) {
+			var callback = function () {
+				if (typeof (url) != 'undefined') {
+					window.location = url;
+				}
+			};
+			gtag('event', 'conversion', {
+				'send_to': 'AW-834244886/JkzsCMzZuO8BEJai5o0D',
+				'event_callback': callback
+			});
+			return false;
+			document.getElementById("form-email").onsubmit = function () {
+				gtag_report_conversion();
+			};
+		}
+	</script>
+
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta name="description" content="" />
@@ -47,7 +78,7 @@
 				<h2 class="text-white-50 mx-auto mt-2 mb-5">Perguruan Tinggi Berbasis Siber Pertama di Indonesia</h2>
 				<?= $this->session->flashdata('message'); ?>
 				<div class="d-flex justify-content-center">
-					<form class="form-email" method="post" action="<?= base_url('adsense'); ?>">
+					<form class="form-email" method="post" id="form-email" action="<?= base_url('google'); ?>">
 						<small class="text-white">Silahkan lengkapi form berikut untuk informasi lebih lanjut mengenai
 							program kuliah online.</small>
 						<hr>
@@ -66,7 +97,7 @@
 							<input type="number" class="form-control" id="phone" name="phone"
 								value="<?= set_value('phone'); ?>" required placeholder="No HP">
 							<?= form_error('phone', '<small class="text-danger">', '<br>', '</small>'); ?>
-							<small class="text-white">Format : 08982136561</small>
+							<small class="text-white">Format : 08122136561</small>
 						</div>
 						<div class="form-group">
 							<input type="text" class="form-control" id="city" name="city"
@@ -102,9 +133,14 @@
 						</div>
 						<div class="form-group">
 							<input type="text" class="form-control" id="sources" name="sources" value="Google Ads"
-								hidden placeholder="Kota">
+								hidden>
+						</div>
+						<div class="form-group">
+							<input type="text" class="form-control" id="subject" name="subject" value="Leeds Google Ads"
+								hidden>
 						</div>
 						<button type="submit" class="btn btn-primary">Kirim</button>
+						<!-- <button type="submit" class="btn btn-primary">Kirim</button> -->
 					</form>
 				</div>
 			</div>
@@ -131,8 +167,10 @@
 		<div class="container">
 			<!-- Featured Project Row-->
 			<div class="row align-items-center no-gutters mb-4 mb-lg-5">
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/satu.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/satu.jpg" alt="" />
+				</div>
 				<div class="col-xl-4 col-lg-5">
 					<div class="featured-text text-lg-left">
 						<h4>Jadi sarjana dari rumah!</h4>
@@ -164,13 +202,17 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/dua.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/dua.jpg" alt="" />
+				</div>
 			</div>
 			<!-- Featured Project Row-->
 			<div class="row align-items-center no-gutters mb-4 mb-lg-5">
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/tiga.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/tiga.jpg" alt="" />
+				</div>
 				<div class="col-xl-4 col-lg-5">
 					<div class="featured-text text-lg-left">
 						<h4>Apa Yang Kamu Dapat ?</h4>
@@ -202,13 +244,15 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/empat.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/empat.jpg" alt="" /></div>
 			</div>
 			<!-- Featured Project Row-->
 			<div class="row align-items-center no-gutters mb-4 mb-lg-5">
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/lima.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/lima.jpg" alt="" /></div>
 				<div class="col-xl-4 col-lg-5">
 					<div class="featured-text text-lg-left">
 						<h4>Kerjasama</h4>
@@ -220,8 +264,9 @@
 			</div>
 			<!-- Featured Project Row-->
 			<div class="row align-items-center no-gutters mb-4 mt-4 mb-lg-5" id="signup">
-				<div class="col-xl-12 col-lg-12"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/liputan.jpg" alt="" /></div>
+				<div class="col-xl-12 col-lg-12">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/liputan.jpg" alt="" /></div>
 			</div>
 		</div>
 	</section>
@@ -285,6 +330,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 	<!-- Core theme JS-->
 	<script src="<?= base_url(); ?>assets/adsense/js/scripts.js"></script>
+	<script src="<?= base_url(); ?>assets/home/js/blazy.js" defer></script>
 </body>
 
 </html>

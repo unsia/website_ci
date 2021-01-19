@@ -2,6 +2,89 @@
 <html lang="en">
 
 <head>
+	<!-- Google Tag Manager -->
+
+	<!-- Universitas Siber Asia 3 -->
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-M5PJ4FD');
+	</script>
+
+	<!-- Universitas Siber Asia 4 -->
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-NPP9KZP');
+	</script>
+
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-57QZG9P');
+	</script>
+
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-NGCJ3LC');
+	</script>
+
+	<script>
+		"trackEvent": {
+			"on": "click",
+			"selector": "#btn-whatsapp",
+			"request": "event",
+			"vars": {
+				"eventName": "AddToCart"
+			}
+		},
+	</script>
+	<!-- End Google Tag Manager -->
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 	<meta name="description" content="" />
@@ -20,6 +103,25 @@
 </head>
 
 <body id="page-top">
+	<!-- Google Tag Manager (noscript) -->
+
+
+	<!-- Universitas Siber Asia 3 -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5PJ4FD" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+
+	<!-- Universitas Siber Asia 4 -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPP9KZP" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+
+	<!-- Universitas Siber Asia 2 -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57QZG9P" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+
+	<!-- Universitas Siber Asia -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
 	<!-- Navigation-->
 	<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
 		<div class="container">
@@ -66,7 +168,7 @@
 							<input type="number" class="form-control" id="phone" name="phone"
 								value="<?= set_value('phone'); ?>" required placeholder="No HP">
 							<?= form_error('phone', '<small class="text-danger">', '<br>', '</small>'); ?>
-							<small class="text-white">Format : 08982136561</small>
+							<small class="text-white">Format : 08122136561</small>
 						</div>
 						<div class="form-group">
 							<input type="text" class="form-control" id="city" name="city"
@@ -102,9 +204,13 @@
 						</div>
 						<div class="form-group">
 							<input type="text" class="form-control" id="sources" name="sources" value="Facebook Ads"
-								hidden placeholder="Kota">
+								hidden>
 						</div>
-						<button type="submit" class="btn btn-primary">Kirim</button>
+						<div class="form-group">
+							<input type="text" class="form-control" id="subject" name="subject"
+								value="Leeds Facebook Ads" hidden>
+						</div>
+						<button type="submit" class="btn btn-primary" id="btn-whatsapp">Kirim</button>
 					</form>
 				</div>
 			</div>
@@ -123,7 +229,7 @@
 					</p>
 				</div>
 			</div>
-			<img class="img-fluid" src="<?= base_url(); ?>assets/adsense/img/ipad.png" alt="" />
+			<img src="#" class="lazy img-fluid" data-src="<?= base_url(); ?>assets/adsense/img/ipad.png" alt="" />
 		</div>
 	</section>
 	<!-- Projects-->
@@ -131,22 +237,17 @@
 		<div class="container">
 			<!-- Featured Project Row-->
 			<div class="row align-items-center no-gutters mb-4 mb-lg-5">
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/satu.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/satu.jpg" alt="" />
+				</div>
 				<div class="col-xl-4 col-lg-5">
 					<div class="featured-text text-lg-left">
 						<h4>Jadi sarjana dari rumah!</h4>
 						<ul>
-							<li class="text-black-50 mb-0">Kuliah di UNSIA akan Full Online</li>
-							<li class="text-black-50 mb-0">Biaya Kuliah Terjangkau</li>
-							<li class="text-black-50 mb-0">Kualitas Pendidikan Tinggi kelas Dunia</li>
-							<li class="text-black-50 mb-0">Dapat kuliah sambil bekerja</li>
-							<li class="text-black-50 mb-0">Materi kuliah dapat diulang-ulang (repeatable)</li>
-							<li class="text-black-50 mb-0">Ditunjang pelatihan bersertifikasi secara online</li>
-							<li class="text-black-50 mb-0">Membantu menyediakan tempat magang dan menjembatani lulusan
-								dengan dunia
-								industri</li>
-							<li class="text-black-50 mb-0">Bisa sarjana dalam 3,5 tahun</li>
+							<li class="text-black-50 mb-0">Kuliah Daring Penuh / Full Online</li>
+							<li class="text-black-50 mb-0">Kuliah fleksibel dan akomodatif</li>
+							<li class="text-black-50 mb-0">Kuliah diampu oleh para Teaching Profesor</li>
 						</ul>
 					</div>
 				</div>
@@ -157,33 +258,33 @@
 					<div class="featured-text text-lg-left">
 						<h4>Biaya Kuliah Terjangkau</h4>
 						<ul>
-							<li class="text-black-50 mb-0">Biaya pendaftaran Rp. 100,000</li>
+							<li class="text-black-50 mb-0">Biaya pendaftaran hanya Rp. 100,000</li>
 							<li class="text-black-50 mb-0">Biaya perkuliahan Rp. 3,000,000/ semester ( Bisa
-								dicicil 3x )</li>
-							<li class="text-black-50 mb-0">Cashback Rp. 200,000 untuk pembayaran penuh</li>
+								dicicil 6x )</li>
+							<li class="text-black-50 mb-0">Pembayaran penuh mendapat cashback Rp. 200,000</li>
 						</ul>
 					</div>
 				</div>
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/dua.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/dua.jpg" alt="" />
+				</div>
 			</div>
 			<!-- Featured Project Row-->
 			<div class="row align-items-center no-gutters mb-4 mb-lg-5">
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/tiga.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/tiga.jpg" alt="" />
+				</div>
 				<div class="col-xl-4 col-lg-5">
 					<div class="featured-text text-lg-left">
 						<h4>Apa Yang Kamu Dapat ?</h4>
 						<ul>
-							<li class="text-black-50 mb-0">Menggunakan LMS yang didesain untuk membantu kamu
-								belajar
-								secara maksimal</li>
-							<li class="text-black-50 mb-0">Perkuliahan dilengkapi dengan materi sekaligus video
-								pembelajaran</li>
-							<li class="text-black-50 mb-0">Ditunjang Learning material lengkap yang diakses
-								secara online di Digital Library</li>
+							<li class="text-black-50 mb-0">Akses pada Learning Management System yang didesain khusus
+								untuk membantu kamu belajar online secara maksimal</li>
+							<li class="text-black-50 mb-0">Materi dan video pembelajaran yang didesain khusus untuk
+								membantu kamu belajar online secara maksimal</li>
 							<li class="text-black-50 mb-0">Memiliki Fitur Live Streaming</li>
-							<li class="text-black-50 mb-0">Video direkam dengan kualitas terbaik</li>
 						</ul>
 					</div>
 				</div>
@@ -202,13 +303,15 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/empat.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/empat.jpg" alt="" /></div>
 			</div>
 			<!-- Featured Project Row-->
 			<div class="row align-items-center no-gutters mb-4 mb-lg-5">
-				<div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/lima.jpg" alt="" /></div>
+				<div class="col-xl-8 col-lg-7">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/lima.jpg" alt="" /></div>
 				<div class="col-xl-4 col-lg-5">
 					<div class="featured-text text-lg-left">
 						<h4>Kerjasama</h4>
@@ -220,8 +323,9 @@
 			</div>
 			<!-- Featured Project Row-->
 			<div class="row align-items-center no-gutters mb-4 mt-4 mb-lg-5" id="signup">
-				<div class="col-xl-12 col-lg-12"><img class="img-fluid mb-3 mb-lg-0"
-						src="<?= base_url(); ?>assets/adsense/img/liputan.jpg" alt="" /></div>
+				<div class="col-xl-12 col-lg-12">
+					<img src="#" class="lazy img-fluid mb-3 mb-lg-0"
+						data-src="<?= base_url(); ?>assets/adsense/img/liputan.jpg" alt="" /></div>
 			</div>
 		</div>
 	</section>
@@ -285,6 +389,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 	<!-- Core theme JS-->
 	<script src="<?= base_url(); ?>assets/adsense/js/scripts.js"></script>
+	<script src="<?= base_url(); ?>assets/home/js/blazy.js" defer></script>
 </body>
 
 </html>

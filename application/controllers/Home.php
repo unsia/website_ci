@@ -176,6 +176,17 @@ class Home extends CI_Controller
 		$this->load->view('arsip/berita/transformation-of-digital-communication');
 		$this->load->view('partial/home_footer');
 	}
+
+	public function jamborenasionalkomunikasi()
+	{
+		$data['title'] = 'Berita';
+		$data['menu'] = 'Arsip';
+		$data['submenu'] = 'Berita';
+		$this->load->view('partial/home_header', $data);
+		$this->load->view('partial/home_navbar', $data);
+		$this->load->view('arsip/berita/jambore-nasional-komunikasi');
+		$this->load->view('partial/home_footer');
+	}
 	
 	public function forumdiskusidosen()
 	{

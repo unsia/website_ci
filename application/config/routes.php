@@ -95,6 +95,7 @@ $route['arsip/berita/berita-list'] = 'home/listberita';
 $route['arsip/berita/berita-detail'] = 'home/detailberitasatu';
 $route['arsip/berita/transformation-of-digital-communication'] = 'home/transformationofdigitalcommunication';
 $route['arsip/berita/forum-diskusi-dosen'] = 'home/forumdiskusidosen';
+$route['arsip/berita/jambore-nasional-komunikasi'] = 'home/jamborenasionalkomunikasi';
 
 // BLOG
 $route['arsip/blog/blog-list'] = 'home/listblog';

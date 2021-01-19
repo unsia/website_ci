@@ -89,6 +89,18 @@
 	</script>
 	<!-- End Google Tag Manager -->
 
+	<!-- Global site tag (gtag.js) - Google Ads: 834244886 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-834244886"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', 'AW-834244886');
+	</script>
+
 
 	<!-- META ============================================= -->
 	<meta charset="utf-8" />
@@ -711,6 +723,40 @@
 								<div class="item">
 									<div class="event-bx">
 										<div class="action-box">
+											<img src="assets/images/event/komunikasi/8.jpeg" alt="">
+										</div>
+										<div class="info-bx d-flex">
+											<div>
+												<div class="event-time">
+													<div class="event-date">16</div>
+													<div class="event-month">Desember</div>
+												</div>
+											</div>
+											<div class="event-info">
+												<h4 class="event-title"><a
+														href="<?= base_url('arsip/berita/jambore-nasional-komunikasi'); ?>">Mahasiswa
+														Prodi Komunikasi UNSIA Raih Prestasi Gemilang di Jambore
+														Nasional
+														Komunikasi (JNK) ASPIKOM Tahun 2020</a></h4>
+												<ul class="media-post">
+													<li><a href="#"><i class="fa fa-clock-o"></i> -</a>
+													</li>
+													<li><a href="#"><i class="fa fa-map-marker"></i> Online</a>
+													</li>
+												</ul>
+												<p>UNSIA menjadi salah satu kampus peserta yang mengirimkan
+													sebanyak 12 film karya mahasiswa untuk dikompetisikan pada cabang
+													lomba film
+													dokumenter yang diselenggarakan oleh Universitas Nasional (UNAS).
+													UNSIA berhasil
+													meraih berbagai kategori, diantaranya:</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="event-bx">
+										<div class="action-box">
 											<img src="assets/images/event/komunikasi/perhumas.jpg" alt="">
 										</div>
 										<div class="info-bx d-flex">
@@ -721,14 +767,18 @@
 												</div>
 											</div>
 											<div class="event-info">
-												<h4 class="event-title"><a href="http://bit.ly/KNH20-PERHUMAS">Konvensi Nasional Humas 2020</a></h4>
+												<h4 class="event-title"><a href="http://bit.ly/KNH20-PERHUMAS">Konvensi
+														Nasional Humas 2020</a></h4>
 												<ul class="media-post">
 													<li><a href="#"><i class="fa fa-clock-o"></i> -</a>
 													</li>
-													<li><a href="#"><i class="fa fa-map-marker"></i> Zoom Video Conference</a>
+													<li><a href="#"><i class="fa fa-map-marker"></i> Zoom Video
+															Conference</a>
 													</li>
 												</ul>
-												<p>Konvensi Nasional Humas 2020 (KNH20), konvensi yang ke 20 sejak pertama kali diadakan pada tahun 1994, merupakan platform untuk menyatukan praktisi Public Relation,</p>
+												<p>Konvensi Nasional Humas 2020 (KNH20), konvensi yang ke 20 sejak
+													pertama kali diadakan pada tahun 1994, merupakan platform untuk
+													menyatukan praktisi Public Relation,</p>
 											</div>
 										</div>
 									</div>
@@ -765,7 +815,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="item">
+								<!-- <div class="item">
 									<div class="event-bx">
 										<div class="action-box">
 											<img src="assets/images/pensaku/pensaku.jpg" alt="">
@@ -792,7 +842,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 						<!-- <div class="text-center">
@@ -1050,7 +1100,8 @@
 							<div class="item">
 								<div class="recent-news">
 									<div class="action-box">
-										<img src="<?= base_url('assets/images/berita/forum-diskusi-kom.jpeg') ?>" alt="" />
+										<img src="<?= base_url('assets/images/berita/forum-diskusi-kom.jpeg') ?>"
+											alt="" />
 									</div>
 									<div class="info-bx">
 										<ul class="media-post">
@@ -1062,13 +1113,15 @@
 											</li>
 										</ul>
 										<h5 class="post-title">
-											<a
-												href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>">Dampak Omnibus Law Bagi Masa Depan Penyiaran
-									Indonesia</a>
+											<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>">Dampak
+												Omnibus Law Bagi Masa Depan Penyiaran
+												Indonesia</a>
 										</h5>
 										<p>
-										Jakarta – Kamis (05/11/2020) Program Studi Ilmu Komunikasi Universitas Nasional (UNAS)
-								bekerjasama dengan Program Studi Komunikasi Universitas Siber Asia (UNSIA) dan
+											Jakarta – Kamis (05/11/2020) Program Studi Ilmu Komunikasi Universitas
+											Nasional (UNAS)
+											bekerjasama dengan Program Studi Komunikasi Universitas Siber Asia (UNSIA)
+											dan
 										</p>
 										<div class="post-extra">
 											<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>"

@@ -113,11 +113,20 @@
                     <tr>
                         <th>11</th>
                         <td>Abdu Rahman, S.E., M.Ak.</td>
-                        <td>Universitas Pancasila/td>
+                        <td>Universitas Pancasila</td>
                         <td>Akuntansi Pemerintahan</td>
                         <td></td>
                         <td></td>
                         <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Akuntansi/CV Abdu Rahman S.E., M.Ak.pdf">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>12</th>
+                        <td>Nurhayati Siregar, S.E., M.Ak</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
                     </tr>
                 </table>
             </div>

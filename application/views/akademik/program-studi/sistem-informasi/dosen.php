@@ -110,6 +110,33 @@
                         <td>-</td>
                         <td><a href="#">Download</a></td>
                     </tr>
+                    <tr>
+                        <th>11</th>
+                        <td>Azlan Irwan, S.Kom., M.Kom.</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>12</th>
+                        <td>Galih Setya, S.Kom., M.MSI</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>13</th>
+                        <td>Dr. Sitti Rachmawati Yahya, S.T., M.TI.</td>
+                        <td>Universiti Kebangsaan Malaysia (UKM)</td>
+                        <td>Teknik Informatika</td>
+                        <td>Universiti Kebangsaan Malaysia (UKM)</td>
+                        <td>Teknik Informatika</td>
+                        <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Sistem-Informasi/CV Dr. Sitti Rachmawati Yahya, S.T., M.TI.pdf">Download</a></td>
+                    </tr>
                 </table>
             </div>
         </div>

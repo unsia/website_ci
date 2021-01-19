@@ -32,14 +32,7 @@ class Adsense extends CI_Controller
 				
 				$this->db->insert('adsense', $data);
 				$this->_sendEmail();
-
-				$this->session->set_flashdata('message', '<div class="alert alert-success alert-dismissible fade show" role="alert">
-        <strong>Data anda berhasil dikirim!</strong> Mohon tunggu informasi selanjutnya ;)
-        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-        </button>
-    </div>');
-				redirect('kuliah-online-pertama');
+				redirect('adsense/success');
 			} else {
 				redirect('error404');
 			}
@@ -66,7 +59,7 @@ class Adsense extends CI_Controller
 		$this->email->from($this->input->post('email'), $this->input->post('name'));
 		$this->email->to('unsia.bantuanpmb@gmail.com');
 
-		$this->email->subject('Leeds Facebook Ads');
+		$this->email->subject('Leads Facebook Ads');
 		$this->email->message('<table>
         <tr>
             <td>Nama</td>
@@ -117,5 +110,10 @@ class Adsense extends CI_Controller
 	public function koneksi()
 	{
 		$this->load->view('error404');
+	}
+
+	public function success()
+	{
+		$this->load->view('fb-success-form');
 	}
 }

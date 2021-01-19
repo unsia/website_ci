@@ -150,6 +150,17 @@
 								href="<?= base_url() ?>assets/documents/cv/cv-dosen/Informatika/CV Ade Davy Wiranata, S.Kom., M.Kom.pdf">Download</a>
 						</td>
 					</tr>
+					<tr>
+						<th>15</th>
+						<td>Khasanah, S.Pd., M.Kom</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td><a
+								href="#">Download</a>
+						</td>
+					</tr>
 				</table>
 			</div>
 		</div>

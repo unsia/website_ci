@@ -164,6 +164,24 @@
                         <td></td>
                         <td><a href="#">Download</a></td>
                     </tr>
+                    <tr>
+                        <th>17</th>
+                        <td>Bambang Susilo, S.E., M.M</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
+                    <tr>
+                        <th>18</th>
+                        <td>Wahyu Purbo Santoso, SE., MM</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td><a href="#">Download</a></td>
+                    </tr>
                 </table>
             </div>
         </div>

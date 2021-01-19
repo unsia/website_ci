@@ -6,9 +6,39 @@
 				<div class="col-md-7 col-lg-8 col-xl-8">
 					<div class="recent-news blog-lg m-b40">
 						<div class="action-box blog-lg">
+							<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/event/komunikasi/8.jpeg" alt="" />
+						</div>
+						<div class="info-bx">
+							<ul class="media-post">
+								<li>
+									<a href="#"><i class="fa fa-calendar"></i>16 Desember 2020</a>
+								</li>
+								<li>
+									<a href="#"><i class="fa fa-user"></i>By Komunikasi UNSIA</a>
+								</li>
+							</ul>
+							<h5 class="post-title">
+								<a href="<?= base_url('arsip/berita/jambore-nasional-komunikasi'); ?>">Mahasiswa Prodi
+									Komunikasi UNSIA Raih Prestasi Gemilang di Jambore Nasional
+									Komunikasi (JNK) ASPIKOM Tahun 2020</a>
+							</h5>
+							<p>
+								UNSIA menjadi salah satu kampus peserta yang mengirimkan
+								sebanyak 12 film karya mahasiswa untuk dikompetisikan pada cabang lomba film
+								dokumenter yang diselenggarakan oleh Universitas Nasional (UNAS). UNSIA berhasil
+								meraih berbagai kategori, diantaranya:
+							</p>
+							<div class="post-extra">
+								<a href="<?= base_url('arsip/berita/jambore-nasional-komunikasi'); ?>"
+									class="btn-link">READ
+									MORE</a>
+							</div>
+						</div>
+					</div>
+					<div class="recent-news blog-lg m-b40">
+						<div class="action-box blog-lg">
 							<img src="#" class="lazy"
-								data-src="<?= base_url(); ?>assets/images/berita/forum-diskusi-kom.jpeg"
-								alt="" />
+								data-src="<?= base_url(); ?>assets/images/berita/forum-diskusi-kom.jpeg" alt="" />
 						</div>
 						<div class="info-bx">
 							<ul class="media-post">
@@ -217,7 +247,28 @@
 								<div class="widget-post clearfix">
 									<div class="ttr-post-media">
 										<img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/event/komunikasi/forum-diskusi-kom.jpeg"
+											data-src="<?= base_url(); ?>assets/images/event/komunikasi/8.jpeg"
+											width="200" height="143" alt="" />
+									</div>
+									<div class="ttr-post-info">
+										<div class="ttr-post-header">
+											<h6 class="post-title">
+												<a href="<?= base_url('arsip/berita/jambore-nasional-komunikasi'); ?>">Mahasiswa Prodi
+									Komunikasi UNSIA Raih Prestasi Gemilang di Jambore Nasional
+									Komunikasi (JNK) ASPIKOM Tahun 2020</a>
+											</h6>
+										</div>
+										<ul class="media-post">
+											<li>
+												<a href="#"><i class="fa fa-calendar"></i>16 Desember 2020</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="widget-post clearfix">
+									<div class="ttr-post-media">
+										<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/berita/forum-diskusi-kom.jpeg"
 											width="200" height="143" alt="" />
 									</div>
 									<div class="ttr-post-info">
