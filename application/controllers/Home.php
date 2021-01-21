@@ -760,4 +760,15 @@ class Home extends CI_Controller
 		$this->load->view('pensaku/pensaku1');
 		$this->load->view('partial/home_footer');
 	}
+
+	public function moudekopin()
+	{
+		$data['title'] = 'Penandatanganan MoU UNSIA x DEKOPIN';
+		$data['menu'] = 'Arsio';
+		$data['submenu'] = 'Berita';
+		$this->load->view('partial/home_header', $data);
+		$this->load->view('partial/home_navbar', $data);
+		$this->load->view('arsip/berita/mou-dekopin');
+		$this->load->view('partial/home_footer');
+	}
 }

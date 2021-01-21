@@ -723,6 +723,32 @@
 								<div class="item">
 									<div class="event-bx">
 										<div class="action-box">
+											<img src="assets/images/dekopin/dekopin-4.jpg" alt="">
+										</div>
+										<div class="info-bx d-flex">
+											<div>
+												<div class="event-time">
+													<div class="event-date">20</div>
+													<div class="event-month">Januari</div>
+												</div>
+											</div>
+											<div class="event-info">
+												<h4 class="event-title"><a
+														href="<?= base_url('arsip/berita/penandatanganan-mou-dekopin'); ?>">Penandatanganan MoU antara Universitas Siber Asia (UNSIA) dengan Dewan Koperasi Indonesia (DEKOPIN)</a></h4>
+												<ul class="media-post">
+													<li><a href="#"><i class="fa fa-clock-o"></i> 20 Januari 2020</a>
+													</li>
+													<li><a href="#"><i class="fa fa-map-marker"></i> -</a>
+													</li>
+												</ul>
+												<p>Penandatanganan MoU antara Rektor Universitas Siber Asia (UNSIA), Jang Youn Cho., Ph.D., CPA dengan Ketua Umum Dewan Koperasi Indonesia (DEKOPIN), H.A.M Nurdin Halid, Selasa 19 Januari 2020, untuk peningkatan kapasitas koperasi Indonesia</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="item">
+									<div class="event-bx">
+										<div class="action-box">
 											<img src="assets/images/event/komunikasi/8.jpeg" alt="">
 										</div>
 										<div class="info-bx d-flex">
@@ -783,66 +809,6 @@
 										</div>
 									</div>
 								</div>
-								<div class="item">
-									<div class="event-bx">
-										<div class="action-box">
-											<img src="assets/images/event/komunikasi/TTDC.jpeg" alt="">
-										</div>
-										<div class="info-bx d-flex">
-											<div>
-												<div class="event-time">
-													<div class="event-date">31</div>
-													<div class="event-month">October</div>
-												</div>
-											</div>
-											<div class="event-info">
-												<h4 class="event-title"><a href="https://youtu.be/naYWGCp0adI">Webinar
-														Prodi Komunikasi</a></h4>
-												<ul class="media-post">
-													<li><a href="#"><i class="fa fa-clock-o"></i> 10:00am - selesai</a>
-													</li>
-													<li><a href="#"><i class="fa fa-map-marker"></i> Online Zoom
-															Meeting</a>
-													</li>
-												</ul>
-												<p>Transformasi Komunikasi Digital menjadi konsep peralihan teknologi
-													yang tengah marak diperbincangkan. Perubahan ini mempengaruhi
-													perkembangan serta inovasi bidang komunikasi, baik dunia penyiaran,
-													komunikasi bisnis dan komunikasi perusahaan. Prodi Komunikasi UNSIA
-													bermaksud mengadakan Webinar dengan Tema “The Transformation of
-													Digital Communication”</p>
-											</div>
-										</div>
-									</div>
-								</div>
-								<!-- <div class="item">
-									<div class="event-bx">
-										<div class="action-box">
-											<img src="assets/images/pensaku/pensaku.jpg" alt="">
-										</div>
-										<div class="info-bx d-flex">
-											<div>
-												<div class="event-time">
-													<div class="event-date">22/23</div>
-													<div class="event-month">October</div>
-												</div>
-											</div>
-											<div class="event-info">
-												<h4 class="event-title"><a href="<?= base_url('pensaku'); ?>">Pengenalan
-														Sistem Akademik Perkuliahan (PENSAKU)</a></h4>
-												<ul class="media-post">
-													<li><a href="#"><i class="fa fa-clock-o"></i> 8:00am - selesai</a>
-													</li>
-													<li><a href="#"><i class="fa fa-map-marker"></i> Online Zoom
-															Meeting</a>
-													</li>
-												</ul>
-												<p>Pengenalan Sistem Akademik Perkuliahan atau PENSAKU merupakan suatu..
-												</p>
-											</div>
-										</div>
-									</div>
-								</div> -->
 							</div>
 						</div>
 						<!-- <div class="text-center">

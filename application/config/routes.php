@@ -156,3 +156,5 @@ $route['akademik/program-studi/informatika/prospek-karir'] = 'home/prospekkariri
 
 // PENSAKU
 $route['pensaku'] = 'home/pensaku';
+
+$route['penandatanganan-mou-dekopin'] = 'home/moudekopin';

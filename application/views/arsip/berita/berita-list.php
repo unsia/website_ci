@@ -6,6 +6,32 @@
 				<div class="col-md-7 col-lg-8 col-xl-8">
 					<div class="recent-news blog-lg m-b40">
 						<div class="action-box blog-lg">
+							<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/dekopin/dekopin-4.jpg" alt="" />
+						</div>
+						<div class="info-bx">
+							<ul class="media-post">
+								<li>
+									<a href="#"><i class="fa fa-calendar"></i>20 Januari 2021</a>
+								</li>
+								<li>
+									<a href="#"><i class="fa fa-user"></i>By Humas UNSIA</a>
+								</li>
+							</ul>
+							<h5 class="post-title">
+								<a href="<?= base_url('arsip/berita/penandatanganan-mou-dekopin'); ?>">Penandatanganan MoU antara Universitas Siber Asia (UNSIA) dengan Dewan Koperasi Indonesia (DEKOPIN)</a>
+							</h5>
+							<p>
+							Penandatanganan MoU antara Rektor Universitas Siber Asia (UNSIA), Jang Youn Cho., Ph.D., CPA dengan Ketua Umum Dewan Koperasi Indonesia (DEKOPIN), H.A.M Nurdin Halid, Selasa 19 Januari 2020, untuk peningkatan kapasitas koperasi Indonesia
+							</p>
+							<div class="post-extra">
+								<a href="<?= base_url('arsip/berita/penandatanganan-mou-dekopin'); ?>"
+									class="btn-link">READ
+									MORE</a>
+							</div>
+						</div>
+					</div>
+					<div class="recent-news blog-lg m-b40">
+						<div class="action-box blog-lg">
 							<img src="#" class="lazy" data-src="<?= base_url(); ?>assets/images/event/komunikasi/8.jpeg" alt="" />
 						</div>
 						<div class="info-bx">
@@ -241,9 +267,28 @@
 				<!-- Side bar start -->
 				<div class="col-md-5 col-lg-4 col-xl-4 sticky-top">
 					<aside class="side-bar sticky-top">
-						<div class="widget recent-posts-entry">
+					<div class="widget recent-posts-entry">
 							<h6 class="widget-title">Recent Posts</h6>
 							<div class="widget-post-bx">
+								<div class="widget-post clearfix">
+									<div class="ttr-post-media">
+										<img src="#" class="lazy"
+											data-src="<?= base_url(); ?>assets/images/dekopin/dekopin-4.jpg"
+											width="200" height="143" alt="" />
+									</div>
+									<div class="ttr-post-info">
+										<div class="ttr-post-header">
+											<h6 class="post-title">
+												<a href="<?= base_url('arsip/berita/penandatanganan-mou-dekopin'); ?>">Penandatanganan MoU antara Universitas Siber Asia (UNSIA) dengan Dewan Koperasi Indonesia (DEKOPIN)</a>
+											</h6>
+										</div>
+										<ul class="media-post">
+											<li>
+												<a href="#"><i class="fa fa-calendar"></i>20 Januari 2021</a>
+											</li>
+										</ul>
+									</div>
+								</div>
 								<div class="widget-post clearfix">
 									<div class="ttr-post-media">
 										<img src="#" class="lazy"
@@ -325,25 +370,6 @@
 										<ul class="media-post">
 											<li>
 												<a href="#"><i class="fa fa-calendar"></i>22 September 2020</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-								<div class="widget-post clearfix">
-									<div class="ttr-post-media">
-										<img src="#" class="lazy"
-											data-src="<?= base_url(); ?>assets/images/berita/pic1.jpg" width="200"
-											height="143" alt="" />
-									</div>
-									<div class="ttr-post-info">
-										<div class="ttr-post-header">
-											<h6 class="post-title">
-												<a href="blog-details.html">Ketua YMIK Menerima Izin Pendirian UNSIA</a>
-											</h6>
-										</div>
-										<ul class="media-post">
-											<li>
-												<a href="#"><i class="fa fa-calendar"></i>4 September 2020</a>
 											</li>
 										</ul>
 									</div>
