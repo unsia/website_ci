@@ -313,9 +313,9 @@
 														href="<?= base_url('akademik/proses-akademik/keunggulan-lulusan-unsia') ?>">Keunggulan
 														Lulusan UNSIA</a>
 												</li>
-												<li><a
+												<!-- <li><a
 														href="<?= base_url('akademik/proses-akademik/peraturan-akademik') ?>">Peraturan
-														Akademik</a></li>
+														Akademik</a></li> -->
 												<li><a
 														href="<?= base_url('akademik/proses-akademik/kalender-akademik') ?>">Kalender
 														Akademik</a></li>
