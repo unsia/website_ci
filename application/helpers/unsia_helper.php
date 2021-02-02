@@ -6,7 +6,7 @@ function is_logged_in()
     $CI = get_instance();
 
     if (!$CI->session->userdata('email')) {
-        redirect('admin-cms');
+        redirect('admin/auth');
     } else {
         $role_id    = $CI->session->userdata('role_id');
         $menu       = $CI->uri->segment(2);
@@ -20,7 +20,7 @@ function is_logged_in()
         ]);
 
         if ($userAccess->num_rows() < 1) {
-            redirect('admin-cms/blocked');
+            redirect('admin/auth/blocked');
         }
     }
 }
