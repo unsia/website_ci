@@ -20,6 +20,10 @@ class Homepage extends CI_Controller
 	
 	public function error()
 	{
+<<<<<<< HEAD
 		$this->load->view('home/error404');
+=======
+		$this->load->view('error404');
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 	}
 }

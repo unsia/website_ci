@@ -6,7 +6,11 @@ function is_logged_in()
     $CI = get_instance();
 
     if (!$CI->session->userdata('email')) {
+<<<<<<< HEAD
         redirect('/');
+=======
+        redirect('admin/auth');
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
     } else {
         $role_id    = $CI->session->userdata('role_id');
         $menu       = $CI->uri->segment(2);

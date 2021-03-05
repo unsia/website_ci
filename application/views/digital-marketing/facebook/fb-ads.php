@@ -74,6 +74,7 @@
 		})(window, document, 'script', 'dataLayer', 'GTM-NGCJ3LC');
 	</script>
 
+<<<<<<< HEAD
 	<!-- Google Tag Manager -->
 	<script>
 		(function(w,d,s,l,i){
@@ -93,6 +94,8 @@
 	</script>
 <!-- End Google Tag Manager -->
 
+=======
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 	<script>
 		"trackEvent": {
 			"on": "click",
@@ -140,11 +143,14 @@
 	<!-- Universitas Siber Asia -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC" height="0" width="0"
 			style="display:none;visibility:hidden"></iframe></noscript>
+<<<<<<< HEAD
 
 	<!-- Universitas Siber Asia 5 -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PN5DLZF"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+=======
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 	<!-- End Google Tag Manager (noscript) -->
 	<!-- Navigation-->
 	<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
@@ -161,7 +167,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Kenapa UNSIA?</a></li>
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#signup">Liputan Media</a></li>
+<<<<<<< HEAD
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#whatsapp">Hubungi Kami</a></li>
+=======
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 				</ul>
 			</div>
 		</div>
@@ -173,7 +182,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<h1 class="mx-auto my-0 text-uppercase">Universitas Siber Asia</h1>
 				<h2 class="text-white-50 mx-auto mt-2 mb-5">Perguruan Tinggi Berbasis Siber Pertama di Indonesia</h2>
 				<?= $this->session->flashdata('message'); ?>
+<<<<<<< HEAD
 				<!-- <div class="d-flex justify-content-center">
+=======
+				<div class="d-flex justify-content-center">
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 					<form class="form-email" method="post" action="<?= base_url('adsense'); ?>">
 						<small class="text-white">Silahkan lengkapi form berikut untuk informasi lebih lanjut mengenai
 							program kuliah online.</small>
@@ -237,7 +250,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<button type="submit" class="btn btn-primary" id="btn-whatsapp">Kirim</button>
 					</form>
+<<<<<<< HEAD
 				</div> -->
+=======
+				</div>
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 			</div>
 		</div>
 	</header>
@@ -355,13 +372,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 	</section>
 	<!-- Signup-->
+<<<<<<< HEAD
 	<section class="signup-section" id="whatsapp">
+=======
+	<section class="signup-section">
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 		<div class="container">
 			<div class="row">
 				<div class="col-md-10 col-lg-8 mx-auto text-center">
 					<i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
 					<h2 class="text-white mb-5">Dapatkan informasi lebih lanjut tentang UNSIA!</h2>
+<<<<<<< HEAD
 					<a href="https://wa.me/+6281213732772?text=Hallo%20Admin,%20saya%20mendapatkan%20info%20dari%20facebook.%20Bisa%20bantu%20Saya%20mendaftar%20di%20UNSIA?" class="btn btn-primary mx-auto" id="btn-whatsapp"><i class="fab fa-whatsapp fa-lg"></i> Hubungi Kami!</a>
+=======
+					<a href="#page-top" class="btn btn-primary mx-auto js-scroll-trigger">Hubungi Kami!</a>
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 				</div>
 			</div>
 		</div>

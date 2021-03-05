@@ -77,7 +77,11 @@ $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'root',
+<<<<<<< HEAD
 	'password' => 'Unsiapatuh20',
+=======
+	'password' => '',
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 	'database' => 'unsia',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

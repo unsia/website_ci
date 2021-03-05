@@ -1,7 +1,11 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
+<<<<<<< HEAD
 class Facebook extends CI_Controller
+=======
+class Adsense extends CI_Controller
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 {
 	public function index()
 	{
@@ -13,7 +17,11 @@ class Facebook extends CI_Controller
 		$this->form_validation->set_rules('phone', 'No HP', 'required|trim');
 
 		if ($this->form_validation->run() == false) {
+<<<<<<< HEAD
 			$this->load->view('digital-marketing/facebook/fb-ads');
+=======
+			$this->load->view('fb-ads');
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 		} else {
 			$email = $this->input->post('email', true);
 			$data = [
@@ -32,9 +40,15 @@ class Facebook extends CI_Controller
 				
 				$this->db->insert('adsense', $data);
 				$this->_sendEmail();
+<<<<<<< HEAD
 				redirect('digital-marketing/facebook/success');
 			} else {
 				redirect('digital-marketing/facebook/koneksi');
+=======
+				redirect('adsense/success');
+			} else {
+				redirect('error404');
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 			}
 		}
 	}
@@ -109,11 +123,19 @@ class Facebook extends CI_Controller
 
 	public function koneksi()
 	{
+<<<<<<< HEAD
 		$this->load->view('admin/auth/koneksi');
+=======
+		$this->load->view('error404');
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 	}
 
 	public function success()
 	{
+<<<<<<< HEAD
 		$this->load->view('digital-marketing/facebook/fb-success-form');
+=======
+		$this->load->view('fb-success-form');
+>>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 	}
 }
