@@ -50,18 +50,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'homepage';
-<<<<<<< HEAD
 $route['404_override'] = 'homepage/error';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['kuliah-online-pertama'] = 'digital-marketing/facebook';
 $route['semuabisakuliah'] = 'digital-marketing/google';
-=======
-$route['404_override'] = 'home/error';
-$route['translate_uri_dashes'] = FALSE;
-
-$route['kuliah-online-pertama'] = 'adsense';
-$route['semuabisakuliah'] = 'google';
->>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 
 $route['home/kontak'] = 'homepage/kontak';

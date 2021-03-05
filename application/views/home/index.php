@@ -1495,6 +1495,7 @@
 		<!-- Footer END ==== -->
 		<button class="back-to-top fa fa-chevron-up"></button>
 	</div>
+	<div id="ChitchatWidget"></div>
 
 	<!-- External JavaScripts -->
 	<script src="<?= base_url(); ?>assets/home/js/jquery.min.js"></script>
@@ -1649,6 +1650,7 @@
 			}
 		});
 	</script>
+	<script language="javascript"> var set = new Array(); set["c_project"] = "161465591357526588"; set["c_button_float_bg"] = "#104879"; set["c_button_float_title"] = "Admin"; set["c_float_bg"] = "#ffffff"; set["c_float_title"] = "Admin"; set["c_float_title_color"] = "#104879"; set["c_float_image"] = "https://admin.eva.id/uploads/20210302035833725861.png"; (function(i,s,o,g,r,a,m){i["chitchat"]=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,"script","https://kawaluyaan.eva.id/airobi/widget/js/chitchat.js?v=VSIO1.3", set);</script>
 </body>
 
 </html>
