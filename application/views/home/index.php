@@ -20,7 +20,7 @@
 
 	<!-- Universitas Siber Asia 3 -->
 	<script>
-		(function (w, d, s, l, i) {
+		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
 				'gtm.start': new Date().getTime(),
@@ -38,7 +38,7 @@
 
 	<!-- Universitas Siber Asia 4 -->
 	<script>
-		(function (w, d, s, l, i) {
+		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
 				'gtm.start': new Date().getTime(),
@@ -55,7 +55,7 @@
 	</script>
 
 	<script>
-		(function (w, d, s, l, i) {
+		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
 				'gtm.start': new Date().getTime(),
@@ -72,7 +72,7 @@
 	</script>
 
 	<script>
-		(function (w, d, s, l, i) {
+		(function(w, d, s, l, i) {
 			w[l] = w[l] || [];
 			w[l].push({
 				'gtm.start': new Date().getTime(),
@@ -153,20 +153,16 @@
 	<!-- Google Tag Manager (noscript) -->
 
 	<!-- Universitas Siber Asia 3 -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5PJ4FD" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5PJ4FD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<!-- Universitas Siber Asia 4 -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPP9KZP" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPP9KZP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<!-- Universitas Siber Asia 2 -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57QZG9P" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57QZG9P" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<!-- Universitas Siber Asia -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCJ3LC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	<div class="page-wraper">
 		<div id="loading-icon-bx"></div>
@@ -178,12 +174,10 @@
 						<div class="topbar-left">
 							<ul>
 								<li>
-									<a href="<?= base_url('tentang-unsia/faq') ?>"><i
-											class="fa fa-question-circle"></i>Ask a Question</a>
+									<a href="<?= base_url('tentang-unsia/faq') ?>"><i class="fa fa-question-circle"></i>Ask a Question</a>
 								</li>
 								<li>
-									<a href="mailto:admission@acu.ac.id"><i
-											class="fa fa-envelope-o"></i>admission@acu.ac.id</a>
+									<a href="mailto:admission@acu.ac.id"><i class="fa fa-envelope-o"></i>admission@acu.ac.id</a>
 								</li>
 							</ul>
 						</div>
@@ -195,13 +189,10 @@
 					<div class="container clearfix">
 						<!-- Header Logo ==== -->
 						<div class="menu-logo">
-							<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png"
-									alt="" /></a>
+							<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
 						</div>
 						<!-- Mobile Nav Button ==== -->
-						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button"
-							data-toggle="collapse" data-target="#menuDropdown" aria-controls="menuDropdown"
-							aria-expanded="false" aria-label="Toggle navigation">
+						<button class="navbar-toggler collapsed menuicon justify-content-end" type="button" data-toggle="collapse" data-target="#menuDropdown" aria-controls="menuDropdown" aria-expanded="false" aria-label="Toggle navigation">
 							<span></span>
 							<span></span>
 							<span></span>
@@ -210,8 +201,7 @@
 						<!-- Navigation Menu ==== -->
 						<div class="menu-links navbar-collapse collapse justify-content-end" id="menuDropdown">
 							<div class="menu-logo">
-								<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png"
-										alt="" /></a>
+								<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png" alt="" /></a>
 							</div>
 							<ul class="nav navbar-nav">
 								<li class="active"><a href="/">Beranda</a></li>
@@ -277,47 +267,38 @@
 										<li>
 											<a href="javascript:;">Program Studi<i class="fa fa-angle-right"></i></a>
 											<ul class="sub-menu">
-												<li><a target="_blank"
-														href="<?= base_url('program-studi/manajemen'); ?>">Manajemen</a>
+												<li><a target="_blank" href="<?= base_url('program-studi/manajemen'); ?>">Manajemen</a>
 												</li>
 												<li>
-													<a target="_blank"
-														href="<?= base_url('program-studi/sistem_informasi'); ?>">Sistem
+													<a target="_blank" href="<?= base_url('program-studi/sistem_informasi'); ?>">Sistem
 														Informasi</a>
 												</li>
-												<li><a target="_blank"
-														href="<?= base_url('program-studi/informatika'); ?>">Informatika</a>
+												<li><a target="_blank" href="<?= base_url('program-studi/informatika'); ?>">Informatika</a>
 												</li>
-												<li><a target="_blank"
-														href="<?= base_url('program-studi/akuntansi'); ?>">Akuntansi</a>
+												<li><a target="_blank" href="<?= base_url('program-studi/akuntansi'); ?>">Akuntansi</a>
 												</li>
-												<li><a target="_blank"
-														href="<?= base_url('program-studi/komunikasi'); ?>">Komunikasi</a>
+												<li><a target="_blank" href="<?= base_url('program-studi/komunikasi'); ?>">Komunikasi</a>
 												</li>
 											</ul>
 										</li>
 										<li>
 											<a href="javascript:;">Proses Akademik<i class="fa fa-angle-right"></i></a>
 											<ul class="sub-menu">
-												<li><a
-														href="<?= base_url('home/akademik/panduan_akademik') ?>">Panduan
+												<li><a href="<?= base_url('home/akademik/panduan_akademik') ?>">Panduan
 														Akademik</a>
 												</li>
 												<li>
-													<a
-														href="<?= base_url('home/akademik/teaching_profesor') ?>">Teaching
+													<a href="<?= base_url('home/akademik/teaching_profesor') ?>">Teaching
 														Profesor</a>
 												</li>
 												<li>
-													<a
-														href="<?= base_url('home/akademik/keunggulan_lulusan_unsia') ?>">Keunggulan
+													<a href="<?= base_url('home/akademik/keunggulan_lulusan_unsia') ?>">Keunggulan
 														Lulusan UNSIA</a>
 												</li>
 												<!-- <li><a
 														href="<?= base_url('home/akademik/peraturan_akademik') ?>">Peraturan
 														Akademik</a></li> -->
-												<li><a
-														href="<?= base_url('home/akademik/kalender_akademik') ?>">Kalender
+												<li><a href="<?= base_url('home/akademik/kalender_akademik') ?>">Kalender
 														Akademik</a></li>
 											</ul>
 										</li>
@@ -384,8 +365,7 @@
 		<div class="page-content bg-white">
 			<!-- Main Slider -->
 			<div class="rev-slider">
-				<div id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container"
-					data-alias="news-gallery36" data-source="gallery" style="
+				<div id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery36" data-source="gallery" style="
               margin: 0px auto;
               background-color: #ffffff;
               padding: 0px;
@@ -393,49 +373,22 @@
               margin-bottom: 0px;
             ">
 					<!-- START REVOLUTION SLIDER 5.3.0.2 fullwidth mode -->
-					<div id="rev_slider_486_1" class="rev_slider fullwidthabanner" style="display: none"
-						data-version="5.3.0.2">
+					<div id="rev_slider_486_1" class="rev_slider fullwidthabanner" style="display: none" data-version="5.3.0.2">
 						<ul>
 							<!-- SLIDE  -->
-							<li data-index="rs-100" data-transition="parallaxvertical" data-slotamount="default"
-								data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
-								data-easeout="default" data-masterspeed="default" data-thumb="error-404.html"
-								data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7"
-								data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1=""
-								data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
-								data-param7="" data-param8="" data-param9="" data-param10=""
-								data-description="Science says that Women are generally happier">
+							<li data-index="rs-100" data-transition="parallaxvertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="error-404.html" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Science says that Women are generally happier">
 								<!-- MAIN IMAGE -->
-								<img src="<?= base_url(); ?>assets/images/slider/slide1.jpg" alt=""
-									data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
-									data-bgparallax="10" class="rev-slidebg" data-no-retina />
+								<img src="<?= base_url(); ?>assets/images/slider/slide1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina />
 
 								<!-- LAYER NR. 1 -->
-								<div class="tp-caption tp-shape tp-shapewrapper" id="slide-100-layer-1"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
-									data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape"
-									data-basealign="slide" data-responsive_offset="off" data-responsive="off"
-									data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1,"to":"opacity:0;","ease":"Power4.easeOut"}]'
-									data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption tp-shape tp-shapewrapper" id="slide-100-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1,"to":"opacity:0;","ease":"Power4.easeOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 5;
                       background-color: rgba(2, 0, 11, 0.8);
                       border-color: rgba(0, 0, 0, 0);
                       border-width: 0px;
                     "></div>
 								<!-- LAYER NR. 2 -->
-								<div class="tp-caption Newspaper-Title tp-resizeme" id="slide-100-layer-2"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['250','250','250','240']"
-									data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']"
-									data-width="full" data-height="none" data-whitespace="normal" data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]"
-									data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Title tp-resizeme" id="slide-100-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['250','250','250','240']" data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="full" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 6;
                       font-family: rubik;
                       font-weight: 700;
@@ -446,15 +399,7 @@
 								</div>
 
 								<!-- LAYER NR. 3 -->
-								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-100-layer-3"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['210','210','210','210']"
-									data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-100-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['210','210','210','210']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 7;
                       white-space: nowrap;
                       color: #fff;
@@ -466,15 +411,7 @@
 								</div>
 
 								<!-- LAYER NR. 3 -->
-								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-100-layer-4"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['320','320','320','290']"
-									data-width="['800','800','700','420']" data-height="['100','100','100','120']"
-									data-whitespace="unset" data-type="text" data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-100-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['320','320','320','290']" data-width="['800','800','700','420']" data-height="['100','100','100','120']" data-whitespace="unset" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 7;
                       text-transform: capitalize;
                       white-space: unset;
@@ -489,18 +426,8 @@
 									Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
 								</div>
 								<!-- LAYER NR. 4 -->
-								<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront" id="link-header-daftar"
-									style="display: none"></a>
-								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn"
-									id="slide-100-layer-5" data-x="['center','center','center','center']"
-									data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
-									data-voffset="['400','400','400','420']" data-width="none" data-height="none"
-									data-whitespace="nowrap" data-type="button" data-responsive_offset="on"
-									data-responsive="off"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-									data-textAlign="['center','center','center','center']"
-									data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]"
-									data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]" style="
+								<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront" id="link-header-daftar" style="display: none"></a>
+								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn" id="slide-100-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['400','400','400','420']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]" style="
                       margin-top: 20px;
                       z-index: 8;
                       white-space: nowrap;
@@ -518,30 +445,12 @@
 									DAFTAR SEKARANG
 								</div>
 							</li>
-							<li data-index="rs-200" data-transition="parallaxvertical" data-slotamount="default"
-								data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default"
-								data-easeout="default" data-masterspeed="default"
-								data-thumb="<?= base_url(); ?>assets/images/slider/slide1.jpg" data-rotate="0"
-								data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7"
-								data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1=""
-								data-param2="" data-param3="" data-param4="" data-param5="" data-param6=""
-								data-param7="" data-param8="" data-param9="" data-param10=""
-								data-description="Science says that Women are generally happier">
+							<li data-index="rs-200" data-transition="parallaxvertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?= base_url(); ?>assets/images/slider/slide1.jpg" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Science says that Women are generally happier">
 								<!-- MAIN IMAGE -->
-								<img src="<?= base_url(); ?>assets/images/slider/slide2.jpg" alt=""
-									data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
-									data-bgparallax="10" class="rev-slidebg" data-no-retina />
+								<img src="<?= base_url(); ?>assets/images/slider/slide2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina />
 
 								<!-- LAYER NR. 1 -->
-								<div class="tp-caption tp-shape tp-shapewrapper" id="slide-200-layer-1"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
-									data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape"
-									data-basealign="slide" data-responsive_offset="off" data-responsive="off"
-									data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"to":"opacity:1;","ease":"Power4.easeOut"}]'
-									data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption tp-shape tp-shapewrapper" id="slide-200-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"from":"opacity:0;","speed":1,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},{"delay":"wait","speed":1000,"to":"opacity:1;","ease":"Power4.easeOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 5;
                       background-color: rgba(2, 0, 11, 0.8);
                       border-color: rgba(0, 0, 0, 0);
@@ -549,16 +458,7 @@
                     "></div>
 
 								<!-- LAYER NR. 2 -->
-								<div class="tp-caption Newspaper-Title tp-resizeme" id="slide-200-layer-2"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['250','250','250','240']"
-									data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']"
-									data-width="full" data-height="none" data-whitespace="normal" data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]"
-									data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Title tp-resizeme" id="slide-200-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['250','250','250','240']" data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="full" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 6;
                       font-family: rubik;
                       font-weight: 700;
@@ -570,15 +470,7 @@
 								</div>
 
 								<!-- LAYER NR. 3 -->
-								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-200-layer-3"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['210','210','210','210']"
-									data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-									data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-200-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['210','210','210','210']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 7;
                       white-space: nowrap;
                       text-transform: uppercase;
@@ -591,15 +483,7 @@
 								</div>
 
 								<!-- LAYER NR. 4 -->
-								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-200-layer-4"
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-									data-y="['top','top','top','top']" data-voffset="['320','320','320','290']"
-									data-width="['800','800','700','420']" data-height="['100','100','100','120']"
-									data-whitespace="unset" data-type="text" data-responsive_offset="on"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]" style="
+								<div class="tp-caption Newspaper-Subtitle tp-resizeme" id="slide-200-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['320','320','320','290']" data-width="['800','800','700','420']" data-height="['100','100','100','120']" data-whitespace="unset" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="
                       z-index: 7;
                       text-transform: capitalize;
                       white-space: unset;
@@ -614,16 +498,7 @@
 									Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
 								</div>
 								<!-- LAYER NR. 5 -->
-								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn"
-									id="slide-100-layer-5" data-x="['center','center','center','center']"
-									data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']"
-									data-voffset="['400','400','400','420']" data-width="none" data-height="none"
-									data-whitespace="nowrap" data-type="button" data-responsive_offset="on"
-									data-responsive="off"
-									data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]'
-									data-textAlign="['center','center','center','center']"
-									data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]"
-									data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]" style="
+								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn" id="slide-100-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['400','400','400','420']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]" style="
                       margin-top: 20px;
                       z-index: 8;
                       white-space: nowrap;
@@ -718,8 +593,32 @@
 							</div>
 						</div>
 						<div class="row">
-							<div
-								class="upcoming-event-carousel owl-carousel owl-btn-center-lr owl-btn-1 col-12 p-lr0  m-b30">
+							<div class="upcoming-event-carousel owl-carousel owl-btn-center-lr owl-btn-1 col-12 p-lr0  m-b30">
+								<div class="item">
+									<div class="event-bx">
+										<div class="action-box">
+											<img src="assets/images/event/htc.jpeg" alt="">
+										</div>
+										<div class="info-bx d-flex">
+											<div>
+												<div class="event-time">
+													<div class="event-date">13</div>
+													<div class="event-month">Maret</div>
+												</div>
+											</div>
+											<div class="event-info">
+												<h4 class="event-title"><a href="<?= base_url('/'); ?>">Temu Keluarga UNSIA</a></h4>
+												<ul class="media-post">
+													<li><a href="#"><i class="fa fa-clock-o"></i> 13 Maret 2021</a>
+													</li>
+													<li><a href="#"><i class="fa fa-map-marker"></i> Offline & Online</a>
+													</li>
+												</ul>
+												<p>Temu Keluarga UNSIA</p>
+											</div>
+										</div>
+									</div>
+								</div>
 								<div class="item">
 									<div class="event-bx">
 										<div class="action-box">
@@ -733,8 +632,7 @@
 												</div>
 											</div>
 											<div class="event-info">
-												<h4 class="event-title"><a
-														href="<?= base_url('arsip/berita/penandatanganan-mou-dekopin'); ?>">Penandatanganan MoU antara Universitas Siber Asia (UNSIA) dengan Dewan Koperasi Indonesia (DEKOPIN)</a></h4>
+												<h4 class="event-title"><a href="<?= base_url('arsip/berita/penandatanganan-mou-dekopin'); ?>">Penandatanganan MoU antara Universitas Siber Asia (UNSIA) dengan Dewan Koperasi Indonesia (DEKOPIN)</a></h4>
 												<ul class="media-post">
 													<li><a href="#"><i class="fa fa-clock-o"></i> 20 Januari 2020</a>
 													</li>
@@ -759,8 +657,7 @@
 												</div>
 											</div>
 											<div class="event-info">
-												<h4 class="event-title"><a
-														href="<?= base_url('arsip/berita/jambore-nasional-komunikasi'); ?>">Mahasiswa
+												<h4 class="event-title"><a href="<?= base_url('arsip/berita/jambore-nasional-komunikasi'); ?>">Mahasiswa
 														Prodi Komunikasi UNSIA Raih Prestasi Gemilang di Jambore
 														Nasional
 														Komunikasi (JNK) ASPIKOM Tahun 2020</a></h4>
@@ -780,35 +677,6 @@
 										</div>
 									</div>
 								</div>
-								<div class="item">
-									<div class="event-bx">
-										<div class="action-box">
-											<img src="assets/images/event/komunikasi/perhumas.jpg" alt="">
-										</div>
-										<div class="info-bx d-flex">
-											<div>
-												<div class="event-time">
-													<div class="event-date">4/5</div>
-													<div class="event-month">Desember</div>
-												</div>
-											</div>
-											<div class="event-info">
-												<h4 class="event-title"><a href="http://bit.ly/KNH20-PERHUMAS">Konvensi
-														Nasional Humas 2020</a></h4>
-												<ul class="media-post">
-													<li><a href="#"><i class="fa fa-clock-o"></i> -</a>
-													</li>
-													<li><a href="#"><i class="fa fa-map-marker"></i> Zoom Video
-															Conference</a>
-													</li>
-												</ul>
-												<p>Konvensi Nasional Humas 2020 (KNH20), konvensi yang ke 20 sejak
-													pertama kali diadakan pada tahun 1994, merupakan platform untuk
-													menyatukan praktisi Public Relation,</p>
-											</div>
-										</div>
-									</div>
-								</div>
 							</div>
 						</div>
 						<!-- <div class="text-center">
@@ -818,8 +686,7 @@
 				</div>
 
 				<!-- Form -->
-				<div class="section-area section-sp1 ovpr-dark bg-fix online-cours"
-					style="background-image: url(<?= base_url(); ?>assets/images/background/bg1.jpg)">
+				<div class="section-area section-sp1 ovpr-dark bg-fix online-cours" style="background-image: url(<?= base_url(); ?>assets/images/background/bg1.jpg)">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12 text-center text-white">
@@ -883,15 +750,12 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic1.jpg" alt="" />
-											<a target="_blank"
-												href="<?= base_url('akademik/program-studi/manajemen'); ?>"
-												class="btn">Read
+											<a target="_blank" href="<?= base_url('akademik/program-studi/manajemen'); ?>" class="btn">Read
 												More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank"
-													href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
+												<a target="_blank" href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
 											</h5>
 										</div>
 									</div>
@@ -900,14 +764,11 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic2.jpg" alt="" />
-											<a target="_blank"
-												href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>"
-												class="btn">Read More</a>
+											<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>" class="btn">Read More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank"
-													href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
+												<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
 													Informasi</a>
 											</h5>
 										</div>
@@ -917,15 +778,12 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic3.jpg" alt="" />
-											<a target="_blank"
-												href="<?= base_url('akademik/program-studi/informatika'); ?>"
-												class="btn">Read
+											<a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>" class="btn">Read
 												More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank"
-													href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a>
+												<a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a>
 											</h5>
 										</div>
 									</div>
@@ -934,15 +792,12 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic4.jpg" alt="" />
-											<a target="_blank"
-												href="<?= base_url('akademik/program-studi/komunikasi'); ?>"
-												class="btn">Read
+											<a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>" class="btn">Read
 												More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank"
-													href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a>
+												<a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a>
 											</h5>
 										</div>
 									</div>
@@ -951,15 +806,12 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic5.jpg" alt="" />
-											<a target="_blank"
-												href="<?= base_url('akademik/program-studi/akuntansi'); ?>"
-												class="btn">Read
+											<a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>" class="btn">Read
 												More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank"
-													href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
+												<a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
 											</h5>
 										</div>
 									</div>
@@ -971,8 +823,7 @@
 				<!-- Popular Courses END -->
 
 				<!-- Salam Rektor -->
-				<div class="section-area section-sp2 bg-fix ovbl-dark"
-					style="background-image: url(<?= base_url(); ?>assets/images/background/bg1.jpg)">
+				<div class="section-area section-sp2 bg-fix ovbl-dark" style="background-image: url(<?= base_url(); ?>assets/images/background/bg1.jpg)">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12 text-white heading-bx left">
@@ -992,54 +843,17 @@
 								</div>
 								<div class="testimonial-content">
 									<p style="padding-bottom: 0.5em; text-align: justify">
-										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di
-										Universitas Siber pertama di Indonesia, Universitas Siber
-										Asia / Asia Cyber University. Universitas kami didirikan
-										sejak 2019 untuk memenuhi kebutuhan abad ke 21, pemimpin
-										professional dalam masyarakat digital yang cerdas dalam
-										era revolusi industri ke 4.
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selamat datang di Universitas Siber pertama di Indonesia, Universitas Siber Asia / Asia Cyber University. Universitas kami didirikan sejak 2019 untuk memenuhi kebutuhan abad ke 21, pemimpin professional dalam masyarakat digital yang cerdas dalam era revolusi industri ke 4.
 									</p>
 									<p style="padding-bottom: 0.5em; text-align: justify">
-										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indonesia adalah negara
-										kepulauan yang terdiri dari hampir 17.000 pulau dengan
-										populasi sekitar 270 juta penduduk. Maka dari itu,
-										Indonesia memiliki kesempatan yang strategis untuk menjadi
-										pemain kunci dalam kompetisi global, memimpin pasar
-										ekonomi digital. Ini membutuhkan pengembangan Sumber Daya
-										Manusia yang memiliki keterampilan utama dalam hal
-										literasi Teknologi Informasi dan Sains terapan. Untuk
-										memenuhi tujuan ini, Pendidikan secara massif yang
-										diselenggarakan melalui Sistem Pendidikan tinggi adalah
-										satu-satunya solusi mengingat perbedaan kondisi geografis
-										di Indonesia sekaligus perbedaan kualitas.
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indonesia adalah negara kepulauan yang terdiri dari hampir 17.000 pulau dengan populasi sekitar 270 juta penduduk. Maka dari itu, Indonesia memiliki kesempatan yang strategis untuk menjadi pemain kunci dalam kompetisi global, memimpin pasar ekonomi digital. Ini membutuhkan pengembangan Sumber Daya Manusia yang memiliki keterampilan utama dalam hal literasi Teknologi Informasi dan Sains terapan. Untuk memenuhi tujuan ini, Pendidikan secara massif yang diselenggarakan melalui Sistem Pendidikan tinggi adalah satu-satunya solusi mengingat perbedaan kondisi geografis di Indonesia sekaligus perbedaan kualitas.
 									</p>
 									<p style="padding-bottom: 0.5em; text-align: justify">
-										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap tahun, lebih dari 2
-										juta orang berbakat yang tamat dari Sekolah Menengah Atas
-										kehilangan kesempatan untuk melanjutkan Pendidikan tinggi,
-										kasus terbanyak disebabkan oleh masalah ekonomi dan
-										masalah-masalah penting lainnya. Universitas Siber kami
-										menyediakan solusi yang akan menyediakan layanan
-										pendidikan berkualitas terbaik, kapanpun, dan dimanapun
-										anda, tanpa bias apapun, dengan biaya Pendidikan yang
-										terjangkau. Pendidikan Tinggi berbasis daring dapat
-										membawa Anda menuju puncak melalui sebuah sistem
-										pembelajaran yang dapat di akses dimana saja tanpa perlu
-										berada di kota besar. Sistem Pembelajaran Online memandu
-										setiap siswa untuk menjadi pembelajar yang aktif dan penuh
-										kegembiraan melalui aktivitas interaktif dan didukung oleh
-										materi digital dalam Sistem Manajemen Pembelajaran
-										(Learning Management System).
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setiap tahun, lebih dari 2 juta orang berbakat yang tamat dari Sekolah Menengah Atas kehilangan kesempatan untuk melanjutkan Pendidikan tinggi, kasus terbanyak disebabkan oleh masalah ekonomi dan masalah-masalah penting lainnya. Universitas Siber kami menyediakan solusi yang akan menyediakan layanan pendidikan berkualitas terbaik, kapanpun, dan dimanapun anda, tanpa bias apapun, dengan biaya Pendidikan yang terjangkau. Pendidikan Tinggi berbasis daring dapat membawa Anda menuju puncak melalui sebuah sistem pembelajaran yang dapat di akses dimana saja tanpa perlu berada di kota besar. Sistem Pembelajaran Online memandu setiap siswa untuk menjadi pembelajar yang aktif dan penuh kegembiraan melalui aktivitas interaktif dan didukung oleh materi digital dalam Sistem Manajemen Pembelajaran (Learning Management System).
 									</p>
 									<p style="padding-bottom: 0.5em; text-align: justify">
 										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anda akan menjadi kelompok
-										pionir untuk mendobrak bias yang menggambarkan bahwa
-										Pendidikan hanya mungkin dilakukan bila melalui fasilitas
-										fisik. Anda akan mencapai perkuliahan kelas dunia dengan
-										dukungan teratas dari staf professional dan teknologi
-										pendidikan kami. Selamat datang dan semoga kita dapat
-										memulai perjalanan bersama untuk menuliskan cerita sukses
-										Anda, bersama kami.
+										pionir untuk mendobrak bias yang menggambarkan bahwa Pendidikan hanya mungkin dilakukan bila melalui fasilitas fisik. Anda akan mencapai perkuliahan kelas dunia dengan dukungan teratas dari staf professional dan teknologi pendidikan kami. Selamat datang dan semoga kita dapat memulai perjalanan bersama untuk menuliskan cerita sukses Anda, bersama kami.
 									</p>
 									<p style="padding-bottom: 0.5em">Hormat kami,</p>
 									<p style="padding-bottom: 0.5em">Rektor,</p>
@@ -1066,8 +880,7 @@
 							<div class="item">
 								<div class="recent-news">
 									<div class="action-box">
-										<img src="<?= base_url('assets/images/berita/forum-diskusi-kom.jpeg') ?>"
-											alt="" />
+										<img src="<?= base_url('assets/images/berita/forum-diskusi-kom.jpeg') ?>" alt="" />
 									</div>
 									<div class="info-bx">
 										<ul class="media-post">
@@ -1090,8 +903,7 @@
 											dan
 										</p>
 										<div class="post-extra">
-											<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>"
-												class="btn-link">READ MORE</a>
+											<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>" class="btn-link">READ MORE</a>
 										</div>
 									</div>
 								</div>
@@ -1111,8 +923,7 @@
 											</li>
 										</ul>
 										<h5 class="post-title">
-											<a
-												href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">“Transformation
+											<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">“Transformation
 												of Digital Communication” Menjadi Tema Webinar Perdana
 												Prodi Komunikasi UNSIA</a>
 										</h5>
@@ -1123,8 +934,7 @@
 											“Transformation of Digital Communication”, sebagai refleksi
 										</p>
 										<div class="post-extra">
-											<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>"
-												class="btn-link">READ MORE</a>
+											<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>" class="btn-link">READ MORE</a>
 										</div>
 									</div>
 								</div>
@@ -1154,8 +964,7 @@
 											meresmikan Universitas Siber Asia (UNSIA) secara daring, Selasa (22/9).
 										</p>
 										<div class="post-extra">
-											<a href="<?= base_url('arsip/berita/berita-detail'); ?>"
-												class="btn-link">READ MORE</a>
+											<a href="<?= base_url('arsip/berita/berita-detail'); ?>" class="btn-link">READ MORE</a>
 										</div>
 									</div>
 								</div>
@@ -1328,24 +1137,18 @@
 					<div class="container">
 						<div class="d-flex align-items-stretch">
 							<div class="pt-logo mr-auto">
-								<a href="<?= base_url(); ?>"><img
-										src="<?= base_url(); ?>assets/images/logo-white.png" /></a>
+								<a href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo-white.png" /></a>
 							</div>
 							<div class="pt-social-link">
 								<ul class="list-inline m-a0">
 									<li>
-										<a target="_blank"
-											href="https://www.facebook.com/Universitas-Siber-Asia-115760190260178"
-											class="btn-link"><i class="fa fa-facebook"></i></a>
+										<a target="_blank" href="https://www.facebook.com/Universitas-Siber-Asia-115760190260178" class="btn-link"><i class="fa fa-facebook"></i></a>
 									</li>
 									<li>
-										<a target="_blank"
-											href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20admin,%20saya%20mendapatkan%20info%20kuliah%20online%20melalui%20website%20unsia.%20Apakah%20bisa%20dibantu%20untuk%20info%20selanjutnya?"
-											class="btn-link"><i class="fa fa-whatsapp"></i></a>
+										<a target="_blank" href="https://api.whatsapp.com/send?phone=6281213732772&text=Hallo%20admin,%20saya%20mendapatkan%20info%20kuliah%20online%20melalui%20website%20unsia.%20Apakah%20bisa%20dibantu%20untuk%20info%20selanjutnya?" class="btn-link"><i class="fa fa-whatsapp"></i></a>
 									</li>
 									<li>
-										<a target="_blank" href="https://www.instagram.com/asiacyberuniversity/"
-											class="btn-link"><i class="fa fa-instagram"></i></a>
+										<a target="_blank" href="https://www.instagram.com/asiacyberuniversity/" class="btn-link"><i class="fa fa-instagram"></i></a>
 									</li>
 								</ul>
 							</div>
@@ -1389,8 +1192,7 @@
 													Pembelajaran Online</a>
 											</li>
 											<li>
-												<a target="_blank"
-													href="https://akademik.unsia.ac.id/spmbfront/">Pendaftaran Mahasiswa
+												<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront/">Pendaftaran Mahasiswa
 													Baru</a>
 											</li>
 										</ul>
@@ -1400,22 +1202,17 @@
 									<div class="widget footer_widget">
 										<h5 class="footer-title">Program Studi</h5>
 										<ul>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
+											<li><a target="_blank" href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
 											</li>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a>
+											<li><a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a>
 											</li>
 											<li>
-												<a target="_blank"
-													href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
+												<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
 													Informasi</a>
 											</li>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
+											<li><a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
 											</li>
-											<li><a target="_blank"
-													href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a>
+											<li><a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a>
 											</li>
 										</ul>
 									</div>
@@ -1427,52 +1224,28 @@
 								<h5 class="footer-title">Gallery</h5>
 								<ul class="magnific-image">
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic1.jpg"
-											class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic1.jpg"
-												alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic1.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic1.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic2.jpg"
-											class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic2.jpg"
-												alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic2.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic2.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic3.jpg"
-											class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic3.jpg"
-												alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic3.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic3.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic4.jpg"
-											class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic4.jpg"
-												alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic4.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic4.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic5.jpg"
-											class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic5.jpg"
-												alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic5.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic5.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic6.jpg"
-											class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic6.jpg"
-												alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic6.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic6.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic7.jpg"
-											class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic7.jpg"
-												alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic7.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic7.jpg" alt="" /></a>
 									</li>
 									<li>
-										<a href="<?= base_url(); ?>assets/images/gallery/pic8.jpg"
-											class="magnific-anchor"><img
-												src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic8.jpg"
-												alt="" /></a>
+										<a href="<?= base_url(); ?>assets/images/gallery/pic8.jpg" class="magnific-anchor"><img src="<?= base_url(); ?>assets/images/gallery/thumbnail/pic8.jpg" alt="" /></a>
 									</li>
 								</ul>
 							</div>
@@ -1484,9 +1257,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-12 col-md-12 col-sm-12 text-center">
-							2020 | Copyright © Universitas Siber Asia <br />
-							Tema oleh
-							<a target="_blank" href="https://www.templateshub.net">templateshub.net</a>
+							2021 | Copyright © Universitas Siber Asia
 						</div>
 					</div>
 				</div>
@@ -1495,7 +1266,6 @@
 		<!-- Footer END ==== -->
 		<button class="back-to-top fa fa-chevron-up"></button>
 	</div>
-	<div id="ChitchatWidget"></div>
 
 	<!-- External JavaScripts -->
 	<script src="<?= base_url(); ?>assets/home/js/jquery.min.js"></script>
@@ -1522,8 +1292,7 @@
 	</script>
 	<script src="<?= base_url(); ?>assets/home/vendors/revolution/js/extensions/revolution.extension.kenburn.min.js">
 	</script>
-	<script
-		src="<?= base_url(); ?>assets/home/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js">
+	<script src="<?= base_url(); ?>assets/home/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js">
 	</script>
 	<script src="<?= base_url(); ?>assets/home/vendors/revolution/js/extensions/revolution.extension.migration.min.js">
 	</script>
@@ -1547,7 +1316,7 @@
 		);
 	</script>
 	<script>
-		jQuery(document).ready(function () {
+		jQuery(document).ready(function() {
 			var ttrevapi;
 			var tpj = jQuery;
 			if (tpj("#rev_slider_486_1").revolution == undefined) {
@@ -1650,7 +1419,6 @@
 			}
 		});
 	</script>
-	<script language="javascript"> var set = new Array(); set["c_project"] = "161465591357526588"; set["c_button_float_bg"] = "#104879"; set["c_button_float_title"] = "Admin"; set["c_float_bg"] = "#ffffff"; set["c_float_title"] = "Admin"; set["c_float_title_color"] = "#104879"; set["c_float_image"] = "https://admin.eva.id/uploads/20210302035833725861.png"; (function(i,s,o,g,r,a,m){i["chitchat"]=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,"script","https://kawaluyaan.eva.id/airobi/widget/js/chitchat.js?v=VSIO1.3", set);</script>
 </body>
 
 </html>
