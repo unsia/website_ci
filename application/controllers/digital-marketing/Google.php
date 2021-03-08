@@ -13,11 +13,7 @@ class Google extends CI_Controller
 		$this->form_validation->set_rules('phone', 'No HP', 'required|trim');
 
 		if ($this->form_validation->run() == false) {
-<<<<<<< HEAD
 			$this->load->view('digital-marketing/google/google-ads');
-=======
-			$this->load->view('google-ads');
->>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 		} else {
 			$email = $this->input->post('email', true);
 			$data = [
@@ -36,15 +32,9 @@ class Google extends CI_Controller
 				
 				$this->db->insert('adsense', $data);
 				$this->_sendEmail();
-<<<<<<< HEAD
 				redirect('digital-marketing/google/success');
 			} else {
 				redirect('digital-marketing/google/koneksi');
-=======
-				redirect('google/success');
-			} else {
-				redirect('error404');
->>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 			}
 		}
 	}
@@ -119,19 +109,11 @@ class Google extends CI_Controller
 
 	public function koneksi()
 	{
-<<<<<<< HEAD
 		$this->load->view('admin/auth/koneksi');
-=======
-		$this->load->view('error404');
->>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 	}
 
 	public function success()
 	{
-<<<<<<< HEAD
 		$this->load->view('digital-marketing/google/google-success-form');
-=======
-		$this->load->view('google-success-form');
->>>>>>> 431d4eda4df64772618b76d92e3d12cb89577a30
 	}
 }
