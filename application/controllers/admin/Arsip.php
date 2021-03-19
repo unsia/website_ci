@@ -11,7 +11,7 @@ class Arsip extends CI_Controller {
 
     public function blog()
     {
-        $data['title'] = 'My Profile';
+        $data['title'] = 'Blog';
         $data['user'] = $this->db->get_where('user', ['email' =>
         $this->session->userdata('email')])->row_array();
 

@@ -8,7 +8,7 @@
                  <?= form_error('menu', '<div class="alert alert-warning" role="alert">', '</div>'); ?>
 
                  <?= $this->session->flashdata('message'); ?>
-                 <a href="<?= base_url('admin/blog/addblog') ?>" class="btn btn-primary mb-3">Add New Blog</a>
+                 <a href="<?= base_url('admin/arsip/addblog') ?>" class="btn btn-primary mb-3">Add New Blog</a>
 
                  <table class="table table-hover">
                      <thead>
