@@ -99,7 +99,7 @@
                         <td>Manajemen Sistem Informasi</td>
                         <td>-</td>
                         <td>-</td>
-                        <td><a href="<?= base_url() ?>assets/documents/cv/cv-dosen/Sistem-Informasi/CV Fesa Asy Syifa Nurul Haq, S.Kom., MMSI.pdf">Download</a></td>
+                        <td><a href="#">Download</a></td>
                     </tr>
                     <tr>
                         <th>10</th>
