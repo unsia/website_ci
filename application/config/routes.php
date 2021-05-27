@@ -57,3 +57,5 @@ $route['kuliah-online-pertama'] = 'digital-marketing/facebook';
 $route['semuabisakuliah'] = 'digital-marketing/google';
 
 $route['home/kontak'] = 'homepage/kontak';
+
+$route['unsia'] = 'home/event/gempita';

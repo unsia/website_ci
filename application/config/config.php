@@ -23,7 +23,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://unsia.ac.id/';
+$config['base_url'] = 'http://localhost/website_ci/';
+// $config['base_url'] = 'https://unsia.ac.id/';
 
 /*
 |--------------------------------------------------------------------------

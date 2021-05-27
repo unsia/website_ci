@@ -58,11 +58,12 @@
 											data-src="<?= base_url(); ?>assets/images/logo.png" width="300" alt=""></a>
                         <br>
                         <hr>
-                        <h3>Ooopps :(</h3>
-                        <h2 class="error-title">404</h2>
-                        <h5>Halaman yang kamu cari tidak ditemukan.</h5>
+                        <h3 id="divid">GSQNBD9FPN</h3>
+                        <button id="button1" class="btn outline" onclick="CopyToClipboard('divid')">Copy Voucher</button>
+                        
+                        <h5>Silahkan copy voucher tersebut, dan paste di Pendaftaran Online</h5>
                         <div class="">
-                            <a href="<?= base_url(); ?>" class="btn outline black">Kembali ke Beranda</a>
+                            <a href="https://pmb.unsia.ac.id/daftar/" class="btn">Pendaftaran Online</a>
                             <ul class="list-inline contact-social-bx mt-4">
                   <li>
                 <a target="_blank" href="https://www.facebook.com/Universitas-Siber-Asia-115760190260178" class="btn outline radius-xl"><i class="fa fa-facebook"></i></a>
@@ -96,6 +97,22 @@
     <script src="<?= base_url(); ?>assets/home/js/functions.js"></script>
     <script src="<?= base_url(); ?>assets/home/js/contact.js"></script>
     <script src="<?= base_url(); ?>assets/home/js/blazy.js"></script>
+    <script>
+    function CopyToClipboard(containerid) {
+  if (document.selection) {
+    var range = document.body.createTextRange();
+    range.moveToElementText(document.getElementById(containerid));
+    range.select().createTextRange();
+    document.execCommand("copy");
+  } else if (window.getSelection) {
+    var range = document.createRange();
+    range.selectNode(document.getElementById(containerid));
+    window.getSelection().addRange(range);
+    document.execCommand("copy");
+    alert("voucher berhasil di copy, silahkan daftar")
+  }
+}
+    </script>
 </body>
 
 </html>
