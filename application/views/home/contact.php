@@ -40,8 +40,7 @@
         				</div>
         			</div>
         			<div class="col-lg-7 col-md-7">
-        				<form class="contact-bx" method="post" action="<?= base_url('home/semuabisakuliah'); ?>">
-                <?= $this->session->flashdata('message'); ?>
+        				<form class="contact-bx" method="post" action="#">
         					<div class="heading-bx left">
         						<h2 class="title-head">Hubungi <span>Kami!</span></h2>
         					</div>

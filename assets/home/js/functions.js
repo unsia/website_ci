@@ -460,9 +460,9 @@ Theme Version:	1.0.0
 				}
 			};
 
-			document.addEventListener("contextmenu", function (e) {
-				e.preventDefault();
-			}, false);
+			// document.addEventListener("contextmenu", function (e) {
+			// 	e.preventDefault();
+			// }, false);
 
 			$(document).keypress("u", function (e) {
 				if (e.ctrlKey) { return false; }
