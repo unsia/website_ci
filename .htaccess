@@ -1,9 +1,13 @@
+# Disable directory browsing
+Options -MultiViews -Indexes
+
+# Redirect http to https
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URL} [R,L]
+
+# Remove index.php
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php/$1 [L]
-
-
-<IfModule mod_autoindex.c>
-	Options -Indexes
-</IfModule>

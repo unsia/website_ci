@@ -21,7 +21,7 @@
             </ul>
           </div>
           <div class="pt-btn-join">
-            <a target="_blank" href="https://akademik.unsia.ac.id/spmbfront/" class="btn">Daftar Sekarang</a>
+            <a target="_blank" href="http://pmb.unsia.ac.id/" class="btn">Daftar Sekarang</a>
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@
                 <h5 class="footer-title">Layanan</h5>
                 <ul>
                   <li>
-                    <a target="_blank" href="https://akademik.unsia.ac.id/">Sistem Informasi Akademik</a>
+                    <a target="_blank" href="http://akademik.unsia.ac.id/">Sistem Informasi Akademik</a>
                   </li>
                   <li>
                     <a target="_blank" href="http://cyberlibrary.unsia.ac.id/">Digital Library</a>
@@ -56,7 +56,7 @@
                     <a target="_blank" href="http://kuliah.unsia.ac.id/login">Sistem Pembelajaran Online</a>
                   </li>
                   <li>
-                    <a target="_blank" href="https://akademik.unsia.ac.id/spmbfront/">Pendaftaran Mahasiswa Baru</a>
+                    <a target="_blank" href="http://pmb.unsia.ac.id/">Pendaftaran Mahasiswa Baru</a>
                   </li>
                 </ul>
               </div>
@@ -65,13 +65,13 @@
               <div class="widget footer_widget">
                 <h5 class="footer-title">Program Studi</h5>
                 <ul>
-                  <li><a target="_blank" href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a></li>
-                  <li><a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a></li>
+                  <li><a target="_blank" href="<?= base_url('program-studi/manajemen'); ?>">Manajemen</a></li>
+                  <li><a target="_blank" href="<?= base_url('program-studi/informatika'); ?>">Informatika</a></li>
                   <li>
-                    <a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem Informasi</a>
+                    <a target="_blank" href="<?= base_url('program-studi/sistem_informasi'); ?>">Sistem Informasi</a>
                   </li>
-                  <li><a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a></li>
-                  <li><a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a></li>
+                  <li><a target="_blank" href="<?= base_url('program-studi/akuntansi'); ?>">Akuntansi</a></li>
+                  <li><a target="_blank" href="<?= base_url('program-studi/komunikasi'); ?>">Komunikasi</a></li>
                 </ul>
               </div>
             </div>
@@ -116,8 +116,8 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 text-center">
           <?= date("Y"); ?> | Copyright © Universitas Siber Asia <br />
-          Tema oleh
-          <a target="_blank" href="https://www.templateshub.net">templateshub.net</a>
+          <!-- Tema oleh -->
+          <!-- <a target="_blank" href="https://www.templateshub.net">templateshub.net</a> -->
         </div>
       </div>
     </div>

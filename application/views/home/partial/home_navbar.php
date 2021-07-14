@@ -10,11 +10,11 @@
 						<div class="topbar-left">
 							<ul>
 								<li>
-									<a href="<?= base_url('tentang-unsia/faq') ?>"><i class="fa fa-question-circle"></i>Ask a Question</a>
+									<a href="<?= base_url('home/tentang_unsia/faq') ?>"><i class="fa fa-question-circle"></i>Ask a Question</a>
 								</li>
-								<li>
+								<!-- <li>
 									<a href="mailto:admission@acu.ac.id"><i class="fa fa-envelope-o"></i>admission@acu.ac.id</a>
-								</li>
+								</li> -->
 							</ul>
 						</div>
 					</div>
@@ -91,7 +91,7 @@
 											</ul>
 										</li>
 										<li class="add-menu-right">
-											<a target="_blank" href="https://pmb.unsia.ac.id">
+											<a target="_blank" href="http://pmb.unsia.ac.id">
 												<img src="<?= base_url(); ?>assets/images/adv/adv.jpg" alt="" />
 											</a>
 										</li>
@@ -159,7 +159,7 @@
 											<a href="http://kuliah.unsia.ac.id/">Sistem Pembelajaran Online</a>
 										</li>
 										<li>
-											<a href="https://akademik.unsia.ac.id/">Sistem Informasi Akademik</a>
+											<a href="http://akademik.unsia.ac.id/">Sistem Informasi Akademik</a>
 										</li>
 										<li>
 											<a href="http://cyberlibrary.unsia.ac.id/">Digital Library</a>

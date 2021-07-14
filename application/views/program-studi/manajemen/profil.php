@@ -13,7 +13,7 @@
                     </tr>
                     <tr>
                         <th>Website</th>
-                        <td><a href="<?= base_url('akademik/program-studi/manajemen') ?>">http://unsia.ac.id/akademik/program-studi/manajemen</a>
+                        <td><a href="<?= base_url('program-studi/manajemen') ?>">https://unsia.ac.id/program-studi/manajemen</a>
                         </td>
                     </tr>
                     <tr>
@@ -38,11 +38,11 @@
                     </tr>
                     <tr>
                         <th>Info Admisi</th>
-                        <td><a href="<?= base_url('pendaftaran/info-pendaftaran') ?>" class="badge badge-primary">Klik Disini</a></td>
+                        <td><a href="<?= base_url('home/pendaftaran/info_pendaftaran') ?>" class="badge badge-primary">Klik Disini</a></td>
                     </tr>
                     <tr>
                         <th>Pendaftaran</th>
-                        <td><a href="https://akademik.unsia.ac.id/spmbfront/" class="badge badge-primary">Klik Disini</a></td>
+                        <td><a href="http://pmb.unsia.ac.id" class="badge badge-primary">Klik Disini</a></td>
                     </tr>
                 </table>
             </div>

@@ -60,11 +60,11 @@
 						<div class="topbar-left">
 							<ul>
 								<li>
-									<a href="<?= base_url('tentang-unsia/faq') ?>"><i class="fa fa-question-circle"></i>Ask a Question</a>
+									<a href="<?= base_url('home/tentang_unsia/faq') ?>"><i class="fa fa-question-circle"></i>Ask a Question</a>
 								</li>
-								<li>
+								<!-- <li>
 									<a href="mailto:admission@acu.ac.id"><i class="fa fa-envelope-o"></i>admission@acu.ac.id</a>
-								</li>
+								</li> -->
 							</ul>
 						</div>
 					</div>
@@ -141,7 +141,7 @@
 											</ul>
 										</li>
 										<li class="add-menu-right">
-											<a target="_blank" href="https://pmb.unsia.ac.id">
+											<a target="_blank" href="http://pmb.unsia.ac.id">
 												<img src="<?= base_url(); ?>assets/images/adv/adv.jpg" alt="" />
 											</a>
 										</li>
@@ -200,7 +200,7 @@
 											<a href="http://kuliah.unsia.ac.id/">Sistem Pembelajaran Online</a>
 										</li>
 										<li>
-											<a href="https://akademik.unsia.ac.id/">Sistem Informasi Akademik</a>
+											<a href="http://akademik.unsia.ac.id/">Sistem Informasi Akademik</a>
 										</li>
 										<li>
 											<a href="http://cyberlibrary.unsia.ac.id/">Digital Library</a>
@@ -312,7 +312,7 @@
 									Pendirian Universitas Siber Asia tanggal 24 Agustus 2020.
 								</div>
 								<!-- LAYER NR. 4 -->
-								<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront" id="link-header-daftar" style="display: none"></a>
+								<a target="_blank" href="http://pmb.unsia.ac.id/" id="link-header-daftar" style="display: none"></a>
 								<div onclick="linkDaftar()" class="tp-caption Newspaper-Button rev-btn" id="slide-100-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['400','400','400','420']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bg:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:1px 1px 1px 1px;"}]' data-textAlign="['center','center','center','center']" data-paddingtop="[12,12,12,12]" data-paddingright="[30,35,35,15]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[30,35,35,15]" style="
                       margin-top: 20px;
                       z-index: 8;
@@ -449,7 +449,7 @@
 								</a>
 							</div>
 							<div class="col-lg-4 col-md-4 col-sm-12">
-								<a target="_blank" href="https://akademik.unsia.ac.id/">
+								<a target="_blank" href="http://akademik.unsia.ac.id/">
 									<div class="service-bx m-b0">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/our-services/pic3.jpg" alt="" />
@@ -518,11 +518,11 @@
 												</div>
 											</div>
 											<div class="event-info">
-												<h4 class="event-title"><a href="<?= base_url('arsip/berita/penandatanganan-mou-dekopin'); ?>">Penandatanganan MoU antara Universitas Siber Asia (UNSIA) dengan Dewan Koperasi Indonesia (DEKOPIN)</a></h4>
+												<h4 class="event-title"><a href="<?= base_url('home/arsip/berita/mou_dekopin'); ?>">Penandatanganan MoU antara Universitas Siber Asia (UNSIA) dengan Dewan Koperasi Indonesia (DEKOPIN)</a></h4>
 												<ul class="media-post">
-													<li><a href="#"><i class="fa fa-clock-o"></i> 20 Januari 2020</a>
+													<li><i class="fa fa-clock-o"></i> 20 Januari 2020</a>
 													</li>
-													<li><a href="#"><i class="fa fa-map-marker"></i> -</a>
+													<li><i class="fa fa-map-marker"></i> -</a>
 													</li>
 												</ul>
 												<p>Penandatanganan MoU antara Rektor Universitas Siber Asia (UNSIA), Jang Youn Cho., Ph.D., CPA dengan Ketua Umum Dewan Koperasi Indonesia (DEKOPIN), H.A.M Nurdin Halid, Selasa 19 Januari 2020, untuk peningkatan kapasitas koperasi Indonesia</p>
@@ -543,14 +543,14 @@
 												</div>
 											</div>
 											<div class="event-info">
-												<h4 class="event-title"><a href="<?= base_url('arsip/berita/jambore-nasional-komunikasi'); ?>">Mahasiswa
+												<h4 class="event-title"><a href="<?= base_url('home/arsip/berita/jambore_nasional_komunikasi'); ?>">Mahasiswa
 														Prodi Komunikasi UNSIA Raih Prestasi Gemilang di Jambore
 														Nasional
 														Komunikasi (JNK) ASPIKOM Tahun 2020</a></h4>
 												<ul class="media-post">
-													<li><a href="#"><i class="fa fa-clock-o"></i> -</a>
+													<li><i class="fa fa-clock-o"></i> -</a>
 													</li>
-													<li><a href="#"><i class="fa fa-map-marker"></i> Online</a>
+													<li><i class="fa fa-map-marker"></i> Online</a>
 													</li>
 												</ul>
 												<p>UNSIA menjadi salah satu kampus peserta yang mengirimkan
@@ -636,12 +636,12 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic1.jpg" alt="" />
-											<a target="_blank" href="<?= base_url('akademik/program-studi/manajemen'); ?>" class="btn">Read
+											<a target="_blank" href="<?= base_url('program-studi/manajemen'); ?>" class="btn">Read
 												More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank" href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
+												<a target="_blank" href="<?= base_url('program-studi/manajemen'); ?>">Manajemen</a>
 											</h5>
 										</div>
 									</div>
@@ -650,11 +650,11 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic2.jpg" alt="" />
-											<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>" class="btn">Read More</a>
+											<a target="_blank" href="<?= base_url('program-studi/sistem-informasi'); ?>" class="btn">Read More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
+												<a target="_blank" href="<?= base_url('program-studi/sistem-informasi'); ?>">Sistem
 													Informasi</a>
 											</h5>
 										</div>
@@ -664,12 +664,12 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic3.jpg" alt="" />
-											<a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>" class="btn">Read
+											<a target="_blank" href="<?= base_url('program-studi/informatika'); ?>" class="btn">Read
 												More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a>
+												<a target="_blank" href="<?= base_url('program-studi/informatika'); ?>">Informatika</a>
 											</h5>
 										</div>
 									</div>
@@ -678,12 +678,12 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic4.jpg" alt="" />
-											<a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>" class="btn">Read
+											<a target="_blank" href="<?= base_url('program-studi/komunikasi'); ?>" class="btn">Read
 												More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a>
+												<a target="_blank" href="<?= base_url('program-studi/komunikasi'); ?>">Komunikasi</a>
 											</h5>
 										</div>
 									</div>
@@ -692,12 +692,12 @@
 									<div class="cours-bx">
 										<div class="action-box">
 											<img src="<?= base_url(); ?>assets/images/courses/pic5.jpg" alt="" />
-											<a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>" class="btn">Read
+											<a target="_blank" href="<?= base_url('program-studi/akuntansi'); ?>" class="btn">Read
 												More</a>
 										</div>
 										<div class="info-bx text-center">
 											<h5>
-												<a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
+												<a target="_blank" href="<?= base_url('program-studi/akuntansi'); ?>">Akuntansi</a>
 											</h5>
 										</div>
 									</div>
@@ -771,14 +771,14 @@
 									<div class="info-bx">
 										<ul class="media-post">
 											<li>
-												<a href="#"><i class="fa fa-calendar"></i>5 November 2020</a>
+												<i class="fa fa-calendar"></i>5 November 2020</a>
 											</li>
 											<li>
-												<a href="#"><i class="fa fa-user"></i>By Komunikasi UNSIA</a>
+												<i class="fa fa-user"></i>By Komunikasi UNSIA</a>
 											</li>
 										</ul>
 										<h5 class="post-title">
-											<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>">Dampak
+											<a href="<?= base_url('home/arsip/berita/forum_diskusi_dosen'); ?>">Dampak
 												Omnibus Law Bagi Masa Depan Penyiaran
 												Indonesia</a>
 										</h5>
@@ -789,7 +789,7 @@
 											dan
 										</p>
 										<div class="post-extra">
-											<a href="<?= base_url('arsip/berita/forum-diskusi-dosen'); ?>" class="btn-link">READ MORE</a>
+											<a href="<?= base_url('home/arsip/berita/forum_diskusi_dosen'); ?>" class="btn-link">READ MORE</a>
 										</div>
 									</div>
 								</div>
@@ -802,14 +802,14 @@
 									<div class="info-bx">
 										<ul class="media-post">
 											<li>
-												<a href="#"><i class="fa fa-calendar"></i>31 Oktober 2020</a>
+												<i class="fa fa-calendar"></i>31 Oktober 2020</a>
 											</li>
 											<li>
-												<a href="#"><i class="fa fa-user"></i>By Komunikasi UNSIA</a>
+												<i class="fa fa-user"></i>By Komunikasi UNSIA</a>
 											</li>
 										</ul>
 										<h5 class="post-title">
-											<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>">“Transformation
+											<a href="<?= base_url('home/arsip/berita/transformation_of_digital_communication'); ?>">“Transformation
 												of Digital Communication” Menjadi Tema Webinar Perdana
 												Prodi Komunikasi UNSIA</a>
 										</h5>
@@ -820,7 +820,7 @@
 											“Transformation of Digital Communication”, sebagai refleksi
 										</p>
 										<div class="post-extra">
-											<a href="<?= base_url('arsip/berita/transformation-of-digital-communication'); ?>" class="btn-link">READ MORE</a>
+											<a href="<?= base_url('home/arsip/berita/transformation_of_digital_communication'); ?>" class="btn-link">READ MORE</a>
 										</div>
 									</div>
 								</div>
@@ -833,14 +833,14 @@
 									<div class="info-bx">
 										<ul class="media-post">
 											<li>
-												<a href="#"><i class="fa fa-calendar"></i>22 September 2020</a>
+												<i class="fa fa-calendar"></i>22 September 2020</a>
 											</li>
 											<li>
-												<a href="#"><i class="fa fa-user"></i>By UNSIA</a>
+												<i class="fa fa-user"></i>By UNSIA</a>
 											</li>
 										</ul>
 										<h5 class="post-title">
-											<a href="<?= base_url('arsip/berita/berita-detail'); ?>">Resmikan
+											<a href="<?= base_url('home/arsip/berita/peresmian_unsia'); ?>">Resmikan
 												Universitas Siber Pertama,
 												Wapres Tekankan Pentingnya Unsia Dorong Apk Indonesia</a>
 										</h5>
@@ -850,12 +850,12 @@
 											meresmikan Universitas Siber Asia (UNSIA) secara daring, Selasa (22/9).
 										</p>
 										<div class="post-extra">
-											<a href="<?= base_url('arsip/berita/berita-detail'); ?>" class="btn-link">READ MORE</a>
+											<a href="<?= base_url('home/arsip/berita/peresmian_unsia'); ?>" class="btn-link">READ MORE</a>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="item">
+							<!-- <div class="item">
 								<div class="recent-news">
 									<div class="action-box">
 										<img src="<?= base_url('assets/images/berita/pic1.jpg') ?>" alt="" />
@@ -863,10 +863,10 @@
 									<div class="info-bx">
 										<ul class="media-post">
 											<li>
-												<a href="#"><i class="fa fa-calendar"></i>4 September 2020</a>
+												<i class="fa fa-calendar"></i>4 September 2020</a>
 											</li>
 											<li>
-												<a href="#"><i class="fa fa-user"></i>By UNSIA</a>
+												<i class="fa fa-user"></i>By UNSIA</a>
 											</li>
 										</ul>
 										<h5 class="post-title">
@@ -882,8 +882,8 @@
 										</div>
 									</div>
 								</div>
-							</div>
-							<div class="item">
+							</div> -->
+							<!-- <div class="item">
 								<div class="recent-news">
 									<div class="action-box">
 										<img src="<?= base_url('assets/images/berita/pic2.jpg') ?>" alt="" />
@@ -912,8 +912,8 @@
 										</div>
 									</div>
 								</div>
-							</div>
-							<div class="item">
+							</div> -->
+							<!-- <div class="item">
 								<div class="recent-news">
 									<div class="action-box">
 										<img src="<?= base_url('assets/images/berita/pic3.jpg') ?>" alt="" />
@@ -941,7 +941,7 @@
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
@@ -1039,7 +1039,7 @@
 								</ul>
 							</div>
 							<div class="pt-btn-join">
-								<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront/" class="btn">Daftar
+								<a target="_blank" href="http://pmb.unsia.ac.id/" class="btn">Daftar
 									Sekarang</a>
 							</div>
 						</div>
@@ -1066,7 +1066,7 @@
 										<h5 class="footer-title">Layanan</h5>
 										<ul>
 											<li>
-												<a target="_blank" href="https://akademik.unsia.ac.id/">Sistem Informasi
+												<a target="_blank" href="http://akademik.unsia.ac.id/">Sistem Informasi
 													Akademik</a>
 											</li>
 											<li>
@@ -1078,7 +1078,7 @@
 													Pembelajaran Online</a>
 											</li>
 											<li>
-												<a target="_blank" href="https://akademik.unsia.ac.id/spmbfront/">Pendaftaran Mahasiswa
+												<a target="_blank" href="http://pmb.unsia.ac.id/">Pendaftaran Mahasiswa
 													Baru</a>
 											</li>
 										</ul>
@@ -1088,17 +1088,17 @@
 									<div class="widget footer_widget">
 										<h5 class="footer-title">Program Studi</h5>
 										<ul>
-											<li><a target="_blank" href="<?= base_url('akademik/program-studi/manajemen'); ?>">Manajemen</a>
+											<li><a target="_blank" href="<?= base_url('program-studi/manajemen'); ?>">Manajemen</a>
 											</li>
-											<li><a target="_blank" href="<?= base_url('akademik/program-studi/informatika'); ?>">Informatika</a>
+											<li><a target="_blank" href="<?= base_url('program-studi/informatika'); ?>">Informatika</a>
 											</li>
 											<li>
-												<a target="_blank" href="<?= base_url('akademik/program-studi/sistem-informasi'); ?>">Sistem
+												<a target="_blank" href="<?= base_url('program-studi/sistem-informasi'); ?>">Sistem
 													Informasi</a>
 											</li>
-											<li><a target="_blank" href="<?= base_url('akademik/program-studi/akuntansi'); ?>">Akuntansi</a>
+											<li><a target="_blank" href="<?= base_url('program-studi/akuntansi'); ?>">Akuntansi</a>
 											</li>
-											<li><a target="_blank" href="<?= base_url('akademik/program-studi/komunikasi'); ?>">Komunikasi</a>
+											<li><a target="_blank" href="<?= base_url('program-studi/komunikasi'); ?>">Komunikasi</a>
 											</li>
 										</ul>
 									</div>
@@ -1195,6 +1195,15 @@
 		function linkDaftar() {
 			document.getElementById("link-header-daftar").click();
 		}
+	</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177377008-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-177377008-1');
 	</script>
 	<script>
 		const players = Array.from(document.querySelectorAll(".js-player")).map(
